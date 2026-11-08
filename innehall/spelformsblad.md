@@ -3,7 +3,7 @@ titel: "Spelformsblad – Moälvsmodellen"
 ---
 
 *Moälvens IBK · utkast · en sida per nivå*  
-En grov sammanfattning av spelutbildningen på varje nivå: spelidé, fokus, spelform och röd tråd. Detaljerna finns i nivådokumenten och i Moälvens spelutvecklingsplan. Svart nivå läggs till när den byggs ut.
+En grov sammanfattning av spelutbildningen på varje nivå: spelidé, fokus, spelform och röd tråd. Detaljerna finns i nivådokumenten och i Moälvens spelutvecklingsplan.
 
 ## Ljusgrön nivå (0–6 år): Lek och rörelse
 **Rekommenderade kullar {{sasong}}:** födda {{nivakullar:ljusgron}}.  

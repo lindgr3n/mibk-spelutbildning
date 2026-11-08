@@ -8,7 +8,7 @@ titel: "Moälvens spelutvecklingsplan"
 
 ## 1. Inledning
 ### Vad är det här?
-Det här är Moälvens plan för hur vi tränar och utvecklar våra spelare, från de allra yngsta på ljusgrön nivå och upp genom grön, blå och röd nivå, och vidare till svart nivå. Svart nivå bygger på Svensk Innebandys utvecklingsmodell (SIU) och heter "Träna för att tävla". Den gäller junior och senior, efter röd nivå [[2]](#källor). Planen visar vad vi gör, hur vi gör det och varför. Svart nivå byggs ut när vi är klara med de yngre nivåerna.
+Det här är vår plan för hur vi tränar och utvecklar våra spelare i Moälvens IBK, från de allra yngsta på ljusgrön nivå och upp genom grön, blå och röd nivå, och vidare till svart nivå. Planen visar vad vi gör, hur vi gör det och varför.
 
 Den är skriven för tränare som vill ha en gemensam röd tråd, och för föräldrar som vill veta vad barnen är med om.
 
@@ -33,7 +33,7 @@ Ovanpå det lägger vi vår egen röda tråd: en gemensam spelidé och ett gemen
 ### Planen består av tre delar
 1. Huvuddokumentet (nu det här dokumentet, Moälvens spelutvecklingsplan): den röda tråden, spelidén, nivåerna och de gemensamma ramarna. Ordlistan hör till huvuddokumentet (dokumentet *Ordlista – Moälvsmodellen*).  
 2. Övningsbank (separat dokument): alla övningar och färdiga träningspass, sorterade efter nivå och kopplade till Moälvens spelidé (dokumentet *Övningsbank – Moälvsmodellen*).  
-3. Spelformsblad (en A4 per nivå): en grov, övergripande sammanfattning av hela spelutbildningen på nivån — spelidé, fokus, spelform och röd tråd. Görs för ljusgrön, grön, blå och röd, och svart när den byggs ut (dokumentet [Spelformsblad – Moälvsmodellen](/spelformsblad/)).
+3. Spelformsblad (en A4 per nivå): en grov, övergripande sammanfattning av hela spelutbildningen på nivån — spelidé, fokus, spelform och röd tråd. Görs för ljusgrön, grön, blå och röd (dokumentet [Spelformsblad – Moälvsmodellen](/spelformsblad/)).
 
 Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 
@@ -41,7 +41,7 @@ Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 * Grön nivå (6–9 år): Jag och bollen  
 * Blå nivå (9–12 år): Jag, du och bollen  
 * Röd nivå (12–16 år): Jag, du och spelet  
-* Svart nivå (junior och senior): Träna för att tävla (förbundets nivånamn, byggs ut senare)
+* Svart nivå (junior och senior): Träna för att tävla (förbundets nivånamn)
 
 ---
 
@@ -173,7 +173,7 @@ Prioriterade fokusområden per nivå:
 ---
 
 ## 3. Nivåerna
-Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, fokus, förbundets rekommendationer, spelform, vad spelaren bör kunna och exempelövningar – står i respektive nivådokument. Vi följer förbundets färger och nivånamn [[2]](#källor). Planen omfattar ljusgrön, grön, blå och röd nivå. Svart nivå (junior och senior, förbundets namn "Träna för att tävla") finns med i översikten och sammanfattas kort nedan, men byggs ut senare. Undertitlarna visar hur spelet växer: från bollen, till kompisen, till hela spelet.
+Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, fokus, förbundets rekommendationer, spelform, vad spelaren bör kunna och exempelövningar – står i respektive nivådokument. Vi följer förbundets färger och nivånamn [[2]](#källor). Planen omfattar ljusgrön, grön, blå och röd nivå. Svart nivå (junior och senior, förbundets namn "Träna för att tävla") finns med i översikten och sammanfattas kort nedan. Undertitlarna visar hur spelet växer: från bollen, till kompisen, till hela spelet.
 
 | Nivå | Ålder | Rekommenderade kullar {{sasong}} | Förbundets namn | Moälvens undertitel | Spelform | Dokument |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -219,7 +219,6 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 * Matchspel blir mer centralt, men prestationsmålen ska fortfarande väga tungt i förhållande till resultatmålen [[2]](#källor).  
 * Träningsmängden balanseras mot återhämtning för att minska skaderisken, och spelarna lär sig mer om träning, återhämtning, mat och dryck [[2]](#källor).  
 * Spelform: 5 mot 5 med målvakt enligt Regelhandboken. Juniorserierna i Västernorrland spelar 3 × 20 minuter effektiv tid (lokala förutsättningar 2026/27). Fokusområden: inga från förbundet. Förbundets spel- och spelarutvecklingsplaner finns för grön, blå och röd nivå [[1]](#källor).  
-* Tränarmaterial för svart nivå: kommer (byggs ut senare).
 
 ---
 
