@@ -4,7 +4,7 @@ titel: "Ordlista – Moälvsmodellen (utkast v3, 2026-10-18)"
 
 *Del av Moälvsmodellen – Moälvens IBK:s spel- och spelarutvecklingsplan (arbetsnamn). Arbetsmaterial, inte beslutat.* *Dokumentstruktur (beslutad): Moälvsmodellen består av huvuddokumentet, en separat övningsbank och en kortguide på en A4 per nivå. Ordlistan hör till huvuddokumentet. Övningsbanken och kortguiderna använder samma ord.*
 
-> Syfte: ett gemensamt språk för alla tränare i Moälven. Förbundet skriver: "Skapa ett gemensamt språk i föreningen … Använd om möjligt samma begrepp i alla lag (t.ex. 'speluppbyggnad', 'komma till avslut') – åtminstone från blå nivå" [SIU-bilder]. På röd nivå: "Att skapa ett gemensamt språk blir viktigt" [SIU-R].  
+> Syfte: ett gemensamt språk för alla tränare i Moälvens IBK. Förbundet skriver: "Skapa ett gemensamt språk i föreningen … Använd om möjligt samma begrepp i alla lag (t.ex. 'speluppbyggnad', 'komma till avslut') – åtminstone från blå nivå" [SIU-bilder]. På röd nivå: "Att skapa ett gemensamt språk blir viktigt" [SIU-R].  
 >   
 > **Regler för listan:**  
 > 
@@ -60,7 +60,7 @@ titel: "Ordlista – Moälvsmodellen (utkast v3, 2026-10-18)"
 | Ta bollen framåt (fokusområde 3) | "I anfallsspelets alla delar ta bollen mot motståndarnas mål i syfte att skapa möjlighet till målchans." Obs: definitionssidan i planerna ger en annan text ("Genom passningar sätta medspelare i bättre situationer än sin egen"): oklart i källan. | Grön | "Snabbt framåt med bollen!" *(Moälven)* | [SIBF-B/R temasida 3; SIBF-B/R definitionssida] | M1 |
 | Spelbar / spelbarhet (fokusområde 4) | Att vilja, våga och kunna bli spelbar när en medspelare har bollen. | Grön | "Visa klubban!", "Spring dit ingen är!" *(Moälven)* | [SIBF-G: "Träna på att vara spelbar"; SIBF-B/R temasida 4; SIU-Spelet] | M3 |
 | Passningsskugga | Att stå still bakom en motståndare, så att man inte kan få bollen. Det ska vi undvika. | Grön | "Stå inte gömd bakom någon!" *(Moälven)* | [SIBF-G: "inte stå still bakom en motståndare ('passningsskugga')"; SIBF-B] | M3 |
-| Vinna insida (fokusområde 5) | "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar". Gäller både anfall och försvar. Obs: definitionssidan i förbundets plan har en annan text; vi följer temasidan. I Moälven: den offensiva delen syns i M2 och M3, och den defensiva delen heter U1 *Stäng mitten* (Moälvens ord). | Röd (förbundet lyfter fokusområde 5 på röd) | – | [SIBF-R temasida 5; SIBF-R "1- Duellspel med boll, 5- Vinna insida"] | M2, M3 (anfall) · U1 (försvar) |
+| Vinna insida (fokusområde 5) | "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar". Gäller både anfall och försvar. Obs: definitionssidan i förbundets plan har en annan text; vi följer temasidan. Hos oss: den offensiva delen syns i M2 och M3, och den defensiva delen heter U1 *Stäng mitten* (Moälvens ord). | Röd (förbundet lyfter fokusområde 5 på röd) | – | [SIBF-R temasida 5; SIBF-R "1- Duellspel med boll, 5- Vinna insida"] | M2, M3 (anfall) · U1 (försvar) |
 | Passningsspel (fokusområde 6) | Genom passningar sätta andra i bättre situationer än sig själv. Obs: definitionssidan ger en annan text: oklart i källan. | Grön | "Passa till den som är fri!" *(Moälven)* | [SIBF-R temasida 6; SIBF-G/B/R fokusområde 6] | M1, M2 |
 | Avslut / komma till avslut | Skott eller annat försök att göra mål; slutmålet för anfallsspelet. | Blå (grön: "skjuta") | "Skjut när du kan!" | [SIU-Spelet; SIU-bilder; SIU-S/guld] | – |
 | Rättvänd / felvänd | Rättvänd: kroppen vänd mot motståndarnas mål och planen. Felvänd: ryggen åt det hållet. | Blå | – | [SIU-Spelet: "hamna rättvänd emot planen"; SIBF-B: "ta emot rättvänd", "Få motståndarna felvända"; SIBF-R: "Rättvänd mottagning"] | M1, M3 |
@@ -101,7 +101,7 @@ titel: "Ordlista – Moälvsmodellen (utkast v3, 2026-10-18)"
 | Skära passningsvägar (eller löpvägar) | Ställa sig i vägen för passningen eller löpningen. | Blå | – | [SIU-B; SIU-R; ÖB Avslut 2B] | U1 |
 | Täcka skott / täcka ett avslut | Ställa sig i skottlinjen och blockera. | Blå | – | [SIU-B; SIU-R; SIBF-R fokusområde 8] | U1 |
 | Dubblingar, duellspel (i försvar) | Taktiska principer för försvar i en av övningsbankens övningar. Definieras inte: oklart i källan. | Röd [ATT BESLUTA] | – | [ÖB Etablerat anfall & försvar C] | U3 |
-| Första försvarsled | Motståndarlagets främsta försvarare. Uppspel = att ta sig förbi den. | Svart (används inte i Moälven före svart) | – | [SIU-S; SIU-guld] | – |
+| Första försvarsled | Motståndarlagets främsta försvarare. Uppspel = att ta sig förbi den. | Svart (används inte hos oss före svart) | – | [SIU-S; SIU-guld] | – |
 | Spelintensitet | Hur mycket och hur snabbt laget vill ta tillbaka bollen. | Svart | – | [SIU-S] | – |
 
 ## 4. Spelfaser

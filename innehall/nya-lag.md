@@ -4,13 +4,13 @@ titel: "Uppstart av nya lag och mentorrutin – utkast"
 
 *Moälvens IBK · utkast · arbetsmaterial, inte beslutat*
 
-> **Moälvens förslag** betyder att innehållet är vårt eget. **[ATT BESLUTA]** betyder att Moälven behöver bestämma. Allt från förbundet har källa.
+> **Moälvens förslag** betyder att innehållet är vårt eget. **[ATT BESLUTA]** betyder att klubben behöver bestämma. Allt från förbundet har källa.
 
 ---
 
 ## 1. Bakgrund
 
-Moälven startar nya lag varje säsong. De två yngsta grupperna ligger på **två olika nivåer** och behöver olika mycket stöd. **Ljusgrön är en egen nivå, precis som hos förbundet** (Moälvens beslut).
+Vi startar nya lag varje säsong. De två yngsta grupperna ligger på **två olika nivåer** och behöver olika mycket stöd. **Ljusgrön är en egen nivå, precis som hos förbundet** (Moälvens beslut).
 
 |  | Ljusgrön (ca 5–7 år) | Grön första året (ca 7–8 år) |
 | :---- | :---- | :---- |

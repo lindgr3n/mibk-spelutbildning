@@ -5,7 +5,7 @@ niva: "gron"
 
 **Moälvsmodellen · Tränarmaterial för grön nivå · utkast v6, arbetsversion**
 
-> Det här är materialet för dig som leder ett grönt lag i Moälven. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för grön nivå (2025), handboken för nationella spelformer och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Moälvsmodellen består av tre delar: huvuddokumentet *Moälvsmodellen*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är grön nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Moälvsmodellen. Vi kör få övningar länge: två per pass, där en byts var fjärde vecka och varje övning tar ett nytt steg varje vecka (se 5), och kortguiden för grön görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras.
+> Det här är materialet för dig som leder ett grönt lag i Moälvens IBK. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för grön nivå (2025), handboken för nationella spelformer och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Moälvsmodellen består av tre delar: huvuddokumentet *Moälvsmodellen*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är grön nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Moälvsmodellen. Vi kör få övningar länge: två per pass, där en byts var fjärde vecka och varje övning tar ett nytt steg varje vecka (se 5), och kortguiden för grön görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras.
 
 ---
 

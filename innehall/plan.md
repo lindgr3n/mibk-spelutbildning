@@ -8,7 +8,7 @@ titel: "Moälvens spelutvecklingsplan"
 
 ## 1. Inledning
 ### Vad är det här?
-Det här är Moälvens plan för hur vi tränar och utvecklar våra spelare, från de allra yngsta på ljusgrön nivå och upp genom grön, blå och röd nivå, och vidare till svart nivå. Svart nivå bygger på Svensk Innebandys utvecklingsmodell (SIU) och heter "Träna för att tävla". Den gäller junior och senior, efter röd nivå [[2]](#källor). Planen visar vad vi gör, hur vi gör det och varför. Svart nivå byggs ut när vi är klara med de yngre nivåerna.
+Det här är Moälvens plan för hur vi tränar och utvecklar våra spelare, från de allra yngsta på ljusgrön nivå och upp genom grön, blå och röd nivå. Planen visar vad vi gör, hur vi gör det och varför.
 
 Den är skriven för tränare som vill ha en gemensam röd tråd, och för föräldrar som vill veta vad barnen är med om.
 
@@ -18,10 +18,10 @@ Vi har inte hittat på något eget system, utan bygger på Svensk Innebandys mat
 - Svensk Innebandys spel- och spelarutvecklingsplan, för grön, blå och röd nivå [[1]](#källor).  
 - SIU, Svensk Innebandys Utvecklingsmodell. Den delar in spelarna i nivåer efter var de är i sin utveckling, inte bara efter födelseår [[2]](#källor).
 
-Ovanpå det lägger vi Moälvens egen röda tråd: en gemensam spelidé och ett gemensamt språk som följer med spelarna hela vägen.
+Ovanpå det lägger vi vår egen röda tråd: en gemensam spelidé och ett gemensamt språk som följer med spelarna hela vägen.
 
 ### Varför gör vi det här?
-- För att det ska vara roligt att spela innebandy i Moälven, länge.  
+- För att det ska vara roligt att spela innebandy hos oss, länge.  
 - För att utveckla varje barn, i sin egen takt.  
 - För att alla tränare ska dra åt samma håll, även när tränare byts ut.  
 - För att spelarna ska känna igen sig när de går från en nivå till nästa.
@@ -46,7 +46,7 @@ Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 ---
 
 ## 2. Grundprinciper
-Det här gäller alla lag i Moälven. Det är grunden för allt annat i planen.
+Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 
 ### Alla får vara med
 - Alla som vill spela innebandy är välkomna.  
@@ -92,7 +92,7 @@ Det här gäller alla lag i Moälven. Det är grunden för allt annat i planen.
 - Senare på blå nivå och på röd nivå blir det några få som tränar mer som målvakt. På svart nivå specialiserar sig målvakterna. Ingen ska bli "målvakten" för tidigt.
 
 ### Gemensam spelidé
-Moälvens spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och växer med spelarna.
+Vår spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och växer med spelarna.
 
 Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi mitten och håller spelet på utsidan – och vi springer hem snabbt och kommer nära.
 
@@ -162,7 +162,7 @@ Prioriterade fokusområden per nivå:
 - Utbildning: alla ledare som står i matchprotokollet på grön, blå och röd nivå ska ha giltig utbildning, alltså grundutbildning och Steg 1 för nivån. Det är Svensk Innebandys utbildningskrav från säsongen 2026/27 [[8]](#källor).
 
 ### Föräldrar
-- Förbundet skriver: *"Ni ledare, spelare, matchledare/domare och föräldrar är avgörande för att innebandyn ska vara trygg och utvecklande för barnen och ungdomarna." [[9]](#källor)* Vi i Moälven vill ha en trygg och bra matchmiljö för våra barn, ledare och domare.  
+- Förbundet skriver: *"Ni ledare, spelare, matchledare/domare och föräldrar är avgörande för att innebandyn ska vara trygg och utvecklande för barnen och ungdomarna." [[9]](#källor)* Vi vill ha en trygg och bra matchmiljö för våra barn, ledare och domare.  
 - Så kan du som förälder hjälpa till:  
   - Heja på alla barn, i båda lagen.  
   - Låt tränarna coacha och domarna döma.  
