@@ -1,0 +1,86 @@
+---
+import '@fontsource/roboto-slab/latin-700.css';
+import '@fontsource/source-sans-3/latin-700.css';
+import '@fontsource/source-sans-3/latin-400.css';
+import '@fontsource/source-sans-3/latin-600.css';
+import '../styles/global.css';
+import '../styles/components.css';
+import '../styles/spelutbildning.css';
+
+interface Props {
+	title: string;
+	description?: string;
+	variant?: 'home';
+}
+
+const { title, description = 'Moälvens IBK:s spelutbildning: plan, nivåer, övningar och ordlista.', variant } = Astro.props;
+const fullTitle = Astro.url.pathname === '/' ? title : `${title} – Moälvens spelutbildning`;
+
+const menu = [
+	{ label: 'Hem', href: '/' },
+	{ label: 'Nivåer', href: '/nivaer/' },
+	{ label: 'Övningar', href: '/ovningar/' },
+	{ label: 'Planen', href: '/plan/' },
+	{ label: 'Ordlista', href: '/ordlista/' },
+];
+
+const path = Astro.url.pathname;
+const isCurrent = (href: string) => (href === '/' ? path === '/' : path.startsWith(href));
+---
+
+<!doctype html>
+<html lang="sv">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content={description} />
+		<meta name="theme-color" content="#1c1e21" />
+		<link rel="icon" href="/favicon.ico" sizes="48x48" />
+		<link rel="apple-touch-icon" href="/images/brand/moalvens-ibk-logo.png" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{fullTitle}</title>
+	</head>
+	<body>
+		<a class="skip-link" href="#innehall">Hoppa till innehållet</a>
+		<header class:list={['site-header', { 'site-header-home': variant === 'home' }]}>
+			<div class="header-inner">
+				<a class="brand" href="/">
+					<img src="/images/brand/moalvens-ibk-logo.png" alt="Moälvens IBK, till startsidan" width="112" height="112" />
+					{
+						variant === 'home' && (
+							<span class="wordmark" aria-hidden="true">
+								<span class="wordmark-name">Moälvens IBK</span>
+								<span class="wordmark-sub">Spelutbildning</span>
+							</span>
+						)
+					}
+				</a>
+				<nav aria-label="Huvudmeny">
+					<ul>
+						{
+							menu.map((item) => (
+								<li>
+									<a href={item.href} aria-current={isCurrent(item.href) ? 'page' : undefined}>
+										{item.label}
+									</a>
+								</li>
+							))
+						}
+					</ul>
+				</nav>
+			</div>
+		</header>
+		<main id="innehall" tabindex="-1">
+			<slot name="hero" />
+			<div class="wrap content">
+				<slot />
+			</div>
+		</main>
+		<footer class="site-footer">
+			<div class="wrap footer-inner">
+				<span>Moälvens IBK · Spelutbildning</span>
+				<a href="https://github.com/lindgr3n/mibk-spelutbildning">Innehållet på GitHub</a>
+			</div>
+		</footer>
+	</body>
+</html>

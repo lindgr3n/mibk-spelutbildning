@@ -1,0 +1,11 @@
+---
+import { getEntry, render } from 'astro:content';
+import DocPage from '../components/DocPage.astro';
+
+const doc = (await getEntry('dokument', 'nya-lag'))!;
+const { Content, headings } = await render(doc);
+---
+
+<DocPage title={doc.data.titel} eyebrow="För ledare" headings={headings} editPath="innehall/nya-lag.md">
+	<Content />
+</DocPage>

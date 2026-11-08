@@ -1,0 +1,448 @@
+/* Tillägg för spelutbildningen: dokumenttext, innehållsförteckning och övningskort. Bygger på ledarguidens tokens. */
+:root {
+	--level-black: #050708;
+}
+
+.footer-inner {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 0.5rem 1.5rem;
+}
+
+.footer-inner a {
+	color: #fff;
+}
+
+.hero-detail h1 .lvl-sub {
+	color: #fff;
+}
+
+.level-card-title {
+	margin: 0;
+	font-size: clamp(2rem, 3.2vw, 2.5rem);
+	line-height: 1.05;
+}
+
+/* ---- Dokument ---- */
+.doc-layout {
+	display: grid;
+	gap: 1.5rem;
+	padding-block: 1rem 2rem;
+}
+
+@media (min-width: 64rem) {
+	.doc-layout.has-toc {
+		grid-template-columns: 16rem minmax(0, 1fr);
+		align-items: start;
+	}
+
+	.toc {
+		position: sticky;
+		top: 1rem;
+		max-height: calc(100vh - 2rem);
+		overflow: auto;
+	}
+}
+
+.toc {
+	padding: 1rem 1.25rem;
+	font-size: 0.9375rem;
+}
+
+.toc summary {
+	font-weight: 700;
+	cursor: pointer;
+}
+
+.toc ul {
+	margin: 0.5rem 0 0;
+	padding-left: 1.1rem;
+}
+
+.toc li {
+	padding-block: 0.15rem;
+}
+
+main .toc ul > li > a {
+	display: inline;
+	min-height: 0;
+	color: var(--ink);
+}
+
+.prose {
+	min-width: 0;
+	max-width: 52rem;
+}
+
+.prose h2 {
+	margin: 2.25rem 0 0.75rem;
+	padding: 0.45rem 0.9rem;
+	font-size: 1.45rem;
+	color: #fff;
+	background: var(--header);
+	border-left: 6px solid var(--accent, var(--orange));
+	border-radius: 4px;
+	scroll-margin-top: 1rem;
+}
+
+.prose h3 {
+	margin: 1.75rem 0 0.5rem;
+	font-size: 1.2rem;
+	color: var(--orange-ink);
+	scroll-margin-top: 1rem;
+}
+
+.prose h4 {
+	margin: 1.25rem 0 0.4rem;
+	font-size: 1.05rem;
+}
+
+.prose > :first-child {
+	margin-top: 0;
+}
+
+.prose-gron {
+	--accent: var(--level-green);
+}
+
+.prose-bla {
+	--accent: var(--level-blue);
+}
+
+.prose-rod {
+	--accent: var(--level-red);
+}
+
+.prose p,
+.prose li {
+	max-width: 70ch;
+}
+
+.prose li {
+	margin-block: 0.2rem;
+}
+
+main .prose li > a {
+	display: inline;
+	min-height: 0;
+}
+
+.prose blockquote {
+	margin: 1rem 0;
+	padding: 0.75rem 1.1rem;
+	background: #fde7d3;
+	border-left: 4px solid var(--orange);
+	border-radius: 0 6px 6px 0;
+}
+
+.prose blockquote > :first-child {
+	margin-top: 0;
+}
+
+.prose blockquote > :last-child {
+	margin-bottom: 0;
+}
+
+.prose hr {
+	border: 0;
+	border-top: 1px solid var(--line);
+	margin: 2rem 0;
+}
+
+.prose table {
+	display: block;
+	width: max-content;
+	max-width: 100%;
+	overflow-x: auto;
+	margin: 1rem 0;
+	border-collapse: collapse;
+	font-size: 0.9375rem;
+	background: var(--card);
+	border: 1px solid var(--card-line);
+	border-radius: 6px;
+}
+
+.prose th {
+	background: var(--header);
+	color: #fff;
+	text-align: left;
+	font-weight: 700;
+}
+
+.prose th,
+.prose td {
+	padding: 0.5rem 0.75rem;
+	vertical-align: top;
+	border-bottom: 1px solid var(--card-line);
+	min-width: 7rem;
+}
+
+.prose tbody tr:nth-child(even) td {
+	background: #fdf1e6;
+}
+
+.prose td:first-child {
+	font-weight: 600;
+}
+
+.edit-link {
+	margin-top: 2.5rem;
+	font-size: 0.9375rem;
+}
+
+.edit-link a {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.35rem;
+	color: var(--muted);
+}
+
+.quick-links {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.6rem;
+	margin-bottom: 1.5rem;
+}
+
+/* ---- Övningsbank ---- */
+.filter-bar {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.5rem;
+	margin: 1rem 0;
+}
+
+.filter-title {
+	margin: 0 1rem 0 0;
+	font-size: 1.5rem;
+}
+
+.chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.4rem;
+	min-height: 2.75rem;
+	padding: 0.4rem 1rem;
+	border: 2px solid var(--card-line);
+	border-radius: 999px;
+	background: #fff;
+	color: var(--ink);
+	font: inherit;
+	font-weight: 600;
+	cursor: pointer;
+}
+
+.chip[aria-pressed='true'] {
+	background: var(--header);
+	border-color: var(--header);
+	color: #fff;
+}
+
+.chip-gron[aria-pressed='true'] {
+	background: var(--level-green);
+	border-color: var(--level-green);
+}
+
+.chip-bla[aria-pressed='true'] {
+	background: var(--level-blue);
+	border-color: var(--level-blue);
+}
+
+.chip-rod[aria-pressed='true'] {
+	background: var(--level-red);
+	border-color: var(--level-red);
+}
+
+.chip-check input {
+	width: 1.1rem;
+	height: 1.1rem;
+	accent-color: var(--orange);
+}
+
+.exercise-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+	gap: 0.75rem;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.exercise-card[hidden] {
+	display: none;
+}
+
+main ul.exercise-grid > li.exercise-card > a {
+	display: grid;
+	gap: 0.2rem;
+	height: 100%;
+	min-height: 0;
+	padding: 1rem 1.1rem 1rem 1.25rem;
+	background: var(--card);
+	border: 1px solid var(--card-line);
+	border-left: 6px solid var(--lvl, var(--orange));
+	border-radius: 8px;
+	color: var(--ink);
+	text-decoration: none;
+	align-content: start;
+}
+
+main ul.exercise-grid > li.exercise-card > a:hover {
+	box-shadow: 0 4px 14px rgb(0 0 0 / 0.08);
+}
+
+.ex-gron {
+	--lvl: var(--level-green);
+}
+
+.ex-bla {
+	--lvl: var(--level-blue);
+}
+
+.ex-rod {
+	--lvl: var(--level-red);
+}
+
+.ex-nr {
+	font-family: var(--font-slab);
+	font-weight: 700;
+	font-size: 1.1rem;
+	color: var(--lvl);
+}
+
+.ex-name {
+	font-weight: 700;
+	font-size: 1.125rem;
+	line-height: 1.25;
+}
+
+.ex-meta,
+.ex-role {
+	font-size: 0.875rem;
+	color: var(--muted);
+}
+
+.ex-tags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.3rem;
+	margin-top: 0.35rem;
+}
+
+.tag {
+	padding: 0.05rem 0.5rem;
+	border-radius: 4px;
+	background: #efefeb;
+	font-size: 0.8125rem;
+	font-weight: 600;
+}
+
+.tag-gron {
+	background: var(--level-green);
+	color: #fff;
+}
+
+.tag-bla {
+	background: var(--level-blue);
+	color: #fff;
+}
+
+.tag-rod {
+	background: var(--level-red);
+	color: #fff;
+}
+
+.tag-muted {
+	background: transparent;
+	border: 1px dashed var(--muted);
+}
+
+.bank-intro {
+	margin-top: 3rem;
+}
+
+.ex-facts {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+	gap: 0.75rem 1.5rem;
+	margin: 0 0 1.5rem;
+}
+
+.ex-facts dt {
+	font-size: 0.75rem;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--muted);
+}
+
+.ex-facts dd {
+	margin: 0;
+	font-weight: 600;
+}
+
+.pager {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	gap: 1rem;
+	margin-top: 2.5rem;
+	padding-top: 1rem;
+	border-top: 1px solid var(--line);
+	font-weight: 600;
+}
+
+@media print {
+	.site-header,
+	.site-footer,
+	.toc,
+	.hero-image,
+	.quick-links,
+	.pager,
+	.edit-link {
+		display: none !important;
+	}
+
+	.hero {
+		background: none;
+		color: #000;
+	}
+
+	.hero::before {
+		display: none;
+	}
+
+	.prose h2 {
+		color: #000;
+		background: none;
+		border-left-width: 4px;
+	}
+}
+
+/* Långa sammansatta ord (t.ex. spelutvecklingsplanen) får brytas i mobil */
+.hero h1 {
+	overflow-wrap: anywhere;
+	hyphens: auto;
+}
+
+.toc ul {
+	display: block;
+	list-style: none;
+	padding-left: 0;
+}
+
+/* Innehållsförteckningen ligger i en nav, så huvudmenyns länkstil nollställs */
+main .toc ul > li > a {
+	padding: 0;
+	border: 0;
+}
+
+/* Långa webbadresser i källistor ska inte ge sidledsscroll i mobil */
+.prose {
+	overflow-wrap: break-word;
+}
+
+.prose a {
+	overflow-wrap: anywhere;
+}

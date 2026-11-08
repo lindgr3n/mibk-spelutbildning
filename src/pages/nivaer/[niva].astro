@@ -1,0 +1,34 @@
+---
+import { getCollection, render } from 'astro:content';
+import DocPage from '../../components/DocPage.astro';
+import Icon from '../../components/Icon.astro';
+import { nivaer } from '../../lib/nivaer';
+
+export async function getStaticPaths() {
+	const docs = await getCollection('dokument', (d) => d.data.niva);
+	return docs.map((doc) => ({ params: { niva: doc.data.niva }, props: { doc } }));
+}
+
+const { doc } = Astro.props;
+const n = nivaer.find((x) => x.key === doc.data.niva)!;
+const { Content, headings } = await render(doc);
+const pass = (await getCollection('pass')).find((p) => p.data.niva === n.key);
+const kort = (await getCollection('ovningar')).filter((o) => o.data.niva === n.key).sort((a, b) => a.data.nr - b.data.nr);
+---
+
+<DocPage
+	title={n.namn}
+	sub={n.undertitel}
+	accent={n.key}
+	eyebrow={`Tränarmaterial · ${n.alder}`}
+	headings={headings}
+	back={{ href: '/nivaer/', label: 'Alla nivåer' }}
+	editPath={`innehall/${doc.id}.md`}
+>
+	<div class="quick-links">
+		<a class="btn-outline" href={`/ovningar/?niva=${n.key}`}><Icon name="court" size={18} /> {kort.length} övningskort</a>
+		{pass && <a class="btn-outline" href={`/pass/${pass.id}/`}><Icon name="clock" size={18} /> Exempelpass</a>}
+		<a class="btn-outline" href="/spelformsblad/"><Icon name="doc" size={18} /> Spelformsblad</a>
+	</div>
+	<Content />
+</DocPage>

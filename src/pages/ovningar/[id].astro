@@ -1,0 +1,39 @@
+---
+import { getCollection, render } from 'astro:content';
+import DocPage from '../../components/DocPage.astro';
+import { nivaNamn } from '../../lib/nivaer';
+
+export async function getStaticPaths() {
+	const kort = (await getCollection('ovningar')).sort((a, b) => a.data.nr - b.data.nr);
+	return kort.map((k, i) => ({
+		params: { id: `o${k.data.nr}` },
+		props: { k, prev: kort[i - 1], next: kort[i + 1] },
+	}));
+}
+
+const { k, prev, next } = Astro.props;
+const { Content } = await render(k);
+const d = k.data;
+---
+
+<DocPage
+	title={`Ö${d.nr}`}
+	sub={d.namn}
+	accent={d.niva}
+	eyebrow={`${d.tema} · ${nivaNamn(d.niva)}`}
+	back={{ href: `/ovningar/?niva=${d.niva}`, label: 'Övningsbanken' }}
+	editPath={`innehall/ovningsbank/ovningar/${k.id}.md`}
+>
+	<dl class="ex-facts card">
+		{d.nivaText && (<div><dt>Nivå</dt><dd>{d.nivaText}</dd></div>)}
+		{d.princip && (<div><dt>Princip</dt><dd>{d.princip}</dd></div>)}
+		{d.roll && (<div><dt>Roll i passet</dt><dd>{d.roll}</dd></div>)}
+		{d.temaFull && (<div><dt>Tema</dt><dd>{d.temaFull}</dd></div>)}
+		{d.fardighet && (<div><dt>Färdighet</dt><dd>{d.fardighet}</dd></div>)}
+	</dl>
+	<Content />
+	<nav class="pager" aria-label="Fler övningar">
+		{prev ? <a href={`/ovningar/o${prev.data.nr}/`}>← Ö{prev.data.nr} {prev.data.namn}</a> : <span />}
+		{next && <a href={`/ovningar/o${next.data.nr}/`}>Ö{next.data.nr} {next.data.namn} →</a>}
+	</nav>
+</DocPage>

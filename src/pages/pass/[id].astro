@@ -1,0 +1,22 @@
+---
+import { getCollection, render } from 'astro:content';
+import DocPage from '../../components/DocPage.astro';
+import { nivaNamn } from '../../lib/nivaer';
+
+export async function getStaticPaths() {
+	return (await getCollection('pass')).map((p) => ({ params: { id: p.id }, props: { p } }));
+}
+const { p } = Astro.props;
+const { Content } = await render(p);
+---
+
+<DocPage
+	title="Exempelpass"
+	sub={p.data.titel.replace(/^(Grön|Blå|Röd) – /, '')}
+	accent={p.data.niva}
+	eyebrow={nivaNamn(p.data.niva)}
+	back={{ href: `/nivaer/${p.data.niva}/`, label: nivaNamn(p.data.niva) }}
+	editPath={`innehall/ovningsbank/pass/${p.id}.md`}
+>
+	<Content />
+</DocPage>

@@ -1,0 +1,93 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Icon from '../../components/Icon.astro';
+import { nivaer } from '../../lib/nivaer';
+
+const kort = (await getCollection('ovningar')).sort((a, b) => a.data.nr - b.data.nr);
+const bank = (await getEntry('ovningsbank', 'index'))!;
+const { Content } = await render(bank);
+---
+
+<Layout title="Övningsbanken">
+	<Fragment slot="hero">
+		<Hero labelledby="ob-title">
+			<p class="eyebrow">Moälvsmodellen</p>
+			<h1 id="ob-title"><span class="lvl-word-neutral">Övningsbanken</span></h1>
+			<p class="hero-lead">Färre övningar, mer upprepning. Varje kort har Vad, Varför, Hur, Organisation, Anvisningar och progression vecka för vecka.</p>
+		</Hero>
+	</Fragment>
+
+	<section aria-labelledby="kort-title">
+		<div class="filter-bar" role="group" aria-label="Filtrera på nivå">
+			<h2 id="kort-title" class="filter-title">Övningskort</h2>
+			<button type="button" class="chip" data-filter="alla" aria-pressed="true">Alla ({kort.length})</button>
+			{
+				nivaer.map((n) => (
+					<button type="button" class={`chip chip-${n.key}`} data-filter={n.key} aria-pressed="false">
+						{n.namn} ({kort.filter((k) => k.data.niva === n.key).length})
+					</button>
+				))
+			}
+			<label class="chip chip-check"><input type="checkbox" id="bara-plan" /> Bara säsongsplanen</label>
+		</div>
+		<ul class="exercise-grid" id="kortlista">
+			{
+				kort.map((k) => (
+					<li class={`exercise-card ex-${k.data.niva}`} data-niva={k.data.niva} data-typ={k.data.typ}>
+						<a href={`/ovningar/o${k.data.nr}/`}>
+							<span class="ex-nr">Ö{k.data.nr}</span>
+							<span class="ex-name">{k.data.namn}</span>
+							<span class="ex-meta">{k.data.tema}</span>
+							<span class="ex-tags">
+								<span class={`tag tag-${k.data.niva}`}>{nivaer.find((n) => n.key === k.data.niva)!.namn.replace(' nivå', '')}</span>
+								{k.data.princip && <span class="tag">{k.data.princip}</span>}
+								{k.data.typ === 'alternativ' && <span class="tag tag-muted">Alternativ</span>}
+							</span>
+							{k.data.roll && k.data.typ === 'sasongsplan' && <span class="ex-role">{k.data.roll}</span>}
+						</a>
+					</li>
+				))
+			}
+		</ul>
+		<p class="filter-empty" hidden>Inga övningar matchar filtret.</p>
+	</section>
+
+	<section class="prose prose-neutral bank-intro" aria-label="Om övningsbanken">
+		<h2>Om övningsbanken</h2>
+		<Content />
+	</section>
+
+	<script>
+		const buttons = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
+		const onlyPlan = document.querySelector<HTMLInputElement>('#bara-plan')!;
+		const cards = document.querySelectorAll<HTMLElement>('#kortlista > li');
+		const empty = document.querySelector<HTMLElement>('.filter-empty')!;
+		const params = new URLSearchParams(location.search);
+		let current = params.get('niva') ?? 'alla';
+
+		function apply() {
+			let shown = 0;
+			cards.forEach((c) => {
+				const ok = (current === 'alla' || c.dataset.niva === current) && (!onlyPlan.checked || c.dataset.typ === 'sasongsplan');
+				c.hidden = !ok;
+				if (ok) shown++;
+			});
+			buttons.forEach((b) => b.setAttribute('aria-pressed', String(b.dataset.filter === current)));
+			empty.hidden = shown > 0;
+			const url = new URL(location.href);
+			if (current === 'alla') url.searchParams.delete('niva');
+			else url.searchParams.set('niva', current);
+			history.replaceState(null, '', url);
+		}
+		buttons.forEach((b) =>
+			b.addEventListener('click', () => {
+				current = b.dataset.filter!;
+				apply();
+			}),
+		);
+		onlyPlan.addEventListener('change', apply);
+		apply();
+	</script>
+</Layout>

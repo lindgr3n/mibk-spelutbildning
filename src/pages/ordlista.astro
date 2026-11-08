@@ -1,0 +1,11 @@
+---
+import { getEntry, render } from 'astro:content';
+import DocPage from '../components/DocPage.astro';
+
+const doc = (await getEntry('dokument', 'ordlista'))!;
+const { Content, headings } = await render(doc);
+---
+
+<DocPage title={doc.data.titel} eyebrow="Gemensamt språk" headings={headings} editPath="innehall/ordlista.md">
+	<Content />
+</DocPage>

@@ -1,0 +1,11 @@
+---
+import { getEntry, render } from 'astro:content';
+import DocPage from '../components/DocPage.astro';
+
+const doc = (await getEntry('dokument', 'att-vara-med'))!;
+const { Content, headings } = await render(doc);
+---
+
+<DocPage title={doc.data.titel} eyebrow="För nya spelare och föräldrar" headings={headings} editPath="innehall/att-vara-med.md">
+	<Content />
+</DocPage>

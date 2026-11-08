@@ -1,0 +1,58 @@
+---
+import { getCollection, getEntry, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Icon from '../../components/Icon.astro';
+import { nivaer } from '../../lib/nivaer';
+
+const ovningar = await getCollection('ovningar');
+---
+
+<Layout title="Nivåer">
+	<Fragment slot="hero">
+		<Hero labelledby="nivaer-title">
+			<p class="eyebrow">Spelutbildning</p>
+			<h1 id="nivaer-title"><span class="lvl-word-neutral">Nivåer</span></h1>
+			<p class="hero-lead">Vi följer förbundets färger och nivånamn. Undertitlarna visar hur spelet växer: från bollen, till kompisen, till hela spelet.</p>
+		</Hero>
+	</Fragment>
+
+	<ul class="level-cards">
+		{
+			nivaer.map((n) => (
+				<li class={`level-card level-card-${n.key}`}>
+					<Icon name="users" size={44} />
+					<h2 class="level-card-title">{n.namn}</h2>
+					<p>
+						{n.undertitel} · {n.alder}
+						<br />
+						{n.spelform} · {ovningar.filter((o) => o.data.niva === n.key).length} övningskort
+					</p>
+					<a class="btn-white" href={`/nivaer/${n.key}/`}>
+						Gå till {n.namn.toLowerCase()}
+						<Icon name="arrow" size={20} />
+					</a>
+				</li>
+			))
+		}
+	</ul>
+
+	<div class="panel-row">
+		<section class="card panel">
+			<Icon name="users" size={56} />
+			<div>
+				<h2>Ljusgrön nivå (0–6 år)</h2>
+				<p>Lek och rörelse. Inga matcher. Se uppstarten av nya lag och planens avsnitt om nivåerna.</p>
+			</div>
+			<a class="link-arrow" href="/nya-lag/">Starta ett nytt lag <Icon name="arrow" size={18} /></a>
+		</section>
+		<section class="card panel">
+			<Icon name="users" size={56} />
+			<div>
+				<h2>Svart nivå (junior och senior)</h2>
+				<p>Vi och spelet. Tränarmaterialet byggs ut senare.</p>
+			</div>
+			<a class="link-arrow" href="/plan/#3-nivåerna">Läs om nivåerna i planen <Icon name="arrow" size={18} /></a>
+		</section>
+	</div>
+</Layout>

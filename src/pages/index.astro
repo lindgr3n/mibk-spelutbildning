@@ -1,0 +1,105 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import Hero from '../components/Hero.astro';
+import Icon from '../components/Icon.astro';
+import { nivaer } from '../lib/nivaer';
+
+const ovningar = await getCollection('ovningar');
+const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).length;
+---
+
+<Layout title="Moälvens spelutbildning" variant="home">
+	<Fragment slot="hero">
+		<Hero variant="home" labelledby="hero-title" imageAlt="Innebandyklubba och boll på hallgolvet">
+			<p class="eyebrow">Välkommen till</p>
+			<h1 id="hero-title">
+				Moälvens IBK –{' '}<br /><span class="accent">Spelutbildning</span>
+			</h1>
+			<p class="hero-lead">Så tränar och utvecklar vi våra spelare. Välj nivå för ditt lag, eller gå direkt till övningarna.</p>
+		</Hero>
+	</Fragment>
+
+	<section aria-labelledby="valj-niva-title">
+		<h2 id="valj-niva-title" class="visually-hidden">Välj nivå</h2>
+		<ul class="level-cards">
+			{
+				nivaer.map((n) => (
+					<li class={`level-card level-card-${n.key}`}>
+						<Icon name="users" size={44} />
+						<h3>{n.namn}</h3>
+						<p>
+							{n.undertitel} · {n.alder}
+							<br />
+							{antal(n.key)} övningskort · {n.spelform}
+						</p>
+						<a class="btn-white" href={`/nivaer/${n.key}/`}>
+							Gå till {n.namn.toLowerCase()}
+							<Icon name="arrow" size={20} />
+						</a>
+					</li>
+				))
+			}
+		</ul>
+	</section>
+
+	<div class="panel-row">
+		<section class="card panel" aria-labelledby="ovningar-title">
+			<Icon name="court" size={56} />
+			<div>
+				<h2 id="ovningar-title">Övningsbanken</h2>
+				<p>{ovningar.length} övningskort med Vad, Varför, Hur och progression vecka för vecka. Filtrera på nivå.</p>
+			</div>
+			<a class="link-arrow" href="/ovningar/">Till övningarna <Icon name="arrow" size={18} /></a>
+		</section>
+
+		<section class="card panel" aria-labelledby="plan-title">
+			<Icon name="book" size={56} />
+			<div>
+				<h2 id="plan-title">Spelutvecklingsplanen</h2>
+				<p>Grundprinciperna, Moälvens spelidé och hur nivåerna hänger ihop, från ljusgrön till svart.</p>
+			</div>
+			<a class="link-arrow" href="/plan/">Läs planen <Icon name="arrow" size={18} /></a>
+		</section>
+	</div>
+
+	<div class="panel-row">
+		<section class="card panel" aria-labelledby="spelform-title">
+			<Icon name="doc" size={56} />
+			<div>
+				<h2 id="spelform-title">Spelformsblad</h2>
+				<p>En sida per nivå: spelidé, fokus, spelform och röd tråd.</p>
+			</div>
+			<a class="link-arrow" href="/spelformsblad/">Öppna spelformsbladet <Icon name="arrow" size={18} /></a>
+		</section>
+
+		<section class="card panel" aria-labelledby="ordlista-title">
+			<Icon name="megaphone" size={56} />
+			<div>
+				<h2 id="ordlista-title">Ordlista</h2>
+				<p>Ett gemensamt språk för alla tränare, med barnspråket på grön nivå.</p>
+			</div>
+			<a class="link-arrow" href="/ordlista/">Till ordlistan <Icon name="arrow" size={18} /></a>
+		</section>
+	</div>
+
+	<div class="panel-row">
+		<section class="card panel" aria-labelledby="nya-lag-title">
+			<Icon name="calendar" size={56} />
+			<div>
+				<h2 id="nya-lag-title">Starta ett nytt lag</h2>
+				<p>Checklista för uppstart av ljusgrön och grön, och mentorrutinen för nya ledare.</p>
+			</div>
+			<a class="link-arrow" href="/nya-lag/">Öppna checklistan <Icon name="arrow" size={18} /></a>
+		</section>
+
+		<section class="card panel" aria-labelledby="vara-med-title">
+			<Icon name="users" size={56} />
+			<div>
+				<h2 id="vara-med-title">Att vara med i Moälvens IBK</h2>
+				<p>För nya spelare och föräldrar: anmälan, utrustning och hur du kan hjälpa till.</p>
+			</div>
+			<a class="link-arrow" href="/att-vara-med/">Läs mer <Icon name="arrow" size={18} /></a>
+		</section>
+	</div>
+</Layout>

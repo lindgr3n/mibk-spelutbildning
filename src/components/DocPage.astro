@@ -1,0 +1,72 @@
+---
+// Ett dokument från innehall/: hero med titel, innehållsförteckning och själva texten.
+import type { MarkdownHeading } from 'astro';
+import Layout from '../layouts/Layout.astro';
+import Hero from './Hero.astro';
+import Icon from './Icon.astro';
+
+interface Props {
+	title: string;
+	eyebrow?: string;
+	accent?: 'gron' | 'bla' | 'rod' | 'neutral';
+	sub?: string;
+	lead?: string;
+	headings?: MarkdownHeading[];
+	back?: { href: string; label: string };
+	editPath?: string;
+}
+
+const { title, eyebrow, accent = 'neutral', sub, lead, headings = [], back, editPath } = Astro.props;
+const toc = headings.filter((h) => h.depth === 2);
+---
+
+<Layout title={sub ? `${title} – ${sub}` : title} description={lead}>
+	<Fragment slot="hero">
+		<Hero labelledby="doc-title">
+			{
+				back && (
+					<a class="hero-back" href={back.href}>
+						<Icon name="back" size={20} /> {back.label}
+					</a>
+				)
+			}
+			{eyebrow && <p class="eyebrow">{eyebrow}</p>}
+			<h1 id="doc-title">
+				<span class={`lvl-word-${accent}`}>{title}</span>
+				{sub && <span class="lvl-sub">{sub}</span>}
+			</h1>
+			{lead && <p class="hero-lead">{lead}</p>}
+		</Hero>
+	</Fragment>
+
+	<div class:list={['doc-layout', { 'has-toc': toc.length > 2 }]}>
+		{
+			toc.length > 2 && (
+				<nav class="toc card" aria-label="Innehåll på sidan">
+					<details open>
+						<summary>Innehåll</summary>
+						<ul>
+							{toc.map((h) => (
+								<li>
+									<a href={`#${h.slug}`}>{h.text}</a>
+								</li>
+							))}
+						</ul>
+					</details>
+				</nav>
+			)
+		}
+		<article class:list={['prose', `prose-${accent}`]}>
+			<slot />
+			{
+				editPath && (
+					<p class="edit-link">
+						<a href={`https://github.com/lindgr3n/mibk-spelutbildning/blob/main/${editPath}`}>
+							Källfilen på GitHub <Icon name="external" size={16} />
+						</a>
+					</p>
+				)
+			}
+		</article>
+	</div>
+</Layout>
