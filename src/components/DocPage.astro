@@ -4,6 +4,7 @@ import type { MarkdownHeading } from 'astro';
 import Layout from '../layouts/Layout.astro';
 import Hero from './Hero.astro';
 import Icon from './Icon.astro';
+import { ersattKullar } from '../lib/kullar-text.mjs';
 
 interface Props {
 	title: string;
@@ -18,6 +19,8 @@ interface Props {
 
 const { title, eyebrow, accent = 'neutral', sub, lead, headings = [], back, editPath } = Astro.props;
 const toc = headings.filter((h) => h.depth === 2);
+// Platshållare som {{sasong}} och {{kull:gron1}} i texten byts mot årtal som räknas ut vid bygget.
+const innehall = ersattKullar(await Astro.slots.render('default'));
 ---
 
 <Layout title={sub ? `${title} – ${sub}` : title} description={lead}>
@@ -57,7 +60,7 @@ const toc = headings.filter((h) => h.depth === 2);
 			)
 		}
 		<article class:list={['prose', `prose-${accent}`]}>
-			<slot />
+			<Fragment set:html={innehall} />
 			{
 				editPath && (
 					<p class="edit-link">

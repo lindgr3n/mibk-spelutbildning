@@ -6,6 +6,7 @@ titel: "Spelformsblad – Moälvsmodellen"
 En grov sammanfattning av spelutbildningen på varje nivå: spelidé, fokus, spelform och röd tråd. Detaljerna finns i nivådokumenten och i Moälvens spelutvecklingsplan. Svart nivå läggs till när den byggs ut.
 
 ## Ljusgrön nivå (0–6 år): Lek och rörelse
+**Rekommenderade kullar {{sasong}}:** födda {{nivakullar:ljusgron}}.  
 **Spelidé:** lek och rörelse. Träningen är inte särskilt inriktad på innebandy.  
 **Fokus:** glädje, trygghet och att röra sig mycket. Förbundet anger inga fokusområden för ljusgrön nivå.  
 **Spelform:** inga matcher. De yngsta startar som eget lag (ca 5–7 år).  
@@ -14,6 +15,7 @@ En grov sammanfattning av spelutbildningen på varje nivå: spelidé, fokus, spe
 **Läs mer:** Uppstart av nya lag och mentorrutin, och Att vara med i Moälvens IBK (A4).
 
 ## Grön nivå (6–9 år): Jag och bollen
+**Rekommenderade kullar {{sasong}}:** födda {{nivakullar:gron}}.  
 **Spelidé:** speldjup. Upp i anfall, hem i försvar. Säg till barnen: **"Upp!"** och **"Hem!"**
 
 > * M1 Upp i anfall: "Upp!"  
@@ -29,6 +31,7 @@ En grov sammanfattning av spelutbildningen på varje nivå: spelidé, fokus, spe
 **Innan blå nivå kan spelaren bland annat:** skjuta på mål i rörelse, gå nära och sätta blad mot boll, springa dit ingen är och byta uppgift direkt när bollen byter lag.
 
 ## Blå nivå (9–12 år): Jag, du och bollen
+**Rekommenderade kullar {{sasong}}:** födda {{nivakullar:bla}}.  
 **Spelidé:** kompisen kommer in i spelet. Huvudprincipen är M2 Bredd till djup och djup till bredd. Principer, inte positioner, och vi tränar inget spelsystem.
 
 > * M1 Snabb bollförflyttning: "Spela framåt när det går!"  
@@ -45,6 +48,7 @@ En grov sammanfattning av spelutbildningen på varje nivå: spelidé, fokus, spe
 **Innan röd nivå kan spelaren bland annat:** driva i fart med blicken uppe, passa och ta emot på forehand och backhand, ta en ny position när hen är markerad och sätta snabb press på bollföraren.
 
 ## Röd nivå (12–16 år): Jag, du och spelet
+**Rekommenderade kullar {{sasong}}:** födda {{nivakullar:rod}}.  
 **Spelidé:** hela spelet, med och utan boll, och tekniken i fart och under press. Principerna tränas i förbundets spelfaser. Fortfarande principer före positioner.
 
 > * M1 Snabb bollförflyttning: "Första framåt!"  

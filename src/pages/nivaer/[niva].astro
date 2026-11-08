@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import DocPage from '../../components/DocPage.astro';
 import Icon from '../../components/Icon.astro';
 import { nivaer } from '../../lib/nivaer';
+import { nivaFodelsear } from '../../lib/sasong.mjs';
 
 export async function getStaticPaths() {
 	const docs = await getCollection('dokument', (d) => d.data.niva);
@@ -20,7 +21,7 @@ const kort = (await getCollection('ovningar')).filter((o) => o.data.niva === n.k
 	title={n.namn}
 	sub={n.undertitel}
 	accent={n.key}
-	eyebrow={`Tränarmaterial · ${n.alder}`}
+	eyebrow={`Tränarmaterial · ${n.alder} · rekommenderat födda ${nivaFodelsear(n.key)}`}
 	headings={headings}
 	back={{ href: '/nivaer/', label: 'Alla nivåer' }}
 	editPath={`innehall/${doc.id}.md`}

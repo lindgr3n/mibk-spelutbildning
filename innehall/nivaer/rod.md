@@ -10,6 +10,7 @@ niva: "rod"
 ---
 
 ## 1. Vad är röd nivå?
+- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:rod}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in.  
 - Röd nivå heter Träna för att träna hos förbundet. I Moälvsmodellen är undertiteln "Jag, du och spelet".  
 - Glädje, trygghet och utvecklingsfokus. Psykologisk trygghet och positiv, konstruktiv feedback.  
 - Kärnan: hela spelet. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  
@@ -204,7 +205,7 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 | R1 | Progression från passningar utan motstånd till press och till spel: öka svårigheten med mindre ytor, högre tempo eller fler val | M1, M2 | v. 34–45: [Ö47](/ovningar/o47/) Färgbollen (från utan motstånd till press), [Ö48](/ovningar/o48/) Ajax leken och [Ö52](/ovningar/o52/) Jokerpoint. Regeln i [Ö46](/ovningar/o46/) v. 34–45. | Förbundets spelarutvecklingsplan, "Färdigheter och progression" |
 | R2 | Styr beteendet med spelmiljön: små ytor för närkamper, stora ytor för spelvändningar. Variera 2 mot 2 och 4 mot 4, eller använd regler som "mål räknas bara om alla är över halva planen" | M2, M3 | Hela säsongen: regeln i [Ö46](/ovningar/o46/) byts per period. Zoner styr i [Ö53](/ovningar/o53/) Ytterzonen och [Ö62](/ovningar/o62/) 2 v 2 + 2. Små ytor i [Ö56](/ovningar/o56/), [Ö59](/ovningar/o59/) och [Ö60](/ovningar/o60/), stor yta i [Ö46](/ovningar/o46/) och [Ö64](/ovningar/o64/). | Förbundets spelarutvecklingsplan, "Spelmiljö och styrning" |
 | R3 | Vinn bollen på olika sätt: samma spelövning med olika uppdrag för försvaret, till exempel hög press, lågt och kompakt försvar, tät markering eller styra spelet dit vi vill | U1–U3 | v. 46–16: hög press i [Ö49](/ovningar/o49/) Zon till zon och [Ö54](/ovningar/o54/) Pressen, lågt och kompakt i [Ö50](/ovningar/o50/) och i [Ö54](/ovningar/o54/) (P3+), täta markeringar i [Ö55](/ovningar/o55/). Regeln i [Ö46](/ovningar/o46/) från v. 46. | Förbundets spelarutvecklingsplan |
-| R4 | Reflektion efter övningen: korta gruppsamtal om vad som fungerade kopplat till dagens fokus, och coachande frågor, till exempel "hittade vi den tomma ytan?" eller "höll vi dem på utsidan?" | Samtliga | Varje pass: kort reflektion efter [Ö46](/ovningar/o46/) (minut 56–60 i exempelpasset), med förbundets frågor från övningskortet. | Förbundets spelarutvecklingsplan, "Reflektion och lärande" |
+| R4 | Reflektion efter övningen: korta gruppsamtal om vad som fungerade kopplat till dagens fokus, och coachande frågor, till exempel "hittade vi den tomma ytan?" eller "höll vi dem på utsidan?" | Samtliga | Varje pass: kort reflektion efter [Ö46](/ovningar/o46/) (avslutningen i exempelpasset), med förbundets frågor från övningskortet. | Förbundets spelarutvecklingsplan, "Reflektion och lärande" |
 
 ---
 
@@ -218,18 +219,19 @@ Hela passet med övningskorten finns i Övningsbanken under "Träningspass: Röd
 4. [Ö52](/ovningar/o52/) – Etablerat anfallsspel – Speldjup – Jokerpoint (vecka 1: grundövning)  
 5. [Ö46](/ovningar/o46/) – Spel 5 mot 5 med styrande regel (fast ram, veckans regel: "mål efter en passning inåt-framåt räknas dubbelt")
 
-| Tid (min) | Del | Övning |
-| :---- | :---- | :---- |
-| 0–2 | Samling: dagens tema och ett coachord | – |
-| 2–9 | Fast uppvärmning: Knäkontrollen | [Ö44](/ovningar/o44/) |
-| 5–9 | Målvaktsövning: returkontroll (målvakterna, med en skytt var) | [Ö45](/ovningar/o45/) |
-| 9–21 | Övning 1: Driva boll – Färgbollen | [Ö47](/ovningar/o47/) |
-| 21–35 | Övning 2: Speldjup – Jokerpoint | [Ö52](/ovningar/o52/) |
-| 35–56 | Spel 5 mot 5 på hel plan med veckans regel | [Ö46](/ovningar/o46/) |
-| 56–60 | Reflektion (R4): vad fungerade, och varför? Vatten och hejdå | – |
+| Block | Ca tid (min) | Innehåll | Övning |
+| :---- | :---- | :---- | :---- |
+| Samling | 5 | Dagens tema och ett coachord | – |
+| Uppvärmning | 10 | Fast uppvärmning: Knäkontrollen. Målvakterna kör returkontroll med en skytt var | [Ö44](/ovningar/o44/), [Ö45](/ovningar/o45/) |
+| Övning 1 | 10 | Driva boll – Färgbollen | [Ö47](/ovningar/o47/) |
+| Övning 2 | 10 | Speldjup – Jokerpoint | [Ö52](/ovningar/o52/) |
+| Spel | 20 | Spel 5 mot 5 på hel plan med veckans regel | [Ö46](/ovningar/o46/) |
+| Avslutning | 5 | Reflektion (R4): vad fungerade, och varför? Vatten och hejdå | – |
+
+Blocken är en ram, inte ett schema. Passet kan ha en, två eller tre övningar före spelet: med färre övningar får övningen och spelet mer tid, och uppvärmning, samling och avslutning ligger kvar.
 
 Vecka 35–37: samma pass, men [Ö47](/ovningar/o47/) och [Ö52](/ovningar/o52/) tar Progression 1, 2 och 3. Vecka 38: [Ö47](/ovningar/o47/) går ut och [Ö48](/ovningar/o48/) Passningar – Ajax leken kommer in. [Ö52](/ovningar/o52/) fortsätter på Progression 3 eller sin svårare variant (se avsnitt 5).  
-Förbundets fördelning för 12–14 år är 10 % lek och fys, 20 % koordination och teknik, 35 % småplanspel och 35 % fullplansspel [SIBF-R]. Passet ovan har 21 minuter spel 5 mot 5 på hel plan i [Ö46](/ovningar/o46/) (35 %), 14 minuter småplanspel i [Ö52](/ovningar/o52/), 12 minuter teknik i [Ö47](/ovningar/o47/) och 7 minuter knäkontroll. När [Ö47](/ovningar/o47/) blir 2 mot 2 från vecka 3 ökar småplansspelet till cirka 35 %. För 15–16 år (10/10/40/40): korta [Ö47](/ovningar/o47/) till 6 minuter och ge [Ö52](/ovningar/o52/) och [Ö46](/ovningar/o46/) 3 minuter mer var.
+Förbundets fördelning för 12–14 år är 10 % lek och fys, 20 % koordination och teknik, 35 % småplanspel och 35 % fullplansspel [SIBF-R]. Passet ovan har 20 minuter spel 5 mot 5 på hel plan i [Ö46](/ovningar/o46/) (33 %), 10 minuter småplanspel i [Ö52](/ovningar/o52/) (17 %), 10 minuter teknik i [Ö47](/ovningar/o47/) (17 %), 10 minuter uppvärmning med knäkontroll (17 %) och 10 minuter samling och avslutning. När [Ö47](/ovningar/o47/) blir 2 mot 2 från vecka 3 ökar småplansspelet till 20 minuter (33 %). För 15–16 år (10/10/40/40): korta [Ö47](/ovningar/o47/) till 5 minuter och ge [Ö52](/ovningar/o52/) och [Ö46](/ovningar/o46/) några minuter mer var.
 
 ---
 

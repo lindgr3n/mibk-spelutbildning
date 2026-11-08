@@ -4,8 +4,11 @@ import Layout from '../../layouts/Layout.astro';
 import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
 import { nivaer } from '../../lib/nivaer';
+import { kullar, nivaFodelsear, sasongNamn } from '../../lib/sasong.mjs';
 
 const ovningar = await getCollection('ovningar');
+const sasong = sasongNamn();
+const alla = kullar();
 ---
 
 <Layout title="Nivåer">
@@ -26,6 +29,8 @@ const ovningar = await getCollection('ovningar');
 					<p>
 						{n.undertitel} · {n.alder}
 						<br />
+						Rekommenderat: födda {nivaFodelsear(n.key)}
+						<br />
 						{n.spelform} · {ovningar.filter((o) => o.data.niva === n.key).length} övningskort
 					</p>
 					<a class="btn-white" href={`/nivaer/${n.key}/`}>
@@ -37,12 +42,29 @@ const ovningar = await getCollection('ovningar');
 		}
 	</ul>
 
+	<section class="card panel" aria-labelledby="kullar-title">
+		<div>
+			<h2 id="kullar-title">Rekommenderade kullar säsongen {sasong}</h2>
+			<p>Födelseår per nivå och år på nivån. Det är en rekommendation, inte ett krav: klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt och byts när en ny säsong börjar 1 juli.</p>
+			<table>
+				<thead>
+					<tr><th>Nivå</th><th>År på nivån</th><th>Födda</th></tr>
+				</thead>
+				<tbody>
+					{alla.map((k) => (
+						<tr><td>{k.niva}</td><td>{k.etikett === k.niva ? '–' : k.etikett}</td><td>{k.fodelsear}</td></tr>
+					))}
+				</tbody>
+			</table>
+		</div>
+	</section>
+
 	<div class="panel-row">
 		<section class="card panel">
 			<Icon name="users" size={56} />
 			<div>
 				<h2>Ljusgrön nivå (0–6 år)</h2>
-				<p>Lek och rörelse. Inga matcher. Se uppstarten av nya lag och planens avsnitt om nivåerna.</p>
+				<p>Rekommenderat: födda {nivaFodelsear('ljusgron')}. Lek och rörelse. Inga matcher. Se uppstarten av nya lag och planens avsnitt om nivåerna.</p>
 			</div>
 			<a class="link-arrow" href="/nya-lag/">Starta ett nytt lag <Icon name="arrow" size={18} /></a>
 		</section>

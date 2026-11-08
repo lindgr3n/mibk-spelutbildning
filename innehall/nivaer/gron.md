@@ -11,6 +11,7 @@ niva: "gron"
 
 ## 1. Vad är grön nivå?
 - Grön nivå heter Rörelseglädje hos förbundet. I Moälvsmodellen är undertiteln "Jag och bollen".  
+- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:gron}}.  
 - Kul först. Spelet och tekniken introduceras lekfullt, och ytor och utrustning anpassas efter barnen. Att vara med och göra sitt bästa är viktigare än att prestera.  
 - Kärnan: speldjup. Upp i anfall, hem i försvar. Planen på grön nivå är liten och smal men djup (20 × 12 m, se 3.3), så spelet går fram och tillbaka. Har vi bollen: upp mot deras mål. Har de bollen: hem mot vårt mål. Speldjup betyder att ge bollhållaren ett alternativ framåt eller bakåt (se Ordlistan). Säg till barnen: "Upp!" och "Hem!" (Moälvens förslag).  
 - Alla får vara med. Nya spelare är alltid välkomna.  
@@ -106,7 +107,7 @@ Moälvens fokusområden på grön nivå
 | Ledare | En ledare per 6 spelare | En ledare per 6 spelare | En ledare per 6 spelare |
 
 Förbundet delar grön i 6–7 och 8–9 år. Våra grupper går efter år på nivån, så välj efter gruppen.  
-*Exempel säsongen 2026/27: ljusgrön = födda 2020, grön första året = födda 2019, andra året = födda 2018, tredje året = födda 2017. Bara denna rad uppdateras varje säsong.*
+*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt.*
 
 ### 3.2 Match
 Första året på grön spelar vi matcher (Moälvens beslut).
@@ -217,15 +218,16 @@ Hela passet med övningskorten finns i Övningsbanken under "Träningspass: Grö
 4. [Ö6](/ovningar/o6/) – Etablerat anfallsspel – Vända – Vändningen (vecka 1: grundövning)  
 5. [Ö3](/ovningar/o3/) – Etablerat anfallsspel / Etablerat försvarsspel – Smålagsspel 3 mot 3 (fast ram)
 
-| Tid (min) | Del | Övning |
-| :---- | :---- | :---- |
-| 0–3 | Samling: säg hej till alla, dagens tema och ett coachord | – |
-| 3–11 | Fast uppvärmning | [Ö1](/ovningar/o1/) |
-| 11–15 | Målvaktslek för alla | [Ö2](/ovningar/o2/) |
-| 15–26 | Övning 1: 360 kontroll – Innebandykull | [Ö4](/ovningar/o4/) |
-| 26–37 | Övning 2: Vända – Vändningen | [Ö6](/ovningar/o6/) |
-| 37–55 | Avslutande spel 3 mot 3 | [Ö3](/ovningar/o3/) |
-| 55–60 | Vatten, samling, öppna frågor ("Vad var roligast?"), säg hejdå till alla | – |
+| Block | Ca tid (min) | Innehåll | Övning |
+| :---- | :---- | :---- | :---- |
+| Samling | 5 | Säg hej till alla, dagens tema och ett coachord | – |
+| Uppvärmning | 10 | Fast uppvärmning och målvaktslek för alla | [Ö1](/ovningar/o1/), [Ö2](/ovningar/o2/) |
+| Övning 1 | 10 | 360 kontroll – Innebandykull | [Ö4](/ovningar/o4/) |
+| Övning 2 | 15 | Vända – Vändningen | [Ö6](/ovningar/o6/) |
+| Spel | 15 | Avslutande spel 3 mot 3 | [Ö3](/ovningar/o3/) |
+| Avslutning | 5 | Vatten, samling, öppna frågor ("Vad var roligast?"), säg hejdå till alla | – |
+
+Blocken är en ram, inte ett schema. Passet kan ha en, två eller tre övningar före spelet: med färre övningar får övningen och spelet mer tid, och uppvärmning, samling och avslutning ligger kvar.
 
 Vecka 45–47: samma pass, men [Ö4](/ovningar/o4/) och [Ö6](/ovningar/o6/) tar Progression 1, 2 och 3. Vecka 48: [Ö4](/ovningar/o4/) går ut och [Ö8](/ovningar/o8/) Avslut – Skottormen kommer in. [Ö6](/ovningar/o6/) fortsätter på Progression 3 eller sin svårare variant (se Säsongsplan grön nivå).
 

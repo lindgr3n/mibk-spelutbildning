@@ -8,8 +8,8 @@ Välkommen till Moälvens IBK! Hos oss ska innebandy vara **roligt**. Alla får 
 
 ### Våra yngsta nivåer (enligt Svensk Innebandy)
 
-- **Ljusgrön (ca 5–7 år):** Lek och rörelse, 0–6 år. Kul, rörelse och lek. Inga matcher.  
-- **Grön första året (ca 7–8 år):** Rörelseglädje, 6–9 år. Lek och innebandy, 3 mot 3.
+- **Ljusgrön (rekommenderat födda {{kull:ljusgron}}):** Lek och rörelse, 0–6 år. Kul, rörelse och lek. Inga matcher.  
+- **Grön första året (rekommenderat födda {{kull:gron1}}):** Rörelseglädje, 6–9 år. Lek och innebandy, 3 mot 3.
 
 ### Så anmäler du ditt barn
 
@@ -38,4 +38,4 @@ Välkommen till Moälvens IBK! Hos oss ska innebandy vara **roligt**. Alla får 
 **Vi lovar:** mycket lek och boll, ingen resultattavla och inga tabeller, och ledare som ser alla barn.
 
 **Tider och hall:** Varierar mellan åren, oftast på helgen. Aktuella tider finns på [moalvensibk.se](https://moalvensibk.se).  
-*Säsongen 2026/27: ljusgrön = födda 2020, grön första året = födda 2019, andra året = födda 2018, tredje året = födda 2017.*
+*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in.*

@@ -20,7 +20,7 @@ Moälven startar nya lag varje säsong. De två yngsta grupperna ligger på **tv
 | Matcher | **Inga matcher** (Moälvens beslut). Fokus är rörelseglädje genom lek och rörelse | Förbundet för 6–7 år: *"Poolspel, inga matcher första året. 3vs3 spel endast."* Första året på grön spelar vi matcher (Moälvens beslut). |
 | Material | Lekar och grundformerna nedan. Övningsbankens lekar, till exempel [Ö1](/ovningar/o1/), [Ö2](/ovningar/o2/) och [Ö5](/ovningar/o5/), går också bra | Grön nivå – Jag och bollen, med säsongsplanen |
 
-*Exempel säsongen 2026/27: ljusgrön = födda 2020, grön första året = födda 2019, andra året = födda 2018, tredje året = födda 2017. Bara denna rad uppdateras varje säsong.*
+*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt.*
 
 **Ljusgrön nivå enligt förbundet:**
 

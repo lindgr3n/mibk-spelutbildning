@@ -175,17 +175,17 @@ Prioriterade fokusområden per nivå:
 ## 3. Nivåerna
 Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, fokus, förbundets rekommendationer, spelform, vad spelaren bör kunna och exempelövningar – står i respektive nivådokument. Vi följer förbundets färger och nivånamn [[2]](#källor). Planen omfattar ljusgrön, grön, blå och röd nivå. Svart nivå (junior och senior, förbundets namn "Träna för att tävla") finns med i översikten och sammanfattas kort nedan, men byggs ut senare. Undertitlarna visar hur spelet växer: från bollen, till kompisen, till hela spelet.
 
-| Nivå | Ålder | Förbundets namn | Moälvens undertitel | Spelform | Dokument |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| **Ljusgrön** | 0–6 år | Lek och rörelse | Lek och rörelse | Inga matcher | Uppstart av nya lag och mentorrutin – utkast |
-| **Grön** | 6–9 år | Rörelseglädje | Jag och bollen | 3 mot 3 | Grön nivå – Jag och bollen |
-| **Blå** | 9–12 år | Lära sig träna | Jag, du och bollen | 4 mot 4 med målvakt | Blå nivå – Jag, du och bollen |
-| **Röd** | 12–16 år | Träna för att träna | Jag, du och spelet | 5 mot 5 | Röd nivå – Jag, du och spelet |
-| **Svart** | Junior och senior | Träna för att tävla | Vi och spelet | 5 mot 5 | Svart nivå \- Vi och spelet |
+| Nivå | Ålder | Rekommenderade kullar {{sasong}} | Förbundets namn | Moälvens undertitel | Spelform | Dokument |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **Ljusgrön** | 0–6 år | födda {{nivakullar:ljusgron}} | Lek och rörelse | Lek och rörelse | Inga matcher | Uppstart av nya lag och mentorrutin – utkast |
+| **Grön** | 6–9 år | födda {{nivakullar:gron}} | Rörelseglädje | Jag och bollen | 3 mot 3 | Grön nivå – Jag och bollen |
+| **Blå** | 9–12 år | födda {{nivakullar:bla}} | Lära sig träna | Jag, du och bollen | 4 mot 4 med målvakt | Blå nivå – Jag, du och bollen |
+| **Röd** | 12–16 år | födda {{nivakullar:rod}} | Träna för att träna | Jag, du och spelet | 5 mot 5 | Röd nivå – Jag, du och spelet |
+| **Svart** | Junior och senior | – | Träna för att tävla | Vi och spelet | 5 mot 5 | Svart nivå \- Vi och spelet |
 
 ### Ljusgrön nivå – Lek och rörelse (0–6 år)
 - Lek och rörelse står i fokus. Träningen är inte särskilt inriktad på innebandy [[2]](#källor).  
-- De yngsta startar som eget lag (Moälvens beslut). Hos oss heter gruppen Ljusgrön (ca 5–7 år).  
+- De yngsta startar som eget lag (Moälvens beslut). Hos oss heter gruppen Ljusgrön (rekommenderat födda {{kull:ljusgron}}).  
 - Inga matcher. Förbundet anger inga fokusområden och ingen spelform för ljusgrön nivå.  
 - Runt laget: en enklare uppsättning än på grön nivå, och förra årets ledare stöttar som mentorer.  
 - Läs mer: [Uppstart av nya lag och mentorrutin – utkast](/nya-lag/) och [Att vara med i Moälvens IBK – A4 (utkast)](/att-vara-med/).
