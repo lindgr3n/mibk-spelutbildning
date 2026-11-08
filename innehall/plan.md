@@ -8,7 +8,7 @@ titel: "Moälvens spelutvecklingsplan"
 
 ## 1. Inledning
 ### Vad är det här?
-Det här är Moälvens plan för hur vi tränar och utvecklar våra spelare, från de allra yngsta på ljusgrön nivå och upp genom grön, blå och röd nivå. Planen visar vad vi gör, hur vi gör det och varför.
+Det här är Moälvens plan för hur vi tränar och utvecklar våra spelare, från de allra yngsta på ljusgrön nivå och upp genom grön, blå och röd nivå, och vidare till svart nivå. Svart nivå bygger på Svensk Innebandys utvecklingsmodell (SIU) och heter "Träna för att tävla". Den gäller junior och senior, efter röd nivå [[2]](#källor). Planen visar vad vi gör, hur vi gör det och varför. Svart nivå byggs ut när vi är klara med de yngre nivåerna.
 
 Den är skriven för tränare som vill ha en gemensam röd tråd, och för föräldrar som vill veta vad barnen är med om.
 
