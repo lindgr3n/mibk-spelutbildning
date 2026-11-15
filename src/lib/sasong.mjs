@@ -3,28 +3,28 @@
 //
 // Säsongen börjar 1 juli (säsongen 2026/27 gäller från juli 2026).
 // Åldern är det år barnet fyller under säsongens startår: födelseår = startår − ålder.
-// Det stämmer med exemplet 2026/27: ljusgrön 2020 (6 år), grön 2019, 2018, 2017 (7, 8, 9 år).
+// Det stämmer med exemplet 2026/27: ljusgrön 2020 (6 år), grön 2019, 2018, 2017 (7, 8, 9 år), blå 2016 och 2015
+// (10 och 11 år) och röd 2014 till 2010 (12 till 16 år).
 
 export const SASONGSSTART_MANAD = 7; // juli
 
 /** @typedef {{ id: string, division: string | null, niva: string, etikett: string, alder: number }} Kull */
-// division är vilken division årskullen normalt spelar i. Grön: första året utan målvakt (div 9), därefter med (div 8).
-// Blå: 10–11 år div 7 (rullande tid), 11–12 år div 6 (effektiv tid). Röd: divisionen beror på spelnivå, inte ålder.
-// Uppskattning ur nivådokumenten och ska bekräftas.
+// division är vilken division årskullen spelar i enligt Moälvens uppdelning: grön 2 år div 9 och 1 år div 8,
+// blå första året div 7 och andra året div 6, röd ett år per division från div 5 (första året) till div 1 (sista året).
 
 /** @type {Kull[]} */
 export const kullDefinitioner = [
 	{ id: 'ljusgron', division: null, niva: 'Ljusgrön', etikett: 'Ljusgrön', alder: 6 },
 	{ id: 'gron1', division: '9', niva: 'Grön', etikett: 'Första året', alder: 7 },
-	{ id: 'gron2', division: '8', niva: 'Grön', etikett: 'Andra året', alder: 8 },
+	{ id: 'gron2', division: '9', niva: 'Grön', etikett: 'Andra året', alder: 8 },
 	{ id: 'gron3', division: '8', niva: 'Grön', etikett: 'Tredje året', alder: 9 },
 	{ id: 'bla1', division: '7', niva: 'Blå', etikett: 'Första året', alder: 10 },
-	{ id: 'bla2', division: '6–7', niva: 'Blå', etikett: 'Andra året', alder: 11 },
-	{ id: 'bla3', division: '6', niva: 'Blå', etikett: 'Tredje året', alder: 12 },
-	{ id: 'rod1', division: '1–5', niva: 'Röd', etikett: 'Första året', alder: 13 },
-	{ id: 'rod2', division: '1–5', niva: 'Röd', etikett: 'Andra året', alder: 14 },
-	{ id: 'rod3', division: '1–5', niva: 'Röd', etikett: 'Tredje året', alder: 15 },
-	{ id: 'rod4', division: '1–5', niva: 'Röd', etikett: 'Fjärde året', alder: 16 },
+	{ id: 'bla2', division: '6', niva: 'Blå', etikett: 'Andra året', alder: 11 },
+	{ id: 'rod1', division: '5', niva: 'Röd', etikett: 'Första året', alder: 12 },
+	{ id: 'rod2', division: '4', niva: 'Röd', etikett: 'Andra året', alder: 13 },
+	{ id: 'rod3', division: '3', niva: 'Röd', etikett: 'Tredje året', alder: 14 },
+	{ id: 'rod4', division: '2', niva: 'Röd', etikett: 'Fjärde året', alder: 15 },
+	{ id: 'rod5', division: '1', niva: 'Röd', etikett: 'Femte året', alder: 16 },
 ];
 
 /** Året säsongen startar, till exempel 2026 för säsongen 2026/27. */
