@@ -37,15 +37,6 @@ const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).lengt
 	</section>
 
 	<div class="panel-row">
-		<section class="card panel" aria-labelledby="ovningar-title">
-			<Icon name="court" size={56} />
-			<div>
-				<h2 id="ovningar-title">Övningsbanken</h2>
-				<p>{ovningar.length} övningskort med Vad, Varför, Hur och progression vecka för vecka. Filtrera på nivå.</p>
-			</div>
-			<a class="link-arrow" href="/ovningar/">Till övningarna <Icon name="arrow" size={18} /></a>
-		</section>
-
 		<section class="card panel" aria-labelledby="plan-title">
 			<Icon name="book" size={56} />
 			<div>
@@ -53,17 +44,6 @@ const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).lengt
 				<p>Grundprinciperna, vår spelidé och hur nivåerna hänger ihop, från ljusgrön till svart.</p>
 			</div>
 			<a class="link-arrow" href="/plan/">Läs planen <Icon name="arrow" size={18} /></a>
-		</section>
-	</div>
-
-	<div class="panel-row">
-		<section class="card panel" aria-labelledby="spelform-title">
-			<Icon name="doc" size={56} />
-			<div>
-				<h2 id="spelform-title">Regler och matchdag</h2>
-				<p>Spelform, plan, mål, domare, anmälan och matchdagens checklista finns i ledarguiden, ett blad per nivå.</p>
-			</div>
-			<a class="link-arrow" href={LEDARGUIDEN_URL}>Till ledarguiden <Icon name="arrow" size={18} /></a>
 		</section>
 
 		<section class="card panel" aria-labelledby="ordlista-title">
@@ -93,6 +73,26 @@ const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).lengt
 				<p>För nya spelare och föräldrar: anmälan, utrustning och hur du kan hjälpa till.</p>
 			</div>
 			<a class="link-arrow" href="/att-vara-med/">Läs mer <Icon name="arrow" size={18} /></a>
+		</section>
+	</div>
+
+	<div class="panel-row">
+		<section class="card panel" aria-labelledby="spelform-title">
+			<Icon name="doc" size={56} />
+			<div>
+				<h2 id="spelform-title">Regler och matchdag</h2>
+				<p>Spelform, plan, mål, domare, anmälan och matchdagens checklista finns i ledarguiden, ett blad per nivå.</p>
+			</div>
+			<a class="link-arrow" href={LEDARGUIDEN_URL}>Till ledarguiden <Icon name="arrow" size={18} /></a>
+		</section>
+
+		<section class="card panel" aria-labelledby="ovningar-title">
+			<Icon name="court" size={56} />
+			<div>
+				<h2 id="ovningar-title">Övningsbanken</h2>
+				<p>{ovningar.length} övningskort med Vad, Varför, Hur och progression vecka för vecka. Filtrera på nivå.</p>
+			</div>
+			<a class="link-arrow" href="/ovningar/">Till övningarna <Icon name="arrow" size={18} /></a>
 		</section>
 	</div>
 </Layout>
