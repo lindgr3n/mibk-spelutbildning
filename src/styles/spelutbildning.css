@@ -456,9 +456,17 @@ main .toc ul > li > a {
 	margin-top: 1.5rem;
 }
 
-.kull-note {
-	margin: 0.25rem 0 0;
+/* Notis under grupperna, över hela sidans bredd */
+.kull-notis {
+	max-width: none;
+	margin: 1rem 0 0;
+	padding: 0.75rem 1rem;
+	background: var(--card);
+	border: 1px solid var(--card-line);
+	border-left: 4px solid var(--orange);
+	border-radius: 8px;
 	color: var(--muted);
+	font-size: 0.9375rem;
 }
 
 .kull-grid {

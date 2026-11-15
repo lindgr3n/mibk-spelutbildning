@@ -40,10 +40,6 @@ const alla = kullar();
 
 	<section aria-labelledby="kullar-title" class="kull-section">
 		<h2 id="kullar-title">Rekommenderade kullar säsongen {sasong}</h2>
-		<p class="kull-note">
-			Födelseår per nivå och år på nivån. Det är en rekommendation, inte ett krav: klubben avgör hur grupperna delas in.
-			Årtalen räknas ut automatiskt och byts varje 1 juni.
-		</p>
 		<ul class={`kull-grid${nivaer.length > 3 ? ' kull-grid-4' : ''}`}>
 			{
 				nivaer.map((n) => (
@@ -63,5 +59,8 @@ const alla = kullar();
 				))
 			}
 		</ul>
+		<p class="kull-notis">
+			Födelseår per nivå och år på nivån. Det är en rekommendation, inte ett krav: klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt och byts varje 1 juni.
+		</p>
 	</section>
 </Layout>
