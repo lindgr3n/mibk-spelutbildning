@@ -2,6 +2,7 @@
 import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Hero from '../../components/Hero.astro';
+import Icon from '../../components/Icon.astro';
 import LevelCard from '../../components/LevelCard.astro';
 import { nivaer } from '../../lib/nivaer';
 import { kullar, sasongNamn } from '../../lib/sasong.mjs';
@@ -60,7 +61,8 @@ const alla = kullar();
 			}
 		</ul>
 		<p class="kull-notis">
-			Födelseår per nivå och år på nivån. Det är en rekommendation, inte ett krav: klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt och byts varje 1 juni.
+			<Icon name="info" size={18} />
+			<em>Födelseår per nivå och år på nivån. Det är en rekommendation, inte ett krav: klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt och byts varje 1 juni.</em>
 		</p>
 	</section>
 </Layout>

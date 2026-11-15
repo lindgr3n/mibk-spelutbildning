@@ -456,17 +456,20 @@ main .toc ul > li > a {
 	margin-top: 1.5rem;
 }
 
-/* Notis under grupperna, över hela sidans bredd */
+/* Notis under grupperna: kursiv text med infoikon, utan ram, över hela sidans bredd */
 .kull-notis {
+	display: flex;
+	align-items: flex-start;
+	gap: 0.5rem;
 	max-width: none;
 	margin: 1rem 0 0;
-	padding: 0.75rem 1rem;
-	background: var(--card);
-	border: 1px solid var(--card-line);
-	border-left: 4px solid var(--orange);
-	border-radius: 8px;
 	color: var(--muted);
 	font-size: 0.9375rem;
+}
+
+.kull-notis .icon {
+	flex: none;
+	margin-top: 0.15rem;
 }
 
 .kull-grid {
