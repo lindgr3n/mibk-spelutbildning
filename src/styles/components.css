@@ -229,6 +229,10 @@
 	background-image: linear-gradient(135deg, rgb(10 120 62 / 0.92), rgb(6 80 42 / 0.95)), url('/images/brand/moalvens-hero.webp');
 }
 
+.level-card-ljusgron {
+	background-image: linear-gradient(135deg, rgb(86 138 20 / 0.92), rgb(58 104 12 / 0.95)), url('/images/brand/moalvens-hero.webp');
+}
+
 .level-card .icon {
 	margin-bottom: 0.25rem;
 }
@@ -258,6 +262,10 @@
 
 .level-card-gron .btn-white {
 	color: #08683a;
+}
+
+.level-card-ljusgron .btn-white {
+	color: #3a6a0c;
 }
 
 .level-card .btn-white:hover {

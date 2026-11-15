@@ -3,6 +3,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
+import LevelCard from '../../components/LevelCard.astro';
 import { nivaer } from '../../lib/nivaer';
 import { kullar, nivaFodelsear, sasongNamn } from '../../lib/sasong.mjs';
 
@@ -23,21 +24,19 @@ const alla = kullar();
 	<ul class="level-cards">
 		{
 			nivaer.map((n) => (
-				<li class={`level-card level-card-${n.key}`}>
-					<Icon name="users" size={44} />
-					<h2 class="level-card-title">{n.namn}</h2>
-					<p>
-						{n.undertitel} · {n.alder}
-						<br />
-						Rekommenderat: födda {nivaFodelsear(n.key)}
-						<br />
-						{n.spelform} · {ovningar.filter((o) => o.data.niva === n.key).length} övningskort
-					</p>
-					<a class="btn-white" href={`/nivaer/${n.key}/`}>
-						Gå till {n.namn.toLowerCase()}
-						<Icon name="arrow" size={20} />
-					</a>
-				</li>
+				<LevelCard
+					niva={n.key}
+					titel={n.namn}
+					href={`/nivaer/${n.key}/`}
+					knapp={`Gå till ${n.namn.toLowerCase()}`}
+					rubrik="h2"
+				>
+					{n.undertitel} · {n.alder}
+					<br />
+					Rekommenderat: födda {nivaFodelsear(n.key)}
+					<br />
+					{n.spelform} · {ovningar.filter((o) => o.data.niva === n.key).length} övningskort
+				</LevelCard>
 			))
 		}
 	</ul>
