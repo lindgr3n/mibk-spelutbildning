@@ -50,6 +50,18 @@ npm run dev      # utvecklingsserver på http://localhost:4321
 npm run build    # bygger den statiska sidan till dist/
 ```
 
+## Ny säsong sker automatiskt
+
+Säsong och rekommenderade födelseår (grön, blå, röd och ljusgrön) räknas ut från datumet när sidan byggs, i `src/lib/sasong.mjs`. Säsongen byter den 1 juli. Eftersom sidan är statisk byggs den om automatiskt den 1 juli varje år av `.github/workflows/ny-sasong.yml`.
+
+Engångsinställning (annars körs bygget inte):
+
+1. I Vercel: projektets **Settings → Git → Deploy Hooks**. Skapa en hook (till exempel "ny-sasong") för grenen `main` och kopiera adressen.
+2. På GitHub: repots **Settings → Secrets and variables → Actions → New repository secret**. Namn `VERCEL_DEPLOY_HOOK`, värde adressen från steg 1.
+3. Testa genom att köra arbetsflödet för hand under **Actions → Bygg om inför ny säsong → Run workflow**.
+
+Vilken årskull som spelar i vilken division står i `kullDefinitioner` i `src/lib/sasong.mjs`.
+
 ## Licens och ursprung
 
 Materialet bygger på Svensk Innebandys spel- och spelarutvecklingsplaner och Västernorrlands Innebandyförbunds dokument. Källorna anges i respektive dokument.

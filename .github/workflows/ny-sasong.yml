@@ -1,0 +1,23 @@
+# Bygger om sidan 1 juli varje år, så att säsong och födelseår (src/lib/sasong.mjs) byts automatiskt.
+# Sidan är statisk: årtalen räknas ut när den byggs, så den måste byggas om när säsongen byter.
+# Kräver en hemlighet i GitHub: VERCEL_DEPLOY_HOOK (adressen till en Deploy Hook i Vercel, se README).
+name: Bygg om inför ny säsong
+
+on:
+  schedule:
+    - cron: '0 3 1 7 *' # 1 juli kl 03:00 UTC
+  workflow_dispatch: # går också att köra för hand under Actions
+
+jobs:
+  bygg-om:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Starta nytt bygge på Vercel
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -z "$HOOK" ]; then
+            echo "Hemligheten VERCEL_DEPLOY_HOOK saknas. Se README, avsnittet Ny säsong."
+            exit 1
+          fi
+          curl --fail --silent --show-error -X POST "$HOOK"
