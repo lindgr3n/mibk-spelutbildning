@@ -107,7 +107,7 @@ Moälvens fokusområden på grön nivå
 | Ledare | En ledare per 6 spelare | En ledare per 6 spelare | En ledare per 6 spelare |
 
 Förbundet delar grön i 6–7 och 8–9 år. Våra grupper går efter år på nivån, så välj efter gruppen.  
-*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt.*
+*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i. Årtalen räknas ut automatiskt.*
 
 ### 3.2 Match
 Första året på grön spelar vi matcher (Moälvens beslut).

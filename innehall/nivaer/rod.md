@@ -10,7 +10,7 @@ niva: "rod"
 ---
 
 ## 1. Vad är röd nivå?
-- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:rod}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in.  
+- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:rod}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.  
 - Röd nivå heter Träna för att träna hos förbundet. I Moälvsmodellen är undertiteln "Jag, du och spelet".  
 - Glädje, trygghet och utvecklingsfokus. Psykologisk trygghet och positiv, konstruktiv feedback.  
 - Kärnan: hela spelet. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  

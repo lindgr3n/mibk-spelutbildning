@@ -38,4 +38,4 @@ Välkommen till Moälvens IBK! Hos oss ska innebandy vara **roligt**. Alla får 
 **Vi lovar:** mycket lek och boll, ingen resultattavla och inga tabeller, och ledare som ser alla barn.
 
 **Tider och hall:** Varierar mellan åren, oftast på helgen. Aktuella tider finns på [moalvensibk.se](https://moalvensibk.se).  
-*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in.*
+*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.*

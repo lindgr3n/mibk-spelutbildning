@@ -20,7 +20,7 @@ Vi startar nya lag varje säsong. De två yngsta grupperna ligger på **två oli
 | Matcher | **Inga matcher** (Moälvens beslut). Fokus är rörelseglädje genom lek och rörelse | Förbundet för 6–7 år: *"Poolspel, inga matcher första året. 3vs3 spel endast."* Första året på grön spelar vi matcher (Moälvens beslut). |
 | Material | Lekar och grundformerna nedan. Övningsbankens lekar, till exempel [Ö1](/ovningar/o1/), [Ö2](/ovningar/o2/) och [Ö5](/ovningar/o5/), går också bra | Grön nivå – Jag och bollen, med säsongsplanen |
 
-*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt.*
+*Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i. Årtalen räknas ut automatiskt.*
 
 **Så spelar vi på ljusgrön:** här handlar allt om lek, rörelse och skoj. Vi springer, hoppar, kryper, kastar och fångar, med och utan boll, och barnen lär känna varandra och ledarna. Det ska vara kul att komma till träningen och roligt att komma tillbaka. Innebandyn kommer in lite i taget, genom lekar med boll och klubba, utan krav och utan prestation. Röd tråd: fasta rutiner varje gång, säg hej och hejdå till alla och beröm försöken. Hur starten, träningstider och utrustning fungerar står i [ledarguiden](https://mibk-ledarguiden.vercel.app/ljusgron/).
 

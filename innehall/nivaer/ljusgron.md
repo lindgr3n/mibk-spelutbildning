@@ -9,7 +9,7 @@ niva: "ljusgron"
 
 ## 1. Vad är ljusgrön nivå?
 - Ljusgrön nivå heter Lek och rörelse hos förbundet (0–6 år). Hos oss startar de yngsta i Moälven Kidz, ca 5–7 år.
-- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:ljusgron}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in.
+- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:ljusgron}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.
 - Här handlar allt om lek, rörelse och skoj. Vi springer, hoppar, kryper, kastar och fångar, med och utan boll, och barnen lär känna varandra och ledarna. Det ska vara kul att komma till träningen och roligt att komma tillbaka. Innebandyn kommer in lite i taget, genom lekar med boll och klubba, utan krav och utan prestation.
 - Inga matcher, inga resultat och inga tabeller.
 - Förbundet nämner rörelserna åla och krypa, gå, springa, hoppa, balansera, hänga, rulla, stödja och kasta och fånga. Träningen är inte särskilt inriktad på innebandy ([Svensk Innebandy, SIU-modellens nivåer](https://innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/siu-modellens-olika-nivaer)).

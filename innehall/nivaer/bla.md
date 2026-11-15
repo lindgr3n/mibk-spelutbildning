@@ -10,7 +10,7 @@ niva: "bla"
 ---
 
 ## 1. Vad är blå nivå?
-- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:bla}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in.  
+- Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:bla}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.  
 - Blå nivå heter Lära sig träna hos förbundet. I Moälvsmodellen är undertiteln "Jag, du och bollen".  
 - Glädje och trygghet först. Individuell utveckling prioriteras alltid före resultatmål.  
 - Kärnan: kompisen kommer in i spelet. Tekniken växer, och spelarna lär sig passa, ta emot och göra sig spelbara.  
