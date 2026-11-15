@@ -26,14 +26,12 @@ Ovanpå det lägger vi vår egen röda tråd: en gemensam spelidé och ett gemen
 - För att alla tränare ska dra åt samma håll, även när tränare byts ut.  
 - För att spelarna ska känna igen sig när de går från en nivå till nästa.
 
-> 
-
 **Grundtanken: roligt först. Utveckling hela tiden. Samma röda tråd i alla lag.**
 
 ### Planen består av tre delar
 1. Huvuddokumentet (nu det här dokumentet, Moälvens spelutvecklingsplan): den röda tråden, spelidén, nivåerna och de gemensamma ramarna. Ordlistan hör till huvuddokumentet (dokumentet *Ordlista – Moälvsmodellen*).  
 2. Övningsbank (separat dokument): alla övningar och färdiga träningspass, sorterade efter nivå och kopplade till Moälvens spelidé (dokumentet *Övningsbank – Moälvsmodellen*).  
-3. Spelformsblad (en A4 per nivå): en grov, övergripande sammanfattning av hela spelutbildningen på nivån — spelidé, fokus, spelform och röd tråd. Görs för ljusgrön, grön, blå och röd (dokumentet [Spelformsblad – Moälvsmodellen](/spelformsblad/)).
+3. Ledarguiden (egen webbsida): regler och administration, ett blad per nivå med spelform, plan, mål, domare och anmälan, samt matchdagens checklista. Spelutbildningen upprepar inte reglerna utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).
 
 Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 
@@ -159,7 +157,7 @@ Prioriterade fokusområden per nivå:
 - Förbundet rekommenderar en ledare per sex spelare [[5]](#källor).  
 - Hälsa på motståndare och domare före match, och tacka efteråt.  
 - Barnen gör som du gör, inte som du säger.  
-- Utbildning: alla ledare som står i matchprotokollet på grön, blå och röd nivå ska ha giltig utbildning, alltså grundutbildning och Steg 1 för nivån. Det är Svensk Innebandys utbildningskrav från säsongen 2026/27 [[8]](#källor).
+- Utbildning: alla ledare som står i matchprotokollet på grön, blå och röd nivå ska ha giltig utbildning, alltså grundutbildning och Steg 1 för nivån. Det är Svensk Innebandys utbildningskrav från säsongen 2026/27 [[8]](#källor). Vad som gäller på varje nivå står i [ledarguiden](https://mibk-ledarguiden.vercel.app).
 
 ### Föräldrar
 - Förbundet skriver: *"Ni ledare, spelare, matchledare/domare och föräldrar är avgörande för att innebandyn ska vara trygg och utvecklande för barnen och ungdomarna." [[9]](#källor)* Vi vill ha en trygg och bra matchmiljö för våra barn, ledare och domare.  

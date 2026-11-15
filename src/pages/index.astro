@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import Hero from '../components/Hero.astro';
 import Icon from '../components/Icon.astro';
-import { nivaer } from '../lib/nivaer';
+import { LEDARGUIDEN_URL, nivaer } from '../lib/nivaer';
 
 const ovningar = await getCollection('ovningar');
 const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).length;
@@ -67,10 +67,10 @@ const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).lengt
 		<section class="card panel" aria-labelledby="spelform-title">
 			<Icon name="doc" size={56} />
 			<div>
-				<h2 id="spelform-title">Spelformsblad</h2>
-				<p>En sida per nivå: spelidé, fokus, spelform och röd tråd.</p>
+				<h2 id="spelform-title">Regler och matchdag</h2>
+				<p>Spelform, plan, mål, domare, anmälan och matchdagens checklista finns i ledarguiden, ett blad per nivå.</p>
 			</div>
-			<a class="link-arrow" href="/spelformsblad/">Öppna spelformsbladet <Icon name="arrow" size={18} /></a>
+			<a class="link-arrow" href={LEDARGUIDEN_URL}>Till ledarguiden <Icon name="arrow" size={18} /></a>
 		</section>
 
 		<section class="card panel" aria-labelledby="ordlista-title">

@@ -126,28 +126,12 @@ På matchdagen:
 - Efter: tacka motståndarna och domarna och ha en kort samling där barnen får berätta.
 
 ### 3.3 Spelform 3 mot 3
-|  | 3 mot 3 utan målvakt | 3 mot 3 med målvakt |
-| :---- | :---- | :---- |
-| Plan | 20 × 12 m (tre planer i en hall) | 20 × 12 m |
-| Målbur | 90 × 60 cm | 120 × 90 cm |
-| Målvaktsområde | 90 × 50 cm (ingen får stå där) | 1 × 2 m |
-| Speltid | Rullande. I Västernorrland 2026/27: 1 × 15 minuter rullande tid i sammandrag (div 8 med målvakt, div 9 utan). Ingen tabell och inga resultat (Västernorrlands matris ungdom 2026/27) | Samma |
-| Byten | Intervallbyten var 90–120 sekunder. Sekretariatet signalerar. Efter bytet startar det försvarande laget spelet på målpunkten | Samma |
-| Timeout | Nej | Nej |
-| Ta ut målvakten | – | Nej, målvakten får inte ersättas med en extra utespelare |
-| Resultattavla | Ingen synlig | Ingen synlig |
-| Fasta situationer | Får inte gå direkt i mål. Avstånd 1,5 m. Får drivas eller passas | Samma |
-| Efter mål | Avslag på målpunkten. Laget som gjorde mål springer tillbaka till egen planhalva (mittlinjen är reträttlinje) | Samma. Även när målvakten fångar bollen springer det anfallande laget tillbaka |
-| Utvisning | Personlig och inte tidsbestämd. Laget spelar vidare med tre. Ledaren avgör när spelaren får spela igen | Samma |
-| Straffslag / fördelsregel | Nej / Nej | Nej / Nej |
-| Domare | 1–2 matchledare | 1–2 matchledare |
+Regler och praktiska uppgifter för grön nivå (division 8–9) finns i ledarguiden och upprepas inte här: [Grön nivå i ledarguiden](https://mibk-ledarguiden.vercel.app/gron/). Där står spelform, plan, mål, speltid, byten, domare, anmälan, licens och matchdagens checklista för säsongen.
 
-Utrustning:
+Det här är värt att ha med sig som tränare:
 
-- Alla spelare på planen ska bära skyddsglasögon.  
-- Målvakten ska ha långbyxor, ansiktsskydd (hjälm) och skor.  
-- Klubban ska ha IFF:s godkännandemärke. Se till att klubborna är lagom långa och utan överdrivet stor krok.  
-- Inga smycken eller annat som kan skada.
+- Planen är liten och smal men djup, så spelet går fram och tillbaka.
+- Klubborna ska vara lagom långa och utan överdrivet stor krok.
 
 ---
 

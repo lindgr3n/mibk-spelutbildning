@@ -113,7 +113,7 @@ Målvakt (Moälvens beslut 2026-10-19: målvaktens fokusområden är bland annat
 | Samtal | Öppna frågor till gruppen | Enkla individuella samtal kan börja |
 | Ledarutbildning | Grundutbildning + Steg 1 blå | Grundutbildning + Steg 1 blå |
 
-*Exempel säsongen 2026/27: vilka födelseår som spelar på blå nivå [ATT FYLLA]. Bara denna rad uppdateras varje säsong.*
+*Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:bla}}. Det är en rekommendation, inte ett krav. Årtalen räknas ut automatiskt.*
 
 ### 3.2 Match
 Matcher (förbundets rekommendation): 9–10 år 4 mot 4, högst 1 match i veckan eller 2–3 matcher vid sammandrag. 11–12 år 4 mot 4, högst 1 match i veckan.
@@ -131,27 +131,7 @@ På matchdagen:
 - Övriga matchrutiner för blå nivå: [ATT FYLLA]
 
 ### 3.3 Spelform 4 mot 4 med målvakt
-|  | 4 mot 4 med målvakt |
-| :---- | :---- |
-| Plan | 30 × 15 m (28 × 15 till 32 × 16) |
-| Målbur | 120 × 90 cm |
-| Målvaktsområde / målområde | 1 × 2,5 m / 4 × 5 m |
-| Speltid | Rullande. Stoppas vid mål, utvisning, straffslag och på domarens tecken. I Västernorrland 2026/27: 2 × 15 minuter med 3 minuters paus, rullande tid för 10–11 år (div 7) och effektiv tid för 11–12 år (div 6). Ingen tabell och inga resultat (Västernorrlands matris ungdom 2026/27) |
-| Byten | Flygande byten från en byteszon på 10 m |
-| Timeout / ta ut målvakt | Nej / Nej |
-| Resultattavla | Ingen synlig |
-| Utvisning | Personlig, 2 minuter. Spelaren sitter på den egna avbytarbänken |
-| Straffslag | Ja, från mittpunkten |
-| Fasta situationer | Ska slås, får gå direkt i mål, avstånd 3 m. Tekning efter mål |
-| Fördelsregel | Ja, men restriktivt |
-| Domare | 2 |
-
-Utrustning:
-
-- Alla spelare på planen ska bära skyddsglasögon.  
-- Målvakten ska ha långbyxor, ansiktsskydd (hjälm) och skor.  
-- Klubban ska ha IFF:s godkännandemärke.  
-- Inga smycken eller annat som kan skada.
+Regler och praktiska uppgifter för blå nivå (division 6–7) finns i ledarguiden och upprepas inte här: [Blå nivå i ledarguiden](https://mibk-ledarguiden.vercel.app/bla/). Där står spelform, plan, mål, speltid, byten, domare, anmälan, licens och matchdagens checklista för säsongen.
 
 ---
 

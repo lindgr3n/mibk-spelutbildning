@@ -113,7 +113,7 @@ Målvakt:
 | Ledare | En ledare per 6 spelare | En ledare per 6 spelare |
 | Ledarutbildning | Grundutbildning + Steg 1 röd | Grundutbildning + Steg 1 och Steg 2 röd |
 
-*Exempel säsongen 2026/27: vilka födelseår som spelar på röd nivå [ATT FYLLA]. Bara denna rad uppdateras varje säsong.*
+*Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:rod}}. Det är en rekommendation, inte ett krav. Årtalen räknas ut automatiskt.*
 
 ### 3.2 Match
 Matcher (förbundets rekommendation): 12–14 år 5 mot 5, högst 1–2 i veckan, alla får spela. 15–16 år 5 mot 5, högst 2 i veckan, ge alla speltid så långt det går.
@@ -125,14 +125,12 @@ Resultat och tabeller: i Västernorrland redovisas resultat och tabeller för r�
 På matchdagen: [ATT FYLLA]
 
 ### 3.3 Spelform 5 mot 5
-- Matcherna spelas enligt Regelhandboken. Speltiden avgörs av lokala förutsättningar. Den aktuella Regelhandboken gäller.  
-- 5 mot 5.  
-- Undantag för 16 år och yngre:  
-  - En spelare eller ledare som deltar utan att stå i matchprotokollet ger mindre lagstraff i stället för tekniskt matchstraff, och noteras därefter.  
-  - En målvakt får spela som utespelare senare i samma match.  
-- Planstorlek: 40 × 20 meter enligt regelhandboken (förbundets sida Spelet – röd nivå). Matchtid i Västernorrland 2026/27: 3 × 15 minuter effektiv tid med 5 minuters paus, och tabell förs (Västernorrlands matris ungdom 2026/27). Distriktets matris anger planen 18 × 36 meter. Förbundet anger inget nationellt för dessa.
+Regler och praktiska uppgifter för röd nivå (division 1–5) finns i ledarguiden och upprepas inte här: [Röd nivå i ledarguiden](https://mibk-ledarguiden.vercel.app/rod/). Där står spelform, plan, speltid, domare, anmälan, licens och matchdagens checklista för säsongen. Matcherna spelas enligt den aktuella Regelhandboken.
 
-Utrustning: enligt Regelhandboken [ATT FYLLA]
+Undantag för 16 år och yngre:
+
+- En spelare eller ledare som deltar utan att stå i matchprotokollet ger mindre lagstraff i stället för tekniskt matchstraff, och noteras därefter.
+- En målvakt får spela som utespelare senare i samma match.
 
 ---
 

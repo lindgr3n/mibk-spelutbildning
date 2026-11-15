@@ -22,6 +22,8 @@ Vi startar nya lag varje säsong. De två yngsta grupperna ligger på **två oli
 
 *Rekommenderade kullar säsongen {{sasong}}: ljusgrön = födda {{kull:ljusgron}}, grön första året = födda {{kull:gron1}}, andra året = födda {{kull:gron2}}, tredje året = födda {{kull:gron3}}. Det är en rekommendation, inte ett krav. Klubben avgör hur grupperna delas in. Årtalen räknas ut automatiskt.*
 
+**Så spelar vi på ljusgrön:** här handlar allt om lek, rörelse och skoj. Vi springer, hoppar, kryper, kastar och fångar, med och utan boll, och barnen lär känna varandra och ledarna. Det ska vara kul att komma till träningen och roligt att komma tillbaka. Innebandyn kommer in lite i taget, genom lekar med boll och klubba, utan krav och utan prestation. Röd tråd: fasta rutiner varje gång, säg hej och hejdå till alla och beröm försöken. Hur starten, träningstider och utrustning fungerar står i [ledarguiden](https://mibk-ledarguiden.vercel.app/ljusgron/).
+
 **Ljusgrön nivå enligt förbundet:**
 
 > *"Lek och rörelse (0-6 år) – ljusgrön. Denna nivå är inte särskilt inriktat gentemot innebandy utan kan bedrivas i olika idrottsliga sammanhang. Här ska lek och rörelse stå i fokus och fysisk aktivitet utgör en rolig del av barns liv."* Träningen bör innehålla "åla/krypa, gå, springa, hoppa, balansera, hänga, rulla, stödja och kasta/fånga". *"Som ledare är det viktigt att man är tydlig och enkel. Vidare gäller det att sätta barnet i centrum, ge beröm ofta och uppmuntra till utveckling."* Källa: Svensk Innebandy, [SIU-modellens olika nivåer](https://innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/siu-modellens-olika-nivaer)
@@ -58,7 +60,7 @@ Mallen följer VIBF:s uppstartsmall (föreningspolicy, förberedelser, marknadsf
 - [ ] Medlemsavgift: **[ATT BESLUTA: belopp]**.  
 - [ ] Träningsavgift ljusgrön: **[ATT BESLUTA: belopp, eller ingen]**.  
 - [ ] Träningsavgift grön första året: **[ATT BESLUTA: belopp]**.  
-- [ ] Spelarlicens och försäkring för grön första året: kontrollera vad som gäller **[ATT KONTROLLERA]**.  
+- [ ] Spelarlicens och försäkring för grön första året: alla spelare ska ha personlig spelarlicens (distriktets ungdomsmatris 2026/27, se [ledarguiden](https://mibk-ledarguiden.vercel.app/gron/)). Försäkringen: kontrollera vad som gäller **[ATT KONTROLLERA]**.  
 - [ ] Barnen får prova på tre gånger innan de betalar (beslut 2026-10-24).
 
 ### 2.4 Första passet (de första tre träningarna)

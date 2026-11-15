@@ -7,4 +7,7 @@ export const nivaer: { key: NivaKey; namn: string; undertitel: string; alder: st
 	{ key: 'rod', namn: 'Röd nivå', undertitel: 'Jag, du och spelet', alder: '12–16 år', spelform: '5 mot 5' },
 ];
 
+// Ledarguiden äger regler och administration (spelform, plan, mål, domare, anmälan, matchdagen) och ett blad per nivå.
+export const LEDARGUIDEN_URL = 'https://mibk-ledarguiden.vercel.app';
+
 export const nivaNamn = (key: NivaKey) => nivaer.find((n) => n.key === key)!.namn;

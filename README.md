@@ -1,6 +1,6 @@
 # Moälvens IBK – Spelutbildning
 
-Webbsida med Moälvens IBK:s spelutbildning: spelutvecklingsplanen, nivåerna (grön, blå, röd), övningsbanken, spelformsblad, ordlista och material för nya lag.
+Webbsida med Moälvens IBK:s spelutbildning: spelutvecklingsplanen, nivåerna (grön, blå, röd), övningsbanken, ordlista och material för nya lag.
 
 Sidan är byggd med [Astro](https://astro.build) och följer samma stil som [ledarguiden](https://mibk-ledarguiden.vercel.app/).
 
@@ -15,7 +15,6 @@ All text är vanlig Markdown och är källan till sidan. Ändra i filerna, så u
 | `innehall/ovningsbank/index.md` | Om övningsbanken (`/ovningar/`) |
 | `innehall/ovningsbank/ovningar/o01.md` … | Ett övningskort per fil (`/ovningar/o1/` osv.) |
 | `innehall/ovningsbank/pass/*.md` | Exempelpass per nivå |
-| `innehall/spelformsblad.md` | Spelformsblad |
 | `innehall/ordlista.md` | Ordlista |
 | `innehall/nya-lag.md` | Uppstart av nya lag och mentorrutin |
 | `innehall/att-vara-med.md` | Att vara med i Moälvens IBK |
