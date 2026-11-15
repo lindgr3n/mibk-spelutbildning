@@ -471,42 +471,65 @@ main .toc ul > li > a {
 
 .kull-group {
 	--lvl: var(--level-green);
-	padding-top: 0.9rem;
-	border-top: 6px solid var(--lvl);
+	--band-bg: var(--lvl);
+	--band-ink: #fff;
+	padding: 0;
+	overflow: hidden;
 }
 
 .kull-ljusgron {
 	--lvl: var(--level-lightgreen);
+	--band-bg: linear-gradient(135deg, #d6efb4, #b9df85);
+	--band-ink: #1d3a0b;
 }
 
 .kull-gron {
 	--lvl: var(--level-green);
+	--band-bg: linear-gradient(135deg, rgb(10 120 62), rgb(6 80 42));
+	--band-ink: #fff;
 }
 
 .kull-bla {
 	--lvl: var(--level-blue);
+	--band-bg: linear-gradient(135deg, rgb(10 80 175), rgb(6 50 125));
+	--band-ink: #fff;
 }
 
 .kull-rod {
 	--lvl: var(--level-red);
+	--band-bg: linear-gradient(135deg, rgb(160 14 24), rgb(110 8 18));
+	--band-ink: #fff;
 }
 
 .kull-group h3 {
-	margin: 0 0 0.5rem;
-	color: var(--lvl);
-	font-size: 1.125rem;
+	margin: 0;
+	padding: 0.9rem 1.25rem;
+	background: var(--band-bg);
+	color: var(--band-ink);
+	font-family: var(--font-slab);
+	font-size: 1.25rem;
+	font-weight: 700;
+	line-height: 1.1;
+	text-transform: uppercase;
+	print-color-adjust: exact;
+	-webkit-print-color-adjust: exact;
 }
 
 .kull-group dl {
 	margin: 0;
+	padding: 0.4rem 1.25rem 0.75rem;
 }
 
 .kull-group dl > div {
 	display: flex;
 	justify-content: space-between;
 	gap: 1rem;
-	padding: 0.35rem 0;
+	padding: 0.45rem 0;
 	border-top: 1px solid var(--card-line);
+}
+
+.kull-group dl > div:first-child {
+	border-top: 0;
 }
 
 .kull-group dt {
