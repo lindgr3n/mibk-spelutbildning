@@ -50,15 +50,11 @@ const alla = kullar();
 					<li class={`card kull-group kull-${n.key}`}>
 						<h3>{n.namn}</h3>
 						<dl>
-							<div class="kull-division">
-								<dt>Division</dt>
-								<dd>{n.division}</dd>
-							</div>
 							{alla
 								.filter((k) => k.id.startsWith(n.key))
 								.map((k) => (
 									<div>
-										<dt>{k.etikett === k.niva ? 'Födda' : k.etikett}</dt>
+										<dt>{k.division ? `Div ${k.division}: ` : ''}{k.etikett === k.niva ? 'Födda' : k.etikett}</dt>
 										<dd>{k.fodelsear}</dd>
 									</div>
 								))}
