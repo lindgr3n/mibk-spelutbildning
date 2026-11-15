@@ -52,7 +52,7 @@ npm run build    # bygger den statiska sidan till dist/
 
 ## Ny säsong sker automatiskt
 
-Säsong och rekommenderade födelseår (grön, blå, röd och ljusgrön) räknas ut från datumet när sidan byggs, i `src/lib/sasong.mjs`. Säsongen byter den 1 juli. Eftersom sidan är statisk byggs den om automatiskt den 1 juli varje år av `.github/workflows/ny-sasong.yml`.
+Säsong och rekommenderade födelseår (grön, blå, röd och ljusgrön) räknas ut från datumet när sidan byggs, i `src/lib/sasong.mjs`. Kullarna byter den 1 juni: Kidz (ljusgrön) är året minus 6 från juni och framåt, före juni året före, och varje steg uppåt är ett år äldre. Eftersom sidan är statisk byggs den om automatiskt den 1 juni varje år av `.github/workflows/ny-sasong.yml`.
 
 Engångsinställning (annars körs bygget inte):
 

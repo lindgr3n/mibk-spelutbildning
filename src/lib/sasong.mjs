@@ -1,12 +1,12 @@
 // Säsong och födelseår per nivå och år på nivån. Räknas ut från datumet när sidan byggs,
 // så ingen behöver uppdatera årtal för hand.
 //
-// Säsongen börjar 1 juli (säsongen 2026/27 gäller från juli 2026).
-// Åldern är det år barnet fyller under säsongens startår: födelseår = startår − ålder.
+// Kullarna byter 1 juni (säsongen 2026/27 gäller från juni 2026): från juni är startåret det aktuella året, före juni
+// föregående år. Kidz (ljusgrön) är startåret − 6, och varje steg uppåt är ett år äldre: födelseår = startår − ålder.
 // Det stämmer med exemplet 2026/27: ljusgrön 2020 (6 år), grön 2019, 2018, 2017 (7, 8, 9 år), blå 2016 och 2015
 // (10 och 11 år) och röd 2014 till 2010 (12 till 16 år).
 
-export const SASONGSSTART_MANAD = 7; // juli
+export const SASONGSSTART_MANAD = 6; // juni
 
 /** @typedef {{ id: string, division: string | null, niva: string, etikett: string, alder: number }} Kull */
 // division är vilken division årskullen spelar i enligt Moälvens uppdelning: grön 2 år div 9 och 1 år div 8,
