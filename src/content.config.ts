@@ -44,4 +44,25 @@ const ovningsbank = defineCollection({
 	schema: z.object({ titel: z.string() }),
 });
 
-export const collections = { dokument, ovningar, pass, ovningsbank };
+// Spelformsblad: ett enkelt blad per nivå, i samma anda som fotbollens nationella spelformer.
+const spelformsblad = defineCollection({
+	loader: glob({ pattern: '*.md', base: './innehall/spelformsblad' }),
+	schema: z.object({
+		niva: z.enum(['ljusgron', 'gron', 'bla', 'rod']),
+		nivaNamn: z.string(),
+		undertitel: z.string(),
+		alder: z.string(),
+		spelform: z.string(),
+		kort: z.string(),
+		forutsattningar: z.array(
+			z.object({
+				ikon: z.enum(['court', 'goal', 'users', 'clock', 'swap', 'trophy', 'calendar', 'megaphone']),
+				rubrik: z.string(),
+				varde: z.string(),
+				tips: z.string().optional(),
+			}),
+		),
+	}),
+});
+
+export const collections = { dokument, ovningar, pass, ovningsbank, spelformsblad };

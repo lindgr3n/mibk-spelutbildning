@@ -1,0 +1,75 @@
+---
+import { render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Icon from '../../components/Icon.astro';
+import { hamtaBlad } from '../../lib/spelformsblad';
+
+export async function getStaticPaths() {
+	return (await hamtaBlad()).map((b) => ({ params: { niva: b.data.niva }, props: { b } }));
+}
+
+const { b } = Astro.props;
+const d = b.data;
+const { Content } = await render(b);
+const harNivadokument = d.niva !== 'ljusgron';
+---
+
+<Layout title={`Spelformsblad ${d.nivaNamn.toLowerCase()}`}>
+	<Fragment slot="hero">
+		<Hero labelledby="blad-title">
+			<a class="hero-back" href="/spelformsblad/"><Icon name="back" size={20} /> Alla spelformsblad</a>
+			<p class="eyebrow">Spelformsblad · {d.nivaNamn}</p>
+			<h1 id="blad-title">
+				<span class={`lvl-word-${d.niva}`}>{d.spelform}</span>
+				<span class="lvl-sub">{d.alder}</span>
+			</h1>
+		</Hero>
+	</Fragment>
+
+	<article class={`sfb-sheet sfb-${d.niva}`}>
+		<header class="sfb-band">
+			<span class="sfb-band-format">{d.spelform}</span>
+			<span class="sfb-band-meta">{d.nivaNamn} · {d.undertitel} · {d.alder}</span>
+			<span class="sfb-band-club">Moälvens IBK</span>
+		</header>
+
+		<h2 class="sfb-h">Förutsättningar</h2>
+		<dl class="sfb-facts">
+			{
+				d.forutsattningar.map((f) => (
+					<div class="sfb-row">
+						<span class="sfb-icon" aria-hidden="true">
+							<Icon name={f.ikon} size={28} />
+						</span>
+						<dt>{f.rubrik}</dt>
+						<dd class="sfb-value">{f.varde}</dd>
+						{f.tips && <dd class="sfb-tip">{f.tips}</dd>}
+					</div>
+				))
+			}
+		</dl>
+
+		<div class="sfb-body prose">
+			<Content />
+		</div>
+
+		<footer class="sfb-foot">
+			{
+				harNivadokument && (
+					<a class="btn-outline" href={`/nivaer/${d.niva}/`}>
+						<Icon name="book" size={18} /> Hela nivådokumentet
+					</a>
+				)
+			}
+			<button class="btn-outline sfb-print" type="button" onclick="window.print()">
+				<Icon name="doc" size={18} /> Skriv ut (A4)
+			</button>
+			<p class="edit-link">
+				<a href={`https://github.com/lindgr3n/mibk-spelutbildning/blob/main/innehall/spelformsblad/${b.id}.md`}>
+					Källfilen på GitHub <Icon name="external" size={16} />
+				</a>
+			</p>
+		</footer>
+	</article>
+</Layout>

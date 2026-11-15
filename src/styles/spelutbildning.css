@@ -446,3 +446,299 @@ main .toc ul > li > a {
 .prose a {
 	overflow-wrap: anywhere;
 }
+
+/* ==== Spelformsblad: fyra kort och ett enkelt blad per nivå (som fotbollens nationella spelformer) ==== */
+.sfb-ljusgron {
+	--sfb: #3f7d1c;
+	--sfb-bg: linear-gradient(135deg, #d6efb4, #b9df85);
+	--sfb-ink: #1d3a0b;
+}
+
+.sfb-gron {
+	--sfb: var(--level-green);
+	--sfb-bg: linear-gradient(135deg, rgb(10 120 62), rgb(6 80 42));
+	--sfb-ink: #fff;
+}
+
+.sfb-bla {
+	--sfb: var(--level-blue);
+	--sfb-bg: linear-gradient(135deg, rgb(10 80 175), rgb(6 50 125));
+	--sfb-ink: #fff;
+}
+
+.sfb-rod {
+	--sfb: var(--level-red);
+	--sfb-bg: linear-gradient(135deg, rgb(160 14 24), rgb(110 8 18));
+	--sfb-ink: #fff;
+}
+
+.lvl-word-ljusgron {
+	color: #b9e58a;
+}
+
+.sfb-cards {
+	display: grid;
+	gap: 1rem;
+	margin: 1.5rem 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+@media (min-width: 40rem) {
+	.sfb-cards {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 72rem) {
+	.sfb-cards {
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
+
+main ul.sfb-cards > li.sfb-card > a {
+	display: flex;
+	flex-direction: column;
+	gap: 0.35rem;
+	height: 100%;
+	align-items: flex-start;
+	min-height: 15rem;
+	padding: 1.25rem 1.4rem;
+	border-radius: var(--radius);
+	background: var(--sfb-bg);
+	color: var(--sfb-ink);
+	text-decoration: none;
+	transition: transform 0.15s, box-shadow 0.15s;
+}
+
+main ul.sfb-cards > li.sfb-card > a:hover {
+	transform: translateY(-2px);
+	box-shadow: 0 8px 22px rgb(0 0 0 / 0.16);
+}
+
+.sfb-card-level {
+	font-size: 0.8125rem;
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+}
+
+.sfb-card-format {
+	font-family: var(--font-slab);
+	font-size: clamp(2.1rem, 4vw, 2.6rem);
+	font-weight: 700;
+	line-height: 1.05;
+}
+
+.sfb-card-text {
+	margin-bottom: auto;
+}
+
+.sfb-card-more {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.4rem;
+	margin-top: 1rem;
+	font-weight: 700;
+}
+
+/* Bladet */
+.sfb-sheet {
+	max-width: 52rem;
+	margin: 0 auto;
+	background: var(--card);
+	border: 1px solid var(--card-line);
+	border-radius: var(--radius);
+	overflow: hidden;
+}
+
+.sfb-band {
+	display: grid;
+	grid-template-columns: 1fr auto;
+	gap: 0.15rem 1rem;
+	padding: 1.1rem 1.4rem;
+	background: var(--sfb-bg);
+	color: var(--sfb-ink);
+}
+
+.sfb-band-format {
+	font-family: var(--font-slab);
+	font-size: clamp(2rem, 6vw, 2.75rem);
+	font-weight: 700;
+	line-height: 1;
+	text-transform: uppercase;
+}
+
+.sfb-band-club {
+	grid-column: 2;
+	grid-row: 1;
+	align-self: start;
+	font-size: 0.8125rem;
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	text-transform: uppercase;
+	opacity: 0.85;
+}
+
+.sfb-band-meta {
+	grid-column: 1 / -1;
+	font-weight: 600;
+}
+
+.sfb-facts {
+	margin: 0;
+	padding: 0 1.4rem;
+}
+
+/* Mobil: ikon + rubrik och värde, tipset under. Bredare: tipset i egen kolumn som fotbollens "Rekommendationer". */
+.sfb-row {
+	display: grid;
+	grid-template-columns: 2.5rem 1fr;
+	gap: 0.1rem 0.75rem;
+	padding-block: 0.7rem;
+	border-top: 1px solid var(--card-line);
+}
+
+.sfb-icon {
+	grid-row: 1 / span 3;
+	display: grid;
+	place-items: center;
+	width: 2.5rem;
+	height: 2.5rem;
+	border-radius: 8px;
+	background: color-mix(in srgb, var(--sfb) 12%, #fff);
+	color: var(--sfb);
+}
+
+.sfb-row dt {
+	font-weight: 700;
+}
+
+.sfb-row dd {
+	margin: 0;
+}
+
+.sfb-tip {
+	color: var(--muted);
+	font-size: 0.9375rem;
+}
+
+@media (min-width: 40rem) {
+	.sfb-row {
+		grid-template-columns: 2.5rem minmax(0, 1fr) minmax(0, 1fr);
+	}
+
+	.sfb-row dt,
+	.sfb-value {
+		grid-column: 2;
+	}
+
+	.sfb-tip {
+		grid-column: 3;
+		grid-row: 1 / span 2;
+		align-self: center;
+		padding-left: 1rem;
+		border-left: 3px solid color-mix(in srgb, var(--sfb) 30%, #fff);
+	}
+}
+
+.sfb-body {
+	padding: 0.5rem 1.4rem 0;
+}
+
+.sfb-body h2,
+.sfb-h {
+	margin: 1.25rem 0 0.5rem;
+	padding: 0 0 0.3rem;
+	background: none;
+	border: 0;
+	border-bottom: 3px solid var(--sfb);
+	color: var(--sfb);
+	font-size: 1.25rem;
+}
+
+.sfb-h {
+	margin-inline: 1.4rem;
+}
+
+.sfb-body ul {
+	padding-left: 1.2rem;
+}
+
+.sfb-foot {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	gap: 0.75rem;
+	padding: 1rem 1.4rem 1.4rem;
+}
+
+.sfb-foot .edit-link {
+	margin: 0 0 0 auto;
+}
+
+.sfb-print {
+	cursor: pointer;
+	font: inherit;
+	font-weight: 700;
+}
+
+@media print {
+	@page {
+		size: A4;
+		margin: 12mm;
+	}
+
+	.hero:has(#blad-title) {
+		display: none;
+	}
+
+	.sfb-sheet {
+		max-width: none;
+		border: 0;
+		font-size: 9.5pt;
+		line-height: 1.35;
+	}
+
+	.sfb-sheet p {
+		max-width: none;
+	}
+
+	.sfb-body h2,
+	.sfb-h {
+		margin-block: 0.7rem 0.35rem;
+		font-size: 12pt;
+	}
+
+	.sfb-body p,
+	.sfb-body ul {
+		margin-block: 0.3rem;
+	}
+
+	.sfb-band,
+	.sfb-icon {
+		print-color-adjust: exact;
+		-webkit-print-color-adjust: exact;
+	}
+
+	.sfb-row {
+		grid-template-columns: 2.2rem 1fr 1fr;
+		padding-block: 0.25rem;
+		break-inside: avoid;
+	}
+
+	.sfb-row dt,
+	.sfb-value {
+		grid-column: 2;
+	}
+
+	.sfb-tip {
+		grid-column: 3;
+		grid-row: 1 / span 2;
+		font-size: 9pt;
+	}
+
+	.sfb-foot {
+		display: none;
+	}
+}

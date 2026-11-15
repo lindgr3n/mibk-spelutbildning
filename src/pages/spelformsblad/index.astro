@@ -1,0 +1,40 @@
+---
+import { getEntry, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+import Hero from '../../components/Hero.astro';
+import Icon from '../../components/Icon.astro';
+import { hamtaBlad } from '../../lib/spelformsblad';
+
+const intro = (await getEntry('dokument', 'spelformsblad'))!;
+const { Content } = await render(intro);
+const blad = await hamtaBlad();
+---
+
+<Layout title="Spelformsblad">
+	<Fragment slot="hero">
+		<Hero labelledby="sfb-title">
+			<p class="eyebrow">Ett blad per nivå</p>
+			<h1 id="sfb-title"><span class="lvl-word-neutral">Spelformsblad</span></h1>
+			<div class="hero-lead"><Content /></div>
+		</Hero>
+	</Fragment>
+
+	<ul class="sfb-cards">
+		{
+			blad.map((b) => (
+				<li class={`sfb-card sfb-${b.data.niva}`}>
+					<a href={`/spelformsblad/${b.data.niva}/`}>
+						<span class="sfb-card-level">
+							{b.data.nivaNamn} · {b.data.alder}
+						</span>
+						<span class="sfb-card-format">{b.data.spelform}</span>
+						<span class="sfb-card-text">{b.data.kort}</span>
+						<span class="sfb-card-more">
+							Öppna bladet <Icon name="arrow" size={18} />
+						</span>
+					</a>
+				</li>
+			))
+		}
+	</ul>
+</Layout>
