@@ -450,3 +450,82 @@ main .toc ul > li > a {
 .prose a {
 	overflow-wrap: anywhere;
 }
+
+/* ---- Nivåer: rekommenderade kullar, en grupp per nivå i samma kolumner som nivåkorten ---- */
+.kull-section {
+	margin-top: 1.5rem;
+}
+
+.kull-note {
+	margin: 0.25rem 0 0;
+	color: var(--muted);
+}
+
+.kull-grid {
+	display: grid;
+	gap: 1rem;
+	margin: 1rem 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+.kull-group {
+	--lvl: var(--level-green);
+	padding-top: 0.9rem;
+	border-top: 6px solid var(--lvl);
+}
+
+.kull-ljusgron {
+	--lvl: var(--level-lightgreen);
+}
+
+.kull-gron {
+	--lvl: var(--level-green);
+}
+
+.kull-bla {
+	--lvl: var(--level-blue);
+}
+
+.kull-rod {
+	--lvl: var(--level-red);
+}
+
+.kull-group h3 {
+	margin: 0 0 0.5rem;
+	color: var(--lvl);
+	font-size: 1.125rem;
+}
+
+.kull-group dl {
+	margin: 0;
+}
+
+.kull-group dl > div {
+	display: flex;
+	justify-content: space-between;
+	gap: 1rem;
+	padding: 0.35rem 0;
+	border-top: 1px solid var(--card-line);
+}
+
+.kull-group dt {
+	color: var(--muted);
+}
+
+.kull-group dd {
+	margin: 0;
+	font-weight: 700;
+}
+
+@media (min-width: 40rem) {
+	.kull-grid-4 {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 72rem) {
+	.kull-grid-4 {
+		grid-template-columns: repeat(4, 1fr);
+	}
+}
