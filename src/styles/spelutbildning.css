@@ -102,6 +102,10 @@ main .toc ul > li > a {
 	margin-top: 0;
 }
 
+.prose-ljusgron {
+	--accent: var(--level-lightgreen);
+}
+
 .prose-gron {
 	--accent: var(--level-green);
 }

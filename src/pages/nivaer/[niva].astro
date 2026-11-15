@@ -27,7 +27,7 @@ const kort = (await getCollection('ovningar')).filter((o) => o.data.niva === n.k
 	editPath={`innehall/${doc.id}.md`}
 >
 	<div class="quick-links">
-		<a class="btn-outline" href={`/ovningar/?niva=${n.key}`}><Icon name="court" size={18} /> {kort.length} övningskort</a>
+		{kort.length > 0 && <a class="btn-outline" href={`/ovningar/?niva=${n.key}`}><Icon name="court" size={18} /> {kort.length} övningskort</a>}
 		{pass && <a class="btn-outline" href={`/pass/${pass.id}/`}><Icon name="clock" size={18} /> Exempelpass</a>}
 		<a class="btn-outline" href={`${LEDARGUIDEN_URL}/${n.key}/`}><Icon name="doc" size={18} /> Regler och matchdag</a>
 	</div>

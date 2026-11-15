@@ -23,13 +23,13 @@ const antal = (key: string) => ovningar.filter((o) => o.data.niva === key).lengt
 
 	<section aria-labelledby="valj-niva-title">
 		<h2 id="valj-niva-title" class="visually-hidden">Välj nivå</h2>
-		<ul class="level-cards">
+		<ul class={`level-cards${nivaer.length > 3 ? ' level-cards-4' : ''}`}>
 			{
 				nivaer.map((n) => (
 					<LevelCard niva={n.key} titel={n.namn} href={`/nivaer/${n.key}/`} knapp={`Gå till ${n.namn.toLowerCase()}`}>
 						{n.undertitel} · {n.alder}
 						<br />
-						{antal(n.key)} övningskort · {n.spelform}
+						{antal(n.key) > 0 ? `${antal(n.key)} övningskort · ` : ''}{n.spelform}
 					</LevelCard>
 				))
 			}

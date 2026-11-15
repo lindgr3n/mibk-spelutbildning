@@ -24,7 +24,7 @@ const { Content } = await render(bank);
 			<h2 id="kort-title" class="filter-title">Övningskort</h2>
 			<button type="button" class="chip" data-filter="alla" aria-pressed="true">Alla ({kort.length})</button>
 			{
-				nivaer.map((n) => (
+				nivaer.filter((n) => kort.some((k) => k.data.niva === n.key)).map((n) => (
 					<button type="button" class={`chip chip-${n.key}`} data-filter={n.key} aria-pressed="false">
 						{n.namn} ({kort.filter((k) => k.data.niva === n.key).length})
 					</button>

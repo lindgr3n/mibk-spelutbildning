@@ -3,7 +3,7 @@ import { glob } from 'astro/loaders';
 import { z } from 'astro/zod';
 
 // Allt innehåll ligger som Markdown i mappen innehall/. Det är källan; webbsidan byggs från den.
-const niva = z.enum(['gron', 'bla', 'rod']);
+const niva = z.enum(['ljusgron', 'gron', 'bla', 'rod']);
 
 // Planen, nivådokumenten, ordlistan med flera: ett dokument per fil.
 const dokument = defineCollection({

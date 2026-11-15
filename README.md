@@ -11,7 +11,7 @@ All text är vanlig Markdown och är källan till sidan. Ändra i filerna, så u
 | Fil | Sida |
 |---|---|
 | `innehall/plan.md` | Spelutvecklingsplanen (`/plan/`) |
-| `innehall/nivaer/gron.md`, `bla.md`, `rod.md` | Nivåerna (`/nivaer/gron/` osv.) |
+| `innehall/nivaer/ljusgron.md`, `gron.md`, `bla.md`, `rod.md` | Nivåerna (`/nivaer/gron/` osv.) |
 | `innehall/ovningsbank/index.md` | Om övningsbanken (`/ovningar/`) |
 | `innehall/ovningsbank/ovningar/o01.md` … | Ett övningskort per fil (`/ovningar/o1/` osv.) |
 | `innehall/ovningsbank/pass/*.md` | Exempelpass per nivå |

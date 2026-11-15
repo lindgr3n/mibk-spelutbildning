@@ -21,7 +21,7 @@ const alla = kullar();
 		</Hero>
 	</Fragment>
 
-	<ul class="level-cards">
+	<ul class={`level-cards${nivaer.length > 3 ? ' level-cards-4' : ''}`}>
 		{
 			nivaer.map((n) => (
 				<LevelCard
@@ -35,7 +35,7 @@ const alla = kullar();
 					<br />
 					Rekommenderat: födda {nivaFodelsear(n.key)}
 					<br />
-					{n.spelform} · {ovningar.filter((o) => o.data.niva === n.key).length} övningskort
+					{ovningar.filter((o) => o.data.niva === n.key).length > 0 ? `${ovningar.filter((o) => o.data.niva === n.key).length} övningskort · ` : ''}{n.spelform}
 				</LevelCard>
 			))
 		}
@@ -59,14 +59,6 @@ const alla = kullar();
 	</section>
 
 	<div class="panel-row">
-		<section class="card panel">
-			<Icon name="users" size={56} />
-			<div>
-				<h2>Ljusgrön nivå (0–6 år)</h2>
-				<p>Rekommenderat: födda {nivaFodelsear('ljusgron')}. Lek och rörelse. Inga matcher. Se uppstarten av nya lag och planens avsnitt om nivåerna.</p>
-			</div>
-			<a class="link-arrow" href="/nya-lag/">Starta ett nytt lag <Icon name="arrow" size={18} /></a>
-		</section>
 		<section class="card panel">
 			<Icon name="users" size={56} />
 			<div>

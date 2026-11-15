@@ -98,6 +98,10 @@
 	color: var(--level-blue);
 }
 
+.lvl-word-ljusgron {
+	color: #b9e58a;
+}
+
 .lvl-word-gron {
 	color: var(--level-green);
 }
@@ -949,4 +953,17 @@
 	margin-left: auto;
 	text-align: right;
 	white-space: nowrap;
+}
+
+/* Fyra nivåkort (ljusgrön, grön, blå, röd): två i rad på mellanstor skärm, fyra på bred */
+@media (min-width: 40rem) {
+	.level-cards-4 {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
+@media (min-width: 72rem) {
+	.level-cards-4 {
+		grid-template-columns: repeat(4, 1fr);
+	}
 }
