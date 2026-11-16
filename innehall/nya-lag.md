@@ -4,8 +4,6 @@ titel: "Uppstart av nya lag och mentorrutin – utkast"
 
 *Moälvens IBK · utkast · arbetsmaterial, inte beslutat*
 
-> **Moälvens förslag** betyder att innehållet är vårt eget. **[ATT BESLUTA]** betyder att klubben behöver bestämma. Allt från förbundet har källa.
-
 ---
 
 ## 1. Bakgrund
