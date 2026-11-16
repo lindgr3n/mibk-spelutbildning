@@ -27,9 +27,9 @@ Ovanpå det lägger vi vår egen orangea tråd: en gemensam spelidé och ett gem
 - För att spelarna ska känna igen sig när de går från en nivå till nästa.
 
 <div class="grundtanke" role="group" aria-label="Grundtanken">
-<div class="card"><strong>Roligt först.</strong></div>
-<div class="card"><strong>Utveckling hela tiden.</strong></div>
-<div class="card"><strong>Samma orangea tråd i alla lag.</strong></div>
+<div class="card"><strong>Roligt</strong></div>
+<div class="card"><strong>Utveckling</strong></div>
+<div class="card"><strong>Helhet</strong></div>
 </div>
 
 ### Planen består av tre delar
