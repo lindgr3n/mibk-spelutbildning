@@ -74,6 +74,10 @@ main .toc ul > li > a {
 	min-width: 0;
 }
 
+.prose p {
+	max-width: none;
+}
+
 .prose h2 {
 	margin: 2.25rem 0 0.75rem;
 	padding: 0.45rem 0.9rem;
