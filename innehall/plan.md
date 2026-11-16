@@ -55,7 +55,11 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 ### Alla får vara med
 - Alla som vill spela innebandy är välkomna.  
 - På grön nivå är förbundets grundord "Alla får delta", "Trygghet" och "Utvecklingsfokus" [[5]](#källor).  
-- Vi följer förbundets riktlinje att inte toppa innan 15 år, och vi värderar alla spelare lika. Förbundets plan för röd nivå: *"Vi toppar inte innan 15 år" [[6]](#källor).*
+
+### Vi toppar inte innan 15 år
+Förbundets plan för röd nivå säger: *"Vi toppar inte innan 15 år" [[6]](#källor).* Det följer vi, och vi värderar alla spelare lika.
+
+Förbundets resonemang är att det inte går att se vilka barn som blir bäst eller vill hålla på länge. Tidig toppning gynnar de som växer tidigt, och fler slutar med innebandy, både de som väljs ut och de som inte väljs ut. Därför är det ingen toppning eller selektion upp till 15 år, och därefter bara med försiktighet. Det gäller även cuper ([förbundets sida om toppning och selektering](https://www.innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/den-goda-innebandymiljon/specialisering-selektering-toppning-nivagruppering-och-individanpassing)).
 
 ### Glädje och trygghet
 - Barn som har roligt kommer tillbaka. Därför är glädjen inte en bonus, den är själva grunden.  
