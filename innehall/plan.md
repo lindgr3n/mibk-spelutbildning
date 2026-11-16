@@ -26,7 +26,11 @@ Ovanpå det lägger vi vår egen orangea tråd: en gemensam spelidé och ett gem
 - För att alla tränare ska dra åt samma håll, även när tränare byts ut.  
 - För att spelarna ska känna igen sig när de går från en nivå till nästa.
 
-**Grundtanken: roligt först. Utveckling hela tiden. Samma orangea tråd i alla lag.**
+<div class="grundtanke" role="group" aria-label="Grundtanken">
+<div class="card"><strong>Roligt först.</strong></div>
+<div class="card"><strong>Utveckling hela tiden.</strong></div>
+<div class="card"><strong>Samma orangea tråd i alla lag.</strong></div>
+</div>
 
 ### Planen består av tre delar
 1. Huvuddokumentet (nu det här dokumentet, Moälvens spelutvecklingsplan): den orangea tråden, spelidén, nivåerna och de gemensamma ramarna. Ordlistan hör till huvuddokumentet (dokumentet *Ordlista – Den orangea tråden*).  
