@@ -33,9 +33,9 @@ Ovanpå det lägger vi vår egen orangea tråd: en gemensam spelidé och ett gem
 </div>
 
 ### Planen består av tre delar
-1. Huvuddokumentet (nu det här dokumentet, Moälvens spelutvecklingsplan): den orangea tråden, spelidén, nivåerna och de gemensamma ramarna. Ordlistan hör till huvuddokumentet (dokumentet *Ordlista – Den orangea tråden*).  
-2. Övningsbank (separat dokument): alla övningar och färdiga träningspass, sorterade efter nivå och kopplade till Moälvens spelidé (dokumentet *Övningsbank – Den orangea tråden*).  
-3. Ledarguiden (egen webbsida): regler och administration, ett blad per nivå med spelform, plan, mål, domare och anmälan, samt matchdagens checklista. Spelutbildningen upprepar inte reglerna utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).
+1. **Planen** (det här dokumentet): den orangea tråden, spelidén och nivåerna.  
+2. **[Övningsbanken](/ovningar/):** alla övningar och färdiga träningspass, sorterade efter nivå.  
+3. **Ledarguiden:** regler och administration. Vi upprepar dem inte här utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).
 
 Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 
