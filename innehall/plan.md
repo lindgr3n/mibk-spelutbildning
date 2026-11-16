@@ -36,7 +36,7 @@ Ovanpå det lägger vi vår egen orangea tråd: en gemensam spelidé och ett gem
 1. **Den här sidan:** den orangea tråden, spelidén och nivåerna.  
 2. **[Ordlistan](/ordlista/):** orden vi använder, med förklaring.  
 3. **[Uppstart av nya lag](/nya-lag/):** så kommer ett nytt lag igång.  
-4. **Ledarguiden:** regler och administration. Vi upprepar dem inte här utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).  
+4. **[Ledarguiden](https://mibk-ledarguiden.vercel.app):** ledarnas stöd med regler och administration.  
 5. **[Övningsbanken](/ovningar/):** alla övningar och färdiga träningspass, sorterade efter nivå.
 
 Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
