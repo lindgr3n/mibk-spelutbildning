@@ -32,10 +32,12 @@ Ovanpå det lägger vi vår egen orangea tråd: en gemensam spelidé och ett gem
 <div class="card"><strong>Helhet</strong></div>
 </div>
 
-### Hela spelutvecklingsplanen består av tre delar
+### Hela spelutvecklingsplanen består av fem delar
 1. **Den här sidan:** den orangea tråden, spelidén och nivåerna.  
-2. **[Övningsbanken](/ovningar/):** alla övningar och färdiga träningspass, sorterade efter nivå.  
-3. **Ledarguiden:** regler och administration. Vi upprepar dem inte här utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).
+2. **[Ordlistan](/ordlista/):** orden vi använder, med förklaring.  
+3. **[Uppstart av nya lag](/nya-lag/):** så kommer ett nytt lag igång.  
+4. **Ledarguiden:** regler och administration. Vi upprepar dem inte här utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).  
+5. **[Övningsbanken](/ovningar/):** alla övningar och färdiga träningspass, sorterade efter nivå.
 
 Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 
