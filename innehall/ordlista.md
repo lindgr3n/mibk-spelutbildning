@@ -18,7 +18,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 **Spelidén i korthet (arbetsversion 2026-10-18):**
 
 - Med boll: M1 Snabb bollförflyttning · M2 Bredd till djup (och tvärtom) · M3 Hitta den tomma ytan  
-- Utan boll: U1 Stäng centralkorridoren · U2 Håll spelet i ytterkorridoren (mot sargen) · U3 Spring hem snabbt och kom nära
+- Utan boll: U1 Stäng centralkorridoren · U2 Håll spelet i ytterkorridoren (mot sargen) · U3 Kom på försvarssidan och sätt blad mot blad
 
 ---
 
@@ -120,8 +120,8 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | Förhindra och rädda avslut / förhindra avslut – skydda mål | Försvarsfas närmast eget mål. | Blå | "Skydda mitten!" *(Moälven)* | [SIU-Spelet; SIU-R] | U1 |
 | Offensiv omställning | Anfalla direkt efter bollvinst, innan motståndarna hunnit organisera sitt försvar. | Blå | "Snabbt framåt!" *(Moälven)* | [SIU-B; SIU-R] | M1 |
 | Defensiv omställning | Det som händer direkt när vi tappar bollen. | Blå | "Spring hem och gå nära!" *(Moälven)* | [SIU-B; SIU-R] | U3 |
-| Återerövring | Strategi i omställning: vinna tillbaka bollen så snabbt som möjligt. | Röd | – | [SIU-R; SIU-S] | U3 ("kom nära") |
-| Reträtt | Strategi i omställning: ta säkrare försvarspositioner och skydda de farliga ytorna i egen zon. Inte samma sak som *reträttlinje*. | Röd | – | [SIU-R; SIU-S] | U3 ("spring hem"), U1 |
+| Återerövring | Strategi i omställning: vinna tillbaka bollen så snabbt som möjligt. | Röd | – | [SIU-R; SIU-S] | U3 |
+| Reträtt | Strategi i omställning: ta säkrare försvarspositioner och skydda de farliga ytorna i egen zon. Inte samma sak som *reträttlinje*. | Röd | – | [SIU-R; SIU-S] | U3, U1 |
 | Fasta situationer | Sätt att starta spelet efter avbrott. RH26: tekning, inslag, frislag och straffslag. HB (grön/blå): inslag, frislag, tekning, avslag och straffslag. | Grön | – | [RH26 Ordlista; HB Ordlista] | – |
 | Spelvision | Grundprincipen om lagets struktur och formation. | Röd [ATT BESLUTA] | – | [SIU-Spelet] | – |
 | Spelsystem | Lagets system, byggt på spelfaserna och special teams. Används inte på blå (beslut Johan). | Svart | – | [SIU-Spelet; SIU-S] | – |
@@ -188,7 +188,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | M3 Hitta den tomma ytan | "Spring dit ingen är!" · ledig yta · passningsskugga | spelbar (4) · ny position · skapa ytor · farliga ytor | scanna · informationsprocessen |
 | U1 Stäng centralkorridoren | "Skydda mitten!" | stänga ytor · skära passningsvägar · täcka skott · stäng centralkorridor | vinna insida (5), defensiva delen · centrala ytor (insidan) · förhindra mål (8) · etablerat försvar · reträtt |
 | U2 Håll spelet i ytterkorridoren | "Ut mot kanten!" · styra bort från målet | "helst mot sargen" · håll spelet i ytterkorridoren | hålla motståndare på utsida och längs sarg |
-| U3 Spring hem snabbt och kom nära | "Spring hem och gå nära!" · "Blad mot boll!" | defensiv omställning · press · markera · aggressivt försvarsspel | återerövring · reträtt · presspel · tät markering |
+| U3 Kom på försvarssidan och sätt blad mot blad | "Spring hem och gå nära!" · "Blad mot boll!" | defensiv omställning · press · markera · aggressivt försvarsspel | återerövring · reträtt · presspel · tät markering |
 
 ## 9. Ord vi inte använder (eller bara med förbehåll)
 | Ord | Finns i förbundets material? | Var ordet finns | Moälvens förslag |

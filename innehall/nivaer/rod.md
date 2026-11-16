@@ -59,7 +59,7 @@ Principerna tränas i förbundets spelfaser. Fortfarande principer före positio
 | M3 | Hitta den tomma ytan | Spelbarhet utan boll, mycket rörelse med och utan boll. | "Rör dig och bli spelbar, även utan boll!" | "mycket rörelse med och utan boll" |
 | U1 | Stäng centralkorridoren | Den defensiva delen av fokusområde Vinna insida: vinna ytan mellan motspelare och vårt mål. | "Vinn insidan, stäng mitten!" | Förbundets temasida Vinna insida |
 | U2 | Håll spelet i ytterkorridoren | Styr spelet bort från farliga ytor. | "Håll dem på utsidan, längs sargen!" | "Hålla motståndare på utsida och längs sarg" |
-| U3 | Spring hem snabbt och kom nära | Snabb press på bollföraren, defensiv omställning. | "Ta tillbaka bollen så snabbt ni kan!" | Förbundets spelarutvecklingsplan |
+| U3 | Kom på försvarssidan och sätt blad mot blad | Snabb press på bollföraren, defensiv omställning. | "Ta tillbaka bollen så snabbt ni kan!" | Förbundets spelarutvecklingsplan |
 
 Fokusområdet Vinna insida, i anfall och försvar: "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar" (förbundets temasida). Den offensiva delen tränas i M2 ("Inåt och framåt") och M3. Den defensiva delen är U1 *Stäng centralkorridoren*.
 
