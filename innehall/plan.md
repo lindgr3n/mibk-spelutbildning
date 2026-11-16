@@ -168,7 +168,7 @@ Förbundet delar träningsekonomi i två delar: **aktivitetstid**, alltså hur a
 ### Gemensam spelidé
 Vår spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och växer med spelarna.
 
-Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi mitten och håller spelet på utsidan – och vi springer hem snabbt och kommer nära.
+Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi centralkorridoren och håller spelet i ytterkorridoren – och vi springer hem snabbt och kommer nära.
 
 Spelidén har sex principer, tre med boll och tre utan boll. Varje princip har en kod: **M** står för med boll och **U** för utan boll, så M1 är den första principen med boll och U3 den tredje utan boll. Koderna använder vi i övningarna och nivådokumenten för att visa vilken princip en övning tränar.
 
@@ -180,9 +180,11 @@ Med boll har spelidén tre principer:
 
 Utan boll har spelidén tre principer:
 
-* U1 Stäng mitten  
-* U2 Håll spelet på utsidan  
+* U1 Stäng centralkorridoren  
+* U2 Håll spelet i ytterkorridoren  
 * U3 Spring hem snabbt och kom nära
+
+Planen delas på längden i tre korridorer: centralkorridoren i mitten och en ytterkorridor utmed sargen på varje sida. På grön nivå säger vi enklare "mitten" och "kanten", och från blå nivå använder vi orden centralkorridor och ytterkorridor.
 
 Hur principerna ser ut på varje nivå, och vad vi säger till barnen, står i respektive nivådokument (se nivåerna och deras arbetsnamn i avsnitt 1). Spelidén är en arbetsversion och kan justeras.
 

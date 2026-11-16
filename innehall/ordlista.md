@@ -18,7 +18,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 **Spelidén i korthet (arbetsversion 2026-10-18):**
 
 - Med boll: M1 Snabb bollförflyttning · M2 Bredd till djup (och tvärtom) · M3 Hitta den tomma ytan  
-- Utan boll: U1 Stäng mitten · U2 Håll spelet på utsidan (mot sargen) · U3 Spring hem snabbt och kom nära
+- Utan boll: U1 Stäng centralkorridoren · U2 Håll spelet i ytterkorridoren (mot sargen) · U3 Spring hem snabbt och kom nära
 
 ---
 
@@ -43,7 +43,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | Offensiv zon | Motståndarnas planhalva, där vi spelar uppställt anfallsspel. | Blå | – | [SIU-B] | – |
 | Egen zon / defensiv zon | Vår egen planhalva, där vi skyddar de farliga ytorna. | Röd | – | [SIU-R/SIU-S: "skydda de farliga ytorna i egen zon"; ÖB Etablerat anfall & försvar C: "defensiv zon"] | U1, U3 |
 | Avslutsytor | Ytorna där man kan komma till avslut. Försvaret ska "försvara avslutsytor". | Röd [ATT BESLUTA] | – | [ÖB Avslut 2B; UTB Skottet i slottet] | U1 |
-| Central korridor / ytterkorridor | Planen delas på längden i tre "korridorer": en i mitten (central korridor) och en på varje sida (ytterkorridor). Används i en övning i förbundets övningsbank, inte i SPU-planerna eller på SIU-sidorna. Moälvens beslut: används från blå nivå. | Blå | ("mitten" / "kanten") | [ÖB Spelbarhet – centervändningen: "Ytan delas in i 3 korridorer … från ytterkorridor in till central korridor"] | U1 (central korridor), U2 (ytterkorridor), M2 |
+| Centralkorridor / ytterkorridor | Planen delas på längden i tre "korridorer": en i mitten (centralkorridor) och en på varje sida (ytterkorridor). Används i en övning i förbundets övningsbank, inte i SPU-planerna eller på SIU-sidorna. Moälvens beslut: används från blå nivå. | Blå | ("mitten" / "kanten") | [ÖB Spelbarhet – centervändningen: "Ytan delas in i 3 korridorer … från ytterkorridor in till centralkorridor"] | U1 (centralkorridor), U2 (ytterkorridor), M2 |
 | Ytterzon / centrala ytan (i övning) | Övningsytor: hjälpspelare i ytterzonerna, spel i centrala ytan. | Blå | – | [ÖB Avslut 2B; ÖB Etablerat anfall & försvar C] | M2 |
 | Uppspelszon / anfallszon / försvarszon (i övning) | Zoner som en övningsyta delas in i. | Röd | – | [ÖB Speldjup – spelövning 8 Zonerna] | M2 |
 
@@ -60,7 +60,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | Ta bollen framåt (fokusområde 3) | "I anfallsspelets alla delar ta bollen mot motståndarnas mål i syfte att skapa möjlighet till målchans." Obs: definitionssidan i planerna ger en annan text ("Genom passningar sätta medspelare i bättre situationer än sin egen"): oklart i källan. | Grön | "Snabbt framåt med bollen!" *(Moälven)* | [SIBF-B/R temasida 3; SIBF-B/R definitionssida] | M1 |
 | Spelbar / spelbarhet (fokusområde 4) | Att vilja, våga och kunna bli spelbar när en medspelare har bollen. | Grön | "Visa klubban!", "Spring dit ingen är!" *(Moälven)* | [SIBF-G: "Träna på att vara spelbar"; SIBF-B/R temasida 4; SIU-Spelet] | M3 |
 | Passningsskugga | Att stå still bakom en motståndare, så att man inte kan få bollen. Det ska vi undvika. | Grön | "Stå inte gömd bakom någon!" *(Moälven)* | [SIBF-G: "inte stå still bakom en motståndare ('passningsskugga')"; SIBF-B] | M3 |
-| Vinna insida (fokusområde 5) | "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar". Gäller både anfall och försvar. Obs: definitionssidan i förbundets plan har en annan text; vi följer temasidan. Hos oss: den offensiva delen syns i M2 och M3, och den defensiva delen heter U1 *Stäng mitten* (Moälvens ord). | Röd (förbundet lyfter fokusområde 5 på röd) | – | [SIBF-R temasida 5; SIBF-R "1- Duellspel med boll, 5- Vinna insida"] | M2, M3 (anfall) · U1 (försvar) |
+| Vinna insida (fokusområde 5) | "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar". Gäller både anfall och försvar. Obs: definitionssidan i förbundets plan har en annan text; vi följer temasidan. Hos oss: den offensiva delen syns i M2 och M3, och den defensiva delen heter U1 *Stäng centralkorridoren* (Moälvens ord). | Röd (förbundet lyfter fokusområde 5 på röd) | – | [SIBF-R temasida 5; SIBF-R "1- Duellspel med boll, 5- Vinna insida"] | M2, M3 (anfall) · U1 (försvar) |
 | Passningsspel (fokusområde 6) | Genom passningar sätta andra i bättre situationer än sig själv. Obs: definitionssidan ger en annan text: oklart i källan. | Grön | "Passa till den som är fri!" *(Moälven)* | [SIBF-R temasida 6; SIBF-G/B/R fokusområde 6] | M1, M2 |
 | Avslut / komma till avslut | Skott eller annat försök att göra mål; slutmålet för anfallsspelet. | Blå (grön: "skjuta") | "Skjut när du kan!" | [SIU-Spelet; SIU-bilder; SIU-S/guld] | – |
 | Rättvänd / felvänd | Rättvänd: kroppen vänd mot motståndarnas mål och planen. Felvänd: ryggen åt det hållet. | Blå | – | [SIU-Spelet: "hamna rättvänd emot planen"; SIBF-B: "ta emot rättvänd", "Få motståndarna felvända"; SIBF-R: "Rättvänd mottagning"] | M1, M3 |
@@ -184,16 +184,16 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | Princip | Grön (barnspråk) | Blå | Röd |
 | :---- | :---- | :---- | :---- |
 | M1 Snabb bollförflyttning | "Snabbt framåt med bollen!" · driva, passa | ta bollen framåt (3) · offensiv omställning · give and go · rättvänd | "första framåt" · uppspel · daylight |
-| M2 Bredd till djup | ("Spring dit ingen är!") | bredd och djup · djupled · spelavstånd · speldjup · spelbredd · "en möter, en löper i djupled, en skapar bredd" · från ytterkorridor till central korridor (och tvärtom) | vinna insida (5), offensiva delen · "inåt och framåt" · attackera gapet · spelvändning |
+| M2 Bredd till djup | ("Spring dit ingen är!") | bredd och djup · djupled · spelavstånd · speldjup · spelbredd · "en möter, en löper i djupled, en skapar bredd" · från ytterkorridor till centralkorridor (och tvärtom) | vinna insida (5), offensiva delen · "inåt och framåt" · attackera gapet · spelvändning |
 | M3 Hitta den tomma ytan | "Spring dit ingen är!" · ledig yta · passningsskugga | spelbar (4) · ny position · skapa ytor · farliga ytor | scanna · informationsprocessen |
-| U1 Stäng mitten | "Skydda mitten!" | stänga ytor · skära passningsvägar · täcka skott · stäng central korridor | vinna insida (5), defensiva delen · centrala ytor (insidan) · förhindra mål (8) · etablerat försvar · reträtt |
-| U2 Håll spelet på utsidan | "Ut mot kanten!" · styra bort från målet | "helst mot sargen" · håll spelet i ytterkorridoren | hålla motståndare på utsida och längs sarg |
+| U1 Stäng centralkorridoren | "Skydda mitten!" | stänga ytor · skära passningsvägar · täcka skott · stäng centralkorridor | vinna insida (5), defensiva delen · centrala ytor (insidan) · förhindra mål (8) · etablerat försvar · reträtt |
+| U2 Håll spelet i ytterkorridoren | "Ut mot kanten!" · styra bort från målet | "helst mot sargen" · håll spelet i ytterkorridoren | hålla motståndare på utsida och längs sarg |
 | U3 Spring hem snabbt och kom nära | "Spring hem och gå nära!" · "Blad mot boll!" | defensiv omställning · press · markera · aggressivt försvarsspel | återerövring · reträtt · presspel · tät markering |
 
 ## 9. Ord vi inte använder (eller bara med förbehåll)
 | Ord | Finns i förbundets material? | Var ordet finns | Moälvens förslag |
 | :---- | :---- | :---- | :---- |
-| Central korridor / ytterkorridor | Ja, men bara i en övning i övningsbanken. Inte i SPU-planerna 2025 eller på SIU-sidorna. | [ÖB Spelbarhet – centervändningen]; i övrigt vanligt i fotbollsmaterial (SvFF) | Beslutat: används från blå nivå (Moälvens beslut). På grön säger vi "mitten" och "kanten". |
+| Centralkorridor / ytterkorridor | Ja, men bara i en övning i övningsbanken. Inte i SPU-planerna 2025 eller på SIU-sidorna. | [ÖB Spelbarhet – centervändningen]; i övrigt vanligt i fotbollsmaterial (SvFF) | Beslutat: används från blå nivå (Moälvens beslut). På grön säger vi "mitten" och "kanten". |
 | Försvarssida | Nej, inte hittat. | Åstorp/Kvidinge: "Försvarssida och markering" [ÅK] (vedertaget, ej i förbundets material) | Används inte. Förbundets motsvarighet är fokusområde 5: "vinna ytan mellan motspelare och respektive mål" och fokusområde 8 "skydda centrala ytor". |
 | Spelbredd | Ja, i övningsbanken. Planerna säger "bredd". | [ÖB Avslut 2B]; [ÅK] | OK från blå, men "bredd" är huvudordet. |
 | Speldjup | Ja, i övningsbanken (titel och spelarfråga). Planerna säger "djup", "djupled". | [ÖB Speldjup – spelövning 8 Zonerna]; [ÅK] | OK från blå, men "djup/djupled" är huvudordet. |

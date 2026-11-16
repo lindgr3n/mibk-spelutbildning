@@ -56,8 +56,8 @@ Nu introduceras orden tom yta, bredd och djup och stäng mitten i smålagsspel. 
 | M1 | Snabb bollförflyttning | Spela framåt när det går. Vid bollvinst: anfall snabbt. | "Spela framåt när det går!" | "Spela framåt när det går" |
 | M2 | Bredd till djup och djup till bredd (huvudprincip på blå nivå) | En möter, en löper i djupled, en skapar bredd. *9–10 år:* i smålagsspel lär sig spelarna att någon gör sig spelbar nära, någon löper i djupled och någon skapar bredd. *11–12 år:* vi fördjupar bredd och djup i smålagsspel (2 mot 2 till 4 mot 4) så att rollerna växer fram naturligt. Alla turas om i alla roller. | "En nära, en djup, en bred!" | "bredd och djup i anfall" (fokusområde Spelbarhet) |
 | M3 | Hitta den tomma ytan | Gör dig spelbar och ta dig ur passningsskuggan. Passa och ta en ny position. | "Passa och spring till en ny yta!" | "Give and go" |
-| U1 | Stäng mitten | Gör det trångt framför målvakten och täck skott. | "Täpp till mitten framför målet!" | Förbundets spelarutvecklingsplan |
-| U2 | Håll spelet på utsidan | Styr motståndarna bort från målet, helst mot sargen. | "Styr ut mot sargen!" | Förbundets fokusområde Vinna boll |
+| U1 | Stäng centralkorridoren | Gör det trångt framför målvakten och täck skott. | "Täpp till mitten framför målet!" | Förbundets spelarutvecklingsplan |
+| U2 | Håll spelet i ytterkorridoren | Styr motståndarna bort från målet, helst mot sargen. | "Styr ut mot sargen!" | Förbundets fokusområde Vinna boll |
 | U3 | Spring hem snabbt och kom nära | Spring hem när vi tappar bollen och sätt snabb press på bollföraren. | "Ta tillbaka bollen så snabbt ni kan!" | "spring hem snabbt i försvar", förbundets egna exempelprinciper för blå nivå |
 
 Spelidén är en arbetsversion och kan justeras.
