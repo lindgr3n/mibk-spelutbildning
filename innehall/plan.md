@@ -18,7 +18,7 @@ Vi har inte hittat på något eget system, utan bygger på Svensk Innebandys mat
 - Svensk Innebandys spel- och spelarutvecklingsplan, för grön, blå och röd nivå [[1]](#källor).  
 - SIU, Svensk Innebandys Utvecklingsmodell. Den delar in spelarna i nivåer efter var de är i sin utveckling, inte bara efter födelseår [[2]](#källor).
 
-Ovanpå det lägger vi vår egen röda tråd: en gemensam spelidé och ett gemensamt språk som följer med spelarna hela vägen.
+Ovanpå det lägger vi vår egen orangea tråd: en gemensam spelidé och ett gemensamt språk som följer med spelarna hela vägen.
 
 ### Varför gör vi det här?
 - För att det ska vara roligt att spela innebandy hos oss, länge.  
@@ -26,10 +26,10 @@ Ovanpå det lägger vi vår egen röda tråd: en gemensam spelidé och ett gemen
 - För att alla tränare ska dra åt samma håll, även när tränare byts ut.  
 - För att spelarna ska känna igen sig när de går från en nivå till nästa.
 
-**Grundtanken: roligt först. Utveckling hela tiden. Samma röda tråd i alla lag.**
+**Grundtanken: roligt först. Utveckling hela tiden. Samma orangea tråd i alla lag.**
 
 ### Planen består av tre delar
-1. Huvuddokumentet (nu det här dokumentet, Moälvens spelutvecklingsplan): den röda tråden, spelidén, nivåerna och de gemensamma ramarna. Ordlistan hör till huvuddokumentet (dokumentet *Ordlista – Den orangea tråden*).  
+1. Huvuddokumentet (nu det här dokumentet, Moälvens spelutvecklingsplan): den orangea tråden, spelidén, nivåerna och de gemensamma ramarna. Ordlistan hör till huvuddokumentet (dokumentet *Ordlista – Den orangea tråden*).  
 2. Övningsbank (separat dokument): alla övningar och färdiga träningspass, sorterade efter nivå och kopplade till Moälvens spelidé (dokumentet *Övningsbank – Den orangea tråden*).  
 3. Ledarguiden (egen webbsida): regler och administration, ett blad per nivå med spelform, plan, mål, domare och anmälan, samt matchdagens checklista. Spelutbildningen upprepar inte reglerna utan länkar dit ([mibk-ledarguiden.vercel.app](https://mibk-ledarguiden.vercel.app)).
 
