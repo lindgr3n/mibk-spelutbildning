@@ -167,6 +167,13 @@ main .prose li > a {
 	border-radius: 6px;
 }
 
+@media (min-width: 48rem) {
+	.prose table {
+		display: table;
+		width: 100%;
+	}
+}
+
 .prose th {
 	background: var(--header);
 	color: #fff;

@@ -8,7 +8,7 @@ titel: "Uppstart av nya lag och mentorrutin – utkast"
 
 ## 1. Bakgrund
 
-Vi startar nya lag varje säsong. De två yngsta grupperna ligger på **två olika nivåer** och behöver olika mycket stöd. **Ljusgrön är en egen nivå, precis som hos förbundet** (Moälvens beslut).
+Vi startar nya lag varje säsong. De två yngsta grupperna ligger på **två olika nivåer** och behöver olika mycket stöd. Den ena gruppen är **Moälven Kidz** (ljusgrön, de allra yngsta som kommer för att leka och röra sig). Den andra är de som är **första året på grön nivå**, där vi börjar med innebandyn på riktigt och spelar 3 mot 3.
 
 |  | Ljusgrön (ca 5–7 år) | Grön första året (ca 7–8 år) |
 | :---- | :---- | :---- |
