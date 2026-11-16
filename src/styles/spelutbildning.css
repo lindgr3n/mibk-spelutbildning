@@ -79,6 +79,10 @@ main .toc ul > li > a {
 	max-width: none;
 }
 
+.prose li {
+	max-width: 70ch;
+}
+
 .prose h2 {
 	margin: 2.25rem 0 0.75rem;
 	padding: 0.45rem 0.9rem;
@@ -164,13 +168,6 @@ main .prose li > a {
 	background: var(--card);
 	border: 1px solid var(--card-line);
 	border-radius: 6px;
-}
-
-@media (min-width: 48rem) {
-	.prose table {
-		display: table;
-		width: 100%;
-	}
 }
 
 .prose th {
