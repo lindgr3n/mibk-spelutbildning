@@ -72,6 +72,7 @@ main .toc ul > li > a {
 
 .prose {
 	min-width: 0;
+	max-width: 52rem;
 }
 
 .prose p {
