@@ -44,7 +44,7 @@ Varje nivå bygger på sitt eget nivådokument och har ett eget arbetsnamn:
 * Ljusgrön nivå (0–6 år): Lek och rörelse (förbundets nivånamn, som vi också använder som undertitel)  
 * Grön nivå (6–9 år): Jag och bollen  
 * Blå nivå (9–12 år): Jag, du och bollen  
-* Röd nivå (12–16 år): Jag, du och spelet  
+* Röd nivå (12–16 år): Jag, vi och spelet  
 * Svart nivå (junior och senior): Träna för att tävla (förbundets nivånamn)
 
 ---
@@ -184,7 +184,7 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 | **Ljusgrön** | 0–6 år | födda {{nivakullar:ljusgron}} | Lek och rörelse | Lek och rörelse | Inga matcher | Uppstart av nya lag och mentorrutin – utkast |
 | **Grön** | 6–9 år | födda {{nivakullar:gron}} | Rörelseglädje | Jag och bollen | 3 mot 3 | Grön nivå – Jag och bollen |
 | **Blå** | 9–12 år | födda {{nivakullar:bla}} | Lära sig träna | Jag, du och bollen | 4 mot 4 med målvakt | Blå nivå – Jag, du och bollen |
-| **Röd** | 12–16 år | födda {{nivakullar:rod}} | Träna för att träna | Jag, du och spelet | 5 mot 5 | Röd nivå – Jag, du och spelet |
+| **Röd** | 12–16 år | födda {{nivakullar:rod}} | Träna för att träna | Jag, vi och spelet | 5 mot 5 | Röd nivå – Jag, vi och spelet |
 | **Svart** | Junior och senior | – | Träna för att tävla | Vi och spelet | 5 mot 5 | Svart nivå \- Vi och spelet |
 
 ### Ljusgrön nivå – Lek och rörelse (0–6 år)
@@ -209,13 +209,13 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Fokusområden: utespelare Ta bollen framåt, Spelbarhet och Vinna boll. Målvakt Bollhantering, Utkast, Positionering och Kommunikation [[10]](#källor).  
 - Läs mer: [Blå nivå – Jag, du och bollen](/nivaer/bla/)
 
-### Röd nivå, 12–16 år: Jag, du och spelet
+### Röd nivå, 12–16 år: Jag, vi och spelet
 - Träna för att träna. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  
 - Fortfarande principer före positioner, och alla provar olika roller så länge som möjligt.  
 - Matcher i 5 mot 5.  
 - Fokusområden 12–14 år: utespelare Duellspel med boll, Passningsspel och Förhindra mål. Målvakt Returer och Förflyttningar [[6]](#källor).  
 - Fokusområden 15–16 år: utespelare Duellspel med boll, Vinna insida, Passningsspel och Förhindra mål. Målvakt Returer, Förflyttningar, Aktiv som försvarare och Trafikhantering [[6]](#källor).  
-- Läs mer: [Röd nivå – Jag, du och spelet](/nivaer/rod/)
+- Läs mer: [Röd nivå – Jag, vi och spelet](/nivaer/rod/)
 
 ### Svart nivå, junior och senior: Vi och spelet
 * Träna för att tävla. Spelarna är mer inställda på att satsa på innebandyn, och för många är målet att nå elitnivå [[2]](#källor).  
@@ -239,6 +239,6 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - [[10] Svensk Innebandy, Spel- och spelarutvecklingsplan blå nivå 2025 (ifylld version): https://innebandy.se/media/lxjbq4ig/spel-och-spelarutvecklingsplan-bla-2025.pptx](https://innebandy.se/media/lxjbq4ig/spel-och-spelarutvecklingsplan-bla-2025.pptx)  
 - Svensk Innebandy, flera idrotter: [Specialisering, selektering, toppning, nivågruppering och individanpassning](https://www.innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/den-goda-innebandymiljon/specialisering-selektering-toppning-nivagruppering-och-individanpassing)  
 - Svenska Innebandyförbundets tävlingsbestämmelser 2026/27: [tb-26-27.pdf](https://www.innebandy.se/media/eyvpelwi/tb-26-27.pdf)  
-- Undertitlarna "Jag och bollen", "Jag, du och bollen", och "Jag, du och spelet" kommer från Västernorrlands Innebandyförbund. Planens stil är inspirerad av Sundsvall Citys spelarutvecklingsplan.  
+- Undertitlarna "Jag och bollen", "Jag, du och bollen", och "Jag, vi och spelet" kommer från Västernorrlands Innebandyförbund. Planens stil är inspirerad av Sundsvall Citys spelarutvecklingsplan.  
 - Svensk Innebandy, Regelundantag på ungdomsnivå 2025–27: [https://www.innebandy.se/media/s55kofpv/regelundantag-ungdomsniva-2025-27.pdf](https://www.innebandy.se/media/s55kofpv/regelundantag-ungdomsniva-2025-27.pdf)  
 - Svensk Innebandy, Spelform röd nivå: [https://www.innebandy.se/tavling/barn-och-ungdom-6-16-ar/spelform-rod-niva](https://www.innebandy.se/tavling/barn-och-ungdom-6-16-ar/spelform-rod-niva)

@@ -118,7 +118,7 @@ Förbundets kategorier (filtren i innebandy.se/ovningsbanken):
 | [Ö42](/ovningar/o42/) | Teknikträning | Gyllene kvadraten | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
 | [Ö43](/ovningar/o43/) | Lek | Tjuva koner | – | Alternativövning, när passet behöver mer lek | Förbundets övningsbank |
 
-### Röd nivå (12–16 år) – Jag, du och spelet
+### Röd nivå (12–16 år) – Jag, vi och spelet
 **Övningar i säsongsplanen**
 
 | Nr | Tema | Namn | Princip | Var i säsongen | Källa |

@@ -5,7 +5,7 @@ export const nivaer: { key: NivaKey; namn: string; undertitel: string; alder: st
 	{ key: 'ljusgron', namn: 'Ljusgrön nivå', undertitel: 'Lek och rörelse', alder: '0–6 år', spelform: 'Inga matcher' },
 	{ key: 'gron', namn: 'Grön nivå', undertitel: 'Jag och bollen', alder: '6–9 år', spelform: '3 mot 3' },
 	{ key: 'bla', namn: 'Blå nivå', undertitel: 'Jag, du och bollen', alder: '9–12 år', spelform: '4 mot 4 med målvakt' },
-	{ key: 'rod', namn: 'Röd nivå', undertitel: 'Jag, du och spelet', alder: '12–16 år', spelform: '5 mot 5' },
+	{ key: 'rod', namn: 'Röd nivå', undertitel: 'Jag, vi och spelet', alder: '12–16 år', spelform: '5 mot 5' },
 ];
 
 // Ledarguiden äger regler och administration (spelform, plan, mål, domare, anmälan, matchdagen) och ett blad per nivå.

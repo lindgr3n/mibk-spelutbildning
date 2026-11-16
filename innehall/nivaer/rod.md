@@ -1,5 +1,5 @@
 ---
-titel: "Röd nivå (12–16 år) – Jag, du och spelet"
+titel: "Röd nivå (12–16 år) – Jag, vi och spelet"
 niva: "rod"
 ---
 
@@ -11,7 +11,7 @@ niva: "rod"
 
 ## 1. Vad är röd nivå?
 - Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:rod}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.  
-- Röd nivå heter Träna för att träna hos förbundet. I den orangea tråden är undertiteln "Jag, du och spelet".  
+- Röd nivå heter Träna för att träna hos förbundet. I den orangea tråden är undertiteln "Jag, vi och spelet".  
 - Glädje, trygghet och utvecklingsfokus. Psykologisk trygghet och positiv, konstruktiv feedback.  
 - Kärnan: hela spelet. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  
 - Principer före positioner. Låt alla prova olika roller så länge som möjligt (undantag: målvakter).  
