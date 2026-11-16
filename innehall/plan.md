@@ -58,7 +58,21 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - Vi värderar alla spelare lika.  
 - Vi toppar inte innan 15 år. Ingen toppning eller selektion i våra lag, och efter 15 bara med försiktighet. Det gäller även cuper.
 
-<p class="notis"><em>Förbundets plan för röd nivå säger "Vi toppar inte innan 15 år" <a href="#källor">[6]</a>. Skälet är att det inte går att se vilka barn som blir bäst eller vill hålla på länge, och att tidig toppning gynnar dem som växer tidigt och får fler att sluta (<a href="https://www.innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/den-goda-innebandymiljon/specialisering-selektering-toppning-nivagruppering-och-individanpassing">förbundets sida om toppning</a>). På grön nivå är förbundets grundord "Alla får delta" <a href="#källor">[5]</a>.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+*"Vi toppar inte innan 15 år"* [[6]](#källor), står det i förbundets plan för röd nivå. På grön nivå är förbundets grundord "Alla får delta" [[5]](#källor).
+
+Förbundets resonemang om toppning och selektering:
+
+- Det går inte att i unga år förutsäga vilka som blir bäst eller vill hålla på länge.
+- Tidig selektering gynnar dem som är tidigt utvecklade.
+- Tidig toppning ger inga fördelar för framtida framgång, och fler slutar med innebandy, både de som väljs ut och de som inte väljs ut.
+- Upp till 15 år tillåter förbundet inte selektering eller toppning. På röd nivå rekommenderas det bara i begränsad omfattning.
+
+[Läs mer hos förbundet](https://www.innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/den-goda-innebandymiljon/specialisering-selektering-toppning-nivagruppering-och-individanpassing)
+
+</details>
 
 ### Glädje och trygghet
 
@@ -66,7 +80,12 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - Vi skapar trygghet genom att se varje barn och berömma försök.  
 - Fasta rutiner skapar trygghet, oavsett ålder.
 
-<p class="notis"><em>Samma tänk som förbundets grundord på grön nivå: "Trygghet" och "Utvecklingsfokus" <a href="#källor">[5]</a>. Glädje och trygghet först, utveckling efteråt.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+Förbundets grundord på grön nivå är "Alla får delta", "Trygghet" och "Utvecklingsfokus" [[5]](#källor). Vi sätter glädje och trygghet först och utveckling efteråt.
+
+</details>
 
 ### Långsiktighet
 
@@ -74,7 +93,14 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - Lärande går före resultat. Vi mäter utveckling, inte vinster.  
 - Långsiktig utveckling går före dagsresultat.
 
-<p class="notis"><em>Förbundet utgår från samma sak: det går inte att i unga år förutsäga vilka som blir bäst eller vill hålla på länge, så vi bygger bredd och lust (<a href="https://www.innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/den-goda-innebandymiljon/specialisering-selektering-toppning-nivagruppering-och-individanpassing">förbundets sida om toppning</a>). Utvecklingsfokus är ett av förbundets grundord på grön nivå <a href="#källor">[5]</a>.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+Utvecklingsfokus är ett av förbundets grundord på grön nivå [[5]](#källor). Förbundet pekar också på att det inte går att i unga år förutsäga vilka som blir bäst eller vill hålla på länge, och därför ska vi bygga bredd och lust i stället för att välja ut tidigt.
+
+[Läs mer hos förbundet](https://www.innebandy.se/utveckling/svensk-innebandys-utvecklingsmodell-siu/den-goda-innebandymiljon/specialisering-selektering-toppning-nivagruppering-och-individanpassing)
+
+</details>
 
 ### Flera idrotter
 
@@ -82,7 +108,14 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - Det är alltid okej att missa en träning för en annan idrott. Det påverkar aldrig speltiden.  
 - Barn som får prova annat håller oftare på med idrott länge, och det är det vi vill.
 
-<p class="notis"><em>Förbundet: "Uppmuntra och skapa förutsättningar till att hålla på med flera idrotter – det gynnar både det livslånga idrottandet och individens utveckling." <a href="#källor">[3]</a> Allsidighet är också en av Riksidrottsförbundets riktlinjer för barn- och ungdomsidrott <a href="#källor">[4]</a>.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+Förbundet: *"Uppmuntra och skapa förutsättningar till att hålla på med flera idrotter – det gynnar både det livslånga idrottandet och individens utveckling."* [[3]](#källor)
+
+Allsidighet är också en av Riksidrottsförbundets riktlinjer för barn- och ungdomsidrott [[4]](#källor).
+
+</details>
 
 ### Aktiva spelare: mycket boll, lite kö
 
@@ -90,7 +123,20 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - Vi undviker kö och väntetid: få spelare per boll och många aktioner per minut.  
 - Vi siktar på mycket smålagsspel på alla nivåer, så att alla får röra bollen mycket. Det gäller främst grön och blå nivå.
 
-<p class="notis"><em>Förbundets sju punkter för intensitet och flöde, "10 000 touch" <a href="#källor">[5]</a>: undvik väntetid, få spelare per boll, rotationer, snabba övergångar mellan övningar, många aktioner per tidsenhet, hög andel aktiva spelare och lagom antal spelare per kvadratmeter.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+Förbundets sju punkter för intensitet och flöde, "10 000 touch" [[5]](#källor):
+
+1. Undvik väntetid.
+2. Få spelare per boll.
+3. Rotationer.
+4. Snabba övergångar mellan övningar.
+5. Många aktioner per tidsenhet.
+6. Hög andel aktiva spelare.
+7. Lagom antal spelare per kvadratmeter.
+
+</details>
 
 ### Träningsekonomi: aktivitetstid och lärtid
 
@@ -98,7 +144,12 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - Aktivitetstid, fråga dig: Hur många moment övar spelarna på? Vad är syftet med övningarna? Hur kan övningen ge fler moment? Hur aktiva är målvakterna? [[7]](#källor)  
 - Lärtid, fråga dig: Vad ska spelarna lära sig? Vad lär de sig? Hur kan min feedback stödja syftet och lärandet? Hur kan övningen bli ännu bättre för syftet? [[7]](#källor)
 
-<p class="notis"><em>Förbundet delar träningsekonomi i två delar: aktivitetstid, alltså hur aktiva spelarna är, och lärtid, alltså vad spelarna lär sig. En väl planerad träning ger hög aktivitetstid och hög lärtid per träningsminut <a href="#källor">[7]</a>.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+Förbundet delar träningsekonomi i två delar: **aktivitetstid**, alltså hur aktiva spelarna är, och **lärtid**, alltså vad spelarna lär sig. En väl planerad träning ger hög aktivitetstid och hög lärtid per träningsminut [[7]](#källor).
+
+</details>
 
 ### Målvakt: alla provar först, specialisering senare
 
@@ -106,7 +157,13 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 - På grön och tidig blå nivå gör alla målvaktsövningar och målvaktslekar, till exempel kasta och fånga en boll.  
 - Senare på blå nivå och på röd nivå blir det några få som tränar mer som målvakt. På svart nivå specialiserar sig målvakterna. Ingen ska bli "målvakten" för tidigt.
 
-<p class="notis"><em>Förbundet: ingen fast målvakt på grön nivå, låt alla som vill prova på <a href="#källor">[5]</a>. På grön nivå tränar alla förbundets målvaktsfokus bollhantering och utkast <a href="#källor">[5]</a>.</em></p>
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+- Ingen fast målvakt på grön nivå. Låt alla som vill prova på [[5]](#källor).
+- På grön nivå tränar alla förbundets målvaktsfokus: bollhantering och utkast [[5]](#källor).
+
+</details>
 
 ### Gemensam spelidé
 Vår spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och växer med spelarna.
