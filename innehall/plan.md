@@ -170,6 +170,8 @@ Vår spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och v�
 
 Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi mitten och håller spelet på utsidan – och vi springer hem snabbt och kommer nära.
 
+Spelidén har sex principer, tre med boll och tre utan boll. Varje princip har en kod: **M** står för med boll och **U** för utan boll, så M1 är den första principen med boll och U3 den tredje utan boll. Koderna använder vi i övningarna och nivådokumenten för att visa vilken princip en övning tränar.
+
 Med boll har spelidén tre principer:
 
 * M1 Snabb bollförflyttning  
