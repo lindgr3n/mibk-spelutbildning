@@ -587,3 +587,29 @@ main .toc ul > li > a {
 		grid-template-columns: repeat(3, 1fr);
 	}
 }
+
+/* Notis efter en grundprincip: liten kursiv text med infoikon, utan rubrik och utan ram */
+.prose .notis {
+	position: relative;
+	max-width: none;
+	margin: 0.5rem 0 1.25rem;
+	padding-left: 1.6rem;
+	color: var(--muted);
+	font-size: 0.9375rem;
+}
+
+.prose .notis::before {
+	content: '';
+	position: absolute;
+	left: 0;
+	top: 0.2rem;
+	width: 1.1rem;
+	height: 1.1rem;
+	background: currentColor;
+	-webkit-mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18z'/%3E%3Cpath d='M12 11v5.5'/%3E%3Cpath d='M12 7.6v.2'/%3E%3C/svg%3E") center / contain no-repeat;
+	mask: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='1.8' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M12 21a9 9 0 1 0 0-18 9 9 0 0 0 0 18z'/%3E%3Cpath d='M12 11v5.5'/%3E%3Cpath d='M12 7.6v.2'/%3E%3C/svg%3E") center / contain no-repeat;
+}
+
+.prose .notis a {
+	color: inherit;
+}
