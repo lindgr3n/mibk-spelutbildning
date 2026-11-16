@@ -1,8 +1,8 @@
 ---
-titel: "Ordlista – Moälvsmodellen (utkast v3, 2026-10-18)"
+titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 ---
 
-*Del av Moälvsmodellen – Moälvens IBK:s spel- och spelarutvecklingsplan (arbetsnamn). Arbetsmaterial, inte beslutat.* *Dokumentstruktur (beslutad): Moälvsmodellen består av huvuddokumentet, en separat övningsbank och en kortguide på en A4 per nivå. Ordlistan hör till huvuddokumentet. Övningsbanken och kortguiderna använder samma ord.*
+*Del av den orangea tråden – Moälvens IBK:s spel- och spelarutvecklingsplan (arbetsnamn). Arbetsmaterial, inte beslutat.* *Dokumentstruktur (beslutad): Den orangea tråden består av huvuddokumentet, en separat övningsbank och en kortguide på en A4 per nivå. Ordlistan hör till huvuddokumentet. Övningsbanken och kortguiderna använder samma ord.*
 
 > Syfte: ett gemensamt språk för alla tränare i Moälvens IBK. Förbundet skriver: "Skapa ett gemensamt språk i föreningen … Använd om möjligt samma begrepp i alla lag (t.ex. 'speluppbyggnad', 'komma till avslut') – åtminstone från blå nivå" [SIU-bilder]. På röd nivå: "Att skapa ett gemensamt språk blir viktigt" [SIU-R].  
 >   
@@ -13,7 +13,7 @@ titel: "Ordlista – Moälvsmodellen (utkast v3, 2026-10-18)"
 > - Ord som bara finns i klubbmaterial eller tränarpraxis är märkta "vedertaget, ej i förbundets material". Tveksamma ord är inte med i tabellerna; de står i avsnitt 9.  
 > - Barnspråk på grön är förbundets egna formuleringar när de finns. Annars är det Moälvens coachord från dokumentet Grön nivå – Jag och bollen, märkta *(Moälven)*.  
 > - Nivå anger från vilken nivå vi börjar använda ordet med spelarna. Ledarna får använda alla ord.  
-> - M1–M3 / U1–U3 visar kopplingen till Moälvens spelidé (huvuddokumentet Moälvsmodellen, avsnitt A4).
+> - M1–M3 / U1–U3 visar kopplingen till Moälvens spelidé (huvuddokumentet Den orangea tråden, avsnitt A4).
 
 **Spelidén i korthet (arbetsversion 2026-10-18):**
 

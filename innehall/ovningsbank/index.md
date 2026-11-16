@@ -1,8 +1,8 @@
 ---
-titel: "Övningsbank – Moälvsmodellen (utkast)"
+titel: "Övningsbank – Den orangea tråden (utkast)"
 ---
 
-***Del av Moälvsmodellen · Moälvens IBK · utkast v4 (2026-10-18), arbetsversion***
+***Del av den orangea tråden · Moälvens IBK · utkast v4 (2026-10-18), arbetsversion***
 
 ## Så använder vi övningsbanken
 Färre övningar, mer upprepning (Moälvens princip). 2–4 övningar räcker. Varje pass har två övningar. Var fjärde vecka byter vi bara en av dem: en ny övning kommer in och den äldsta går ut. Varje övning ligger alltså kvar i åtta veckor. Vecka 1–4 stegar övningen varje vecka: grundövning, Progression 1, Progression 2 och Progression 3. Då känns samma övning ny varje vecka. Vecka 5–8 fortsätter vi på Progression 3, eller en svårare variant som står på kortet. Tränar laget två gånger i veckan har pass A ett par och pass B ett annat, och båda byter på samma sätt. Skäl: det blir enkelt för tränaren, barnen mår bra av struktur, och det finns alltid en övning som barnen redan kan. Förbundet skriver om grön nivå: "I denna ålder känner sig barnen tryggare om det finns vissa fasta rutiner. Därför är det bra att utforma träningarna på liknande sätt från gång till gång så att barnen känner igen sig." [SIBF-G]
@@ -26,7 +26,7 @@ Alternativövningar finns i banken men inte i säsongsplanen. Byt in en av dem i
 
 Hela säsongsplanen vecka för vecka (vecka 44 till cirka vecka 16) finns i Grön nivå – Jag och bollen, avsnitt 5.
 
-Moälvsmodellen har tre delar: huvuddokumentet Moälvsmodellen, den här övningsbanken och en kortguide på en A4 per nivå. Övningsbanken är gemensam för alla nivåer. Nivådokumenten hänvisar hit med övningens nummer och namn. Säsongsplanen med pass A och pass B vecka för vecka finns i Grön nivå – Jag och bollen, avsnitt 5.
+Den orangea tråden har tre delar: huvuddokumentet Den orangea tråden, den här övningsbanken och en kortguide på en A4 per nivå. Övningsbanken är gemensam för alla nivåer. Nivådokumenten hänvisar hit med övningens nummer och namn. Säsongsplanen med pass A och pass B vecka för vecka finns i Grön nivå – Jag och bollen, avsnitt 5.
 
 ## Så är ett övningskort uppbyggt
 Överst på kortet står två korta rader:

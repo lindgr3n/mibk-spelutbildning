@@ -3,15 +3,15 @@ titel: "Blå nivå (9–12 år) – Jag, du och bollen"
 niva: "bla"
 ---
 
-**Moälvsmodellen · Tränarmaterial för blå nivå · utkast v1, arbetsversion**
+**Den orangea tråden · Tränarmaterial för blå nivå · utkast v1, arbetsversion**
 
-> Det här är materialet för dig som leder ett blått lag i Moälvens IBK. Utkast – arbetsversion, granskas innan det används. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för blå nivå (2025), handboken för nationella spelformer på grön och blå nivå och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Moälvsmodellen består av tre delar: huvuddokumentet *Moälvens spelutvecklingsplan*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är blå nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Moälvsmodellen, och kortguiden för blå görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras. Det som står som [ATT FYLLA], [ATT BESLUTA] eller [ATT KONTROLLERA] är inte klart än.
+> Det här är materialet för dig som leder ett blått lag i Moälvens IBK. Utkast – arbetsversion, granskas innan det används. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för blå nivå (2025), handboken för nationella spelformer på grön och blå nivå och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Den orangea tråden består av tre delar: huvuddokumentet *Moälvens spelutvecklingsplan*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är blå nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Den orangea tråden, och kortguiden för blå görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras. Det som står som [ATT FYLLA], [ATT BESLUTA] eller [ATT KONTROLLERA] är inte klart än.
 
 ---
 
 ## 1. Vad är blå nivå?
 - Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:bla}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.  
-- Blå nivå heter Lära sig träna hos förbundet. I Moälvsmodellen är undertiteln "Jag, du och bollen".  
+- Blå nivå heter Lära sig träna hos förbundet. I den orangea tråden är undertiteln "Jag, du och bollen".  
 - Glädje och trygghet först. Individuell utveckling prioriteras alltid före resultatmål.  
 - Kärnan: kompisen kommer in i spelet. Tekniken växer, och spelarna lär sig passa, ta emot och göra sig spelbara.  
 - Här börjar M2 Bredd till djup och djup till bredd. Det är huvudprincipen på blå nivå (Moälvens beslut).  
@@ -188,7 +188,7 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 ---
 
 ## 6. Övningar (finns i Övningsbanken)
-Övningskorten för blå nivå finns i dokumentet [Övningsbank – Moälvsmodellen](/ovningar/) ([Ö24](/ovningar/o24/)–[Ö43](/ovningar/o43/)), med samma fält som på grön nivå och en översikt under Blå nivå. Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna från spelutvecklingsplanen och var de finns i säsongen:
+Övningskorten för blå nivå finns i dokumentet [Övningsbank – Den orangea tråden](/ovningar/) ([Ö24](/ovningar/o24/)–[Ö43](/ovningar/o43/)), med samma fält som på grön nivå och en översikt under Blå nivå. Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna från spelutvecklingsplanen och var de finns i säsongen:
 
 | Nr | Namn | Princip | Var i säsongen | Källa |
 | :---- | :---- | :---- | :---- | :---- |

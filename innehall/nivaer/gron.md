@@ -3,14 +3,14 @@ titel: "Grön nivå (6–9 år) – Jag och bollen"
 niva: "gron"
 ---
 
-**Moälvsmodellen · Tränarmaterial för grön nivå · utkast v6, arbetsversion**
+**Den orangea tråden · Tränarmaterial för grön nivå · utkast v6, arbetsversion**
 
-> Det här är materialet för dig som leder ett grönt lag i Moälvens IBK. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för grön nivå (2025), handboken för nationella spelformer och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Moälvsmodellen består av tre delar: huvuddokumentet *Moälvsmodellen*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är grön nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Moälvsmodellen. Vi kör få övningar länge: två per pass, där en byts var fjärde vecka och varje övning tar ett nytt steg varje vecka (se 5), och kortguiden för grön görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras.
+> Det här är materialet för dig som leder ett grönt lag i Moälvens IBK. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för grön nivå (2025), handboken för nationella spelformer och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Den orangea tråden består av tre delar: huvuddokumentet *Den orangea tråden*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är grön nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Den orangea tråden. Vi kör få övningar länge: två per pass, där en byts var fjärde vecka och varje övning tar ett nytt steg varje vecka (se 5), och kortguiden för grön görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras.
 
 ---
 
 ## 1. Vad är grön nivå?
-- Grön nivå heter Rörelseglädje hos förbundet. I Moälvsmodellen är undertiteln "Jag och bollen".  
+- Grön nivå heter Rörelseglädje hos förbundet. I den orangea tråden är undertiteln "Jag och bollen".  
 - Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:gron}}.  
 - Kul först. Spelet och tekniken introduceras lekfullt, och ytor och utrustning anpassas efter barnen. Att vara med och göra sitt bästa är viktigare än att prestera.  
 - Kärnan: speldjup. Upp i anfall, hem i försvar. Planen på grön nivå är liten och smal men djup (20 × 12 m, se 3.3), så spelet går fram och tillbaka. Har vi bollen: upp mot deras mål. Har de bollen: hem mot vårt mål. Speldjup betyder att ge bollhållaren ett alternativ framåt eller bakåt (se Ordlistan). Säg till barnen: "Upp!" och "Hem!" (Moälvens förslag).  
@@ -159,7 +159,7 @@ Säsongen startar vecka 44 och går oktober–mars, med uppehåll vid jul och ny
 ---
 
 ## 6. Övningar (finns i Övningsbanken)
-Övningskorten finns i dokumentet Övningsbank – Moälvsmodellen, med samma fält på varje kort: Vad? · Varför? · Hur? · Organisation · Anvisningar, och sist progressionen vecka för vecka (grundövning, Progression 1–3 och en svårare variant för vecka 5–8). De flesta övningarna kommer från förbundets övningsbank (innebandy.se/ovningsbanken); övningar märkta Moälvens är våra egna.
+Övningskorten finns i dokumentet Övningsbank – Den orangea tråden, med samma fält på varje kort: Vad? · Varför? · Hur? · Organisation · Anvisningar, och sist progressionen vecka för vecka (grundövning, Progression 1–3 och en svårare variant för vecka 5–8). De flesta övningarna kommer från förbundets övningsbank (innebandy.se/ovningsbanken); övningar märkta Moälvens är våra egna.
 
 Grundprincipen är inga köer, många bollkontakter och mycket spel.
 

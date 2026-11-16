@@ -3,15 +3,15 @@ titel: "Röd nivå (12–16 år) – Jag, du och spelet"
 niva: "rod"
 ---
 
-**Moälvsmodellen · Tränarmaterial för röd nivå · utkast v1, arbetsversion**
+**Den orangea tråden · Tränarmaterial för röd nivå · utkast v1, arbetsversion**
 
-> Det här är materialet för dig som leder ett rött lag i Moälvens IBK. Utkast – arbetsversion, granskas innan det används. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för röd nivå (2025), förbundets sida om spelform på röd nivå, regelundantagen för ungdomsnivå och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Moälvsmodellen består av tre delar: huvuddokumentet *Moälvens spelutvecklingsplan*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är röd nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Moälvsmodellen, och kortguiden för röd görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras. Det som står som [ATT FYLLA], [ATT BESLUTA] eller [ATT KONTROLLERA] är inte klart än.
+> Det här är materialet för dig som leder ett rött lag i Moälvens IBK. Utkast – arbetsversion, granskas innan det används. Det bygger på Svensk Innebandys spel- och spelarutvecklingsplan för röd nivå (2025), förbundets sida om spelform på röd nivå, regelundantagen för ungdomsnivå och förbundets webbsidor om spelet. Källorna finns längst ner. Dokumentstruktur (beslutad): Den orangea tråden består av tre delar: huvuddokumentet *Moälvens spelutvecklingsplan*, en separat *övningsbank* och en *kortguide* på en A4 per nivå. Det här är röd nivås tränarmaterial. Övningarna finns i dokumentet Övningsbank – Den orangea tråden, och kortguiden för röd görs utifrån det här materialet. Moälvens förslag betyder att innehållet är vårt eget och inte kommer från förbundet. Det får justeras. Det som står som [ATT FYLLA], [ATT BESLUTA] eller [ATT KONTROLLERA] är inte klart än.
 
 ---
 
 ## 1. Vad är röd nivå?
 - Rekommenderade kullar säsongen {{sasong}}: födda {{nivakullar:rod}}. Det är en rekommendation, inte ett krav. Förbundet beslutar efter ansökan vilken division laget får spela i.  
-- Röd nivå heter Träna för att träna hos förbundet. I Moälvsmodellen är undertiteln "Jag, du och spelet".  
+- Röd nivå heter Träna för att träna hos förbundet. I den orangea tråden är undertiteln "Jag, du och spelet".  
 - Glädje, trygghet och utvecklingsfokus. Psykologisk trygghet och positiv, konstruktiv feedback.  
 - Kärnan: hela spelet. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  
 - Principer före positioner. Låt alla prova olika roller så länge som möjligt (undantag: målvakter).  
@@ -196,7 +196,7 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 ---
 
 ## 6. Övningar (finns i Övningsbanken)
-Övningskorten för röd nivå ([Ö44](/ovningar/o44/)–[Ö67](/ovningar/o67/)) finns i dokumentet [Övningsbank – Moälvsmodellen](/ovningar/), med översikt under "Röd nivå" och korten under "Övningskort – röd nivå". Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna nedan kommer från förbundets spelarutvecklingsplan, och kolumnen Var i säsongen visar var de finns i säsongsplanen (avsnitt 5):
+Övningskorten för röd nivå ([Ö44](/ovningar/o44/)–[Ö67](/ovningar/o67/)) finns i dokumentet [Övningsbank – Den orangea tråden](/ovningar/), med översikt under "Röd nivå" och korten under "Övningskort – röd nivå". Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna nedan kommer från förbundets spelarutvecklingsplan, och kolumnen Var i säsongen visar var de finns i säsongsplanen (avsnitt 5):
 
 | Nr | Namn | Princip | Var i säsongen | Källa |
 | :---- | :---- | :---- | :---- | :---- |
