@@ -1,11 +1,12 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
 import Hero from '../../components/Hero.astro';
 import Icon from '../../components/Icon.astro';
 import { nivaer } from '../../lib/nivaer';
 
 const kort = (await getCollection('ovningar')).sort((a, b) => a.data.nr - b.data.nr);
+const bank = (await getEntry('ovningsbank', 'index'))!;
 // "M1, M3" blir en tagg per princip. Intervall som U1–U3 skrivs ut, text i parentes tas bort och "alla (…)" blir "Alla".
 function principer(text?: string): string[] {
 	if (!text) return [];
@@ -22,6 +23,7 @@ function principer(text?: string): string[] {
 	}
 	return koder;
 }
+const { Content } = await render(bank);
 ---
 
 <Layout title="Övningsbanken">
@@ -65,6 +67,11 @@ function principer(text?: string): string[] {
 			}
 		</ul>
 		<p class="filter-empty" hidden>Inga övningar matchar filtret.</p>
+	</section>
+
+	<section class="prose prose-neutral bank-intro" aria-label="Om övningsbanken">
+		<h2>Om övningsbanken</h2>
+		<Content />
 	</section>
 
 	<script>

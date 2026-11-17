@@ -365,6 +365,10 @@ main ul.exercise-grid > li.exercise-card > a:hover {
 	border: 1px dashed var(--muted);
 }
 
+.bank-intro {
+	margin-top: 3rem;
+}
+
 .ex-facts {
 	display: grid;
 	grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
