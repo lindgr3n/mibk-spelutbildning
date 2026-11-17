@@ -286,10 +286,9 @@ main ul.exercise-grid > li.exercise-card > a {
 	gap: 0.2rem;
 	height: 100%;
 	min-height: 0;
-	padding: 1rem 1.1rem 1rem 1.25rem;
+	padding: 1rem 1.1rem;
 	background: var(--card);
 	border: 1px solid var(--card-line);
-	border-left: 6px solid var(--lvl, var(--orange));
 	border-radius: 8px;
 	color: var(--ink);
 	text-decoration: none;
