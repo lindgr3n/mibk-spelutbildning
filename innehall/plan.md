@@ -61,7 +61,7 @@ Det här gäller alla våra lag. Det är grunden för allt annat i planen.
 <details class="notis">
 <summary>Vad säger förbundet?</summary>
 
-*"Vi toppar inte innan 15 år"* [[6]](#källor), står det i förbundets plan för röd nivå. På grön nivå är förbundets grundord "Alla får delta" [[5]](#källor).
+Förbundets plan för röd nivå säger *"Vi toppar inte innan 15 år"* [[6]](#källor). På grön nivå är förbundets grundord "Alla får delta" [[5]](#källor).
 
 Förbundets resonemang om toppning och selektering:
 
@@ -240,7 +240,7 @@ Prioriterade fokusområden per nivå:
 - Utbildning: alla ledare som står i matchprotokollet på grön, blå och röd nivå ska ha giltig utbildning, alltså grundutbildning och Steg 1 för nivån. Det är Svensk Innebandys utbildningskrav från säsongen 2026/27 [[8]](#källor). Vad som gäller på varje nivå står i [ledarguiden](https://mibk-ledarguiden.vercel.app).
 
 ### Föräldrar
-- Förbundet skriver: *"Ni ledare, spelare, matchledare/domare och föräldrar är avgörande för att innebandyn ska vara trygg och utvecklande för barnen och ungdomarna." [[9]](#källor)* Vi vill ha en trygg och bra matchmiljö för våra barn, ledare och domare.  
+- Vi vill ha en trygg och bra matchmiljö för våra barn, ledare och domare. Förbundet säger samma sak: *"Ni ledare, spelare, matchledare/domare och föräldrar är avgörande för att innebandyn ska vara trygg och utvecklande för barnen och ungdomarna."* [[9]](#källor)  
 - Så kan du som förälder hjälpa till:  
   - Heja på alla barn, i båda lagen.  
   - Låt tränarna coacha och domarna döma.  
