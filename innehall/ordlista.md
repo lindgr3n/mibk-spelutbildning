@@ -11,7 +11,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 
 - Barnspråk visar hur vi säger det till barnen, och finns främst på grön nivå.
 - Spelidé visar vilken av våra principer (M1–M3 och U1–U3) ordet hör till. Principerna finns i [planen](/plan/#gemensam-spelidé).
-- Ord vi undviker, eller bara använder med förbehåll, står sist.
 
 ---
 
@@ -95,7 +94,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Centrala ytan (i övning) | Övningsytan i mitten, där spelet sker. | – | M2 |
-| Centralkorridor | Korridoren i mitten av planen. Planen delas på längden i tre korridorer. Vi använder ordet från blå nivå. | ("mitten") | U1, M2 |
+| Centralkorridor | Korridoren i mitten av planen. Planen delas på längden i tre korridorer. | ("mitten") | U1, M2 |
 | Farliga ytor | Ytor där det lätt blir mål. Vi söker dem i anfall och stänger dem i försvar. | – | M3, U1 |
 | Längs sarg | Spela eller styra motståndarna längs sargen. På blå säger vi "mot sargen". | "Ut mot kanten!" | U2 |
 | Målområde | Den större rektangeln framför målet, där målvakten får ta bollen med händerna. | – | – |
@@ -105,7 +104,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Slottet | Ytan rakt framför målet, där det är farligast och där många avslut kommer. | – | M3, U1 |
 | Ta sig in i ytor | Ta sig in på platser där det finns utrymme. | – | M2, M3 |
 | Utsida | Ytorna ute vid sargen. Dit vill vi styra motståndarna. På röd säger vi "utsida". | "Ut mot kanten!" | U2 |
-| Ytterkorridor | Korridoren på varje sida om centralkorridoren, längs sargen. Vi använder ordet från blå nivå. | ("kanten") | U2, M2 |
+| Ytterkorridor | Korridoren på varje sida om centralkorridoren, längs sargen. | ("kanten") | U2, M2 |
 | Ytterzon (i övning) | Övningsyta längs sidan, där hjälpspelare står. | – | M2 |
 
 ### Med boll (anfallsspel)
@@ -273,15 +272,3 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Intensitet och flöde (10 000 touch) | 1 Ingen väntetid, 2 Få spelare per boll, 3 Rotationer, 4 Snabba övergångar mellan övningar, 5 Många aktioner per tidsenhet, 6 Hög andel aktiva spelare, 7 Lagom antal spelare per kvadratmeter. | – |
 | Principer, beteenden, färdigheter, spelförståelse | De fyra byggstenarna för varje fokusområde. | – |
 | Träningsekonomi: aktivitetstid och lärtid | Hur mycket aktivitet och hur mycket lärande en övning ger varje spelare. | – |
-
----
-
-## Ord vi undviker (eller bara använder med förbehåll)
-| Ord | Så gör vi |
-| :---- | :---- |
-| Centralkorridor | Vi använder ordet från blå nivå. På grön säger vi "mitten". |
-| L-pass | Används inte. |
-| Spelavstånd | Okej från blå. |
-| Spelbredd | Okej från blå, men "bredd" är huvudordet. |
-| Speldjup | Okej från blå, men "djup" och "djupled" är huvudorden. |
-| Ytterkorridor | Vi använder ordet från blå nivå. På grön säger vi "kanten". |
