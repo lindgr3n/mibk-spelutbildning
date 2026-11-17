@@ -74,17 +74,6 @@ Förbundets kategorier (filtren i innebandy.se/ovningsbanken):
 | [Ö20](/ovningar/o20/) | Etablerat anfallsspel | Vända – vägg till vägg | M3, U2 | Pass B, v. 10–16 | Förbundets övningsbank |
 | [Ö22](/ovningar/o22/) | Etablerat anfallsspel | Utmana, finta, dribbla – Utmaningen | M3, U3 | Pass B, v. 14–16 | Förbundets övningsbank |
 
-**Alternativövningar (att byta in)**
-
-| Nr | Tema | Namn | Princip | Var i säsongen | Källa |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| [Ö7](/ovningar/o7/) | Teknikträning | Driva boll – Gatloppet | M1, M3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö15](/ovningar/o15/) | Teknikträning | Direktskott | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö17](/ovningar/o17/) | Defensiv omställning | Vända – Jaktlek | M3, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö18](/ovningar/o18/) | Teknikträning | Dragpassningar | M1, M3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö21](/ovningar/o21/) | Teknikträning | 360 kontroll – 1 v 1 | M1, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö23](/ovningar/o23/) | Lek | Teknikbana | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
-
 ### Blå nivå (9–12 år) – Jag, du och bollen
 **Övningar i säsongsplanen**
 
@@ -107,14 +96,6 @@ Förbundets kategorier (filtren i innebandy.se/ovningsbanken):
 | [Ö38](/ovningar/o38/) | Etablerat anfallsspel | Spelbarhet – Innebandydoppboll | M3 | Pass B, v. 6–13 | Förbundets övningsbank |
 | [Ö39](/ovningar/o39/) | Etablerat försvarsspel | Pressa, Markera – 3 v 5 | U1, U2 | Pass B, v. 10–16 | Förbundets övningsbank |
 | [Ö40](/ovningar/o40/) | Komma till avslut | 3 mot 3 med väggar – Skjuta – Snabba avslut | M1 | Pass B, v. 14–16 | Förbundets övningsbank |
-
-**Alternativövningar (att byta in)**
-
-| Nr | Tema | Namn | Princip | Var i säsongen | Källa |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| [Ö41](/ovningar/o41/) | Etablerat anfallsspel | Spelövning – Passa – Spanska kvadraten | M3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö42](/ovningar/o42/) | Teknikträning | Gyllene kvadraten | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö43](/ovningar/o43/) | Lek | Tjuva koner | – | Alternativövning, när passet behöver mer lek | Förbundets övningsbank |
 
 ### Röd nivå (12–16 år) – Jag, vi och spelet
 **Övningar i säsongsplanen**
@@ -142,14 +123,6 @@ Förbundets kategorier (filtren i innebandy.se/ovningsbanken):
 | [Ö62](/ovningar/o62/) | Speluppbyggnad | Spelbarhet – 2 v 2 + 2 | M2, M3 | Pass B, v. 42–49 | Förbundets övningsbank |
 | [Ö63](/ovningar/o63/) | Etablerat anfallsspel | Spelbarhet – Innebandydoppboll | M3 | Pass B, v. 50–7 | Förbundets övningsbank |
 | [Ö64](/ovningar/o64/) | Offensiv omställning | Kontringar – Stora coast to coast | M1, U3 | Pass B, v. 8–16 | Förbundets övningsbank |
-
-**Alternativövningar (att byta in)**
-
-| Nr | Tema | Namn | Princip | Var i säsongen | Källa |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| [Ö65](/ovningar/o65/) | Komma till avslut | Utmana, finta, dribbla – Trillingmatchen | M1, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö66](/ovningar/o66/) | Komma till avslut | 3 mot 3 med väggar – Skjuta – Snabba avslut | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö67](/ovningar/o67/) | Etablerat anfallsspel | Spelövning – Passa – Spanska kvadraten | M3, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
 
 ## Källor
 - Förbundets övningsbank [ÖB]: Svensk Innebandy, [https://www.innebandy.se/ovningsbanken](https://www.innebandy.se/ovningsbanken). Länk till varje övning står på kortet. Steg märkta [ÖB] kommer från förbundets text om övningen. Steg märkta "Moälvens tillägg" är våra egna.  
