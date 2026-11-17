@@ -201,7 +201,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Daylight | Engelskt ord för rättvänd, öppen position. Vi säger i första hand rättvänd. | – | M1, M3 |
 | "Första framåt" | Vid bollvinst: första passningen framåt, snabbt. | "Snabbt framåt!" | M1 |
 | "Inåt och framåt" | Röd nivås princip i anfall: hota mot mitten och framåt. | – | M2 |
-| Moonlight | Engelskt ord för felvänd eller skymd position. Vi säger i första hand felvänd. | – | M1, M3 |
 | Scanna | Titta runt och läsa av spelet innan man får bollen. | "Titta upp!" | M3 |
 | Spelvändning | Flytta spelet från ena sidan av planen till den andra. | – | M2 |
 | Vinna insida (fokusområde 5) | Rikta spelet mot de centrala ytorna på vägen framåt, och vinna ytan mellan motspelare och mål. Gäller både anfall och försvar. Hos oss syns den offensiva delen i M2 och M3, och den defensiva delen i U1 Stäng centralkorridoren. | – | M2, M3 (anfall) · U1 (försvar) |
