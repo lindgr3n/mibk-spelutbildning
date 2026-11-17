@@ -196,12 +196,12 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 ## 6. Exempelövningar från förbundets plan
 Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna från spelutvecklingsplanen och var de finns i säsongen:
 
-| Nr | Namn | Princip | Var i säsongen | Källa |
-| :---- | :---- | :---- | :---- | :---- |
-| B1 | Smålagsspel 2 mot 2 till 4 mot 4 med styrande regel, till exempel "alla måste vara över halva planen när vi anfaller för att mål ska räknas". Variera planstorlek, antal spelare och regler för att justera svårigheten | M2 (fler spelare i anfallet ger bredd och djup), U3 | [Ö26](/ovningar/o26/), fast avslutande spel. Regeln "alla över halva planen" gäller v. 44–51 | Förbundets spelarutvecklingsplan |
-| B2 | Spelbarhet och "Give and go" i smålagsspel: poäng eller beröm när en spelare passar och direkt tar en ny position, eller tar sig ur passningsskuggan | M1, M3 | Styrande regel i [Ö26](/ovningar/o26/), v. 2–9 | Förbundets fokusområde Spelbarhet; Sundsvall City "Give-and-Go i spelet 4 mot 4" |
-| B3 | Triangeln, påbyggd: med passning till nästa kö, överlämning och 1 mot 1 eller 1 mot 2 i triangeln | M1 | Inte i säsongsplanen, eftersom övningen har köer. Passningarna tränas i [Ö27](/ovningar/o27/) och [Ö35](/ovningar/o35/) (Moälvens förslag, granska) | Sundsvall City |
-| B4 | Vinna boll: blad mot boll och styr mot sargen: i 1 mot 1 eller 2 mot 2 i en avgränsad yta får försvararen poäng när motståndaren styrs mot sargen eller blir felvänd | U2, U3 | Styrande regel i [Ö26](/ovningar/o26/), v. 10–16. Tränas också i [Ö36](/ovningar/o36/) Sargduellen och [Ö39](/ovningar/o39/) Pressa, Markera – 3 v 5 | Förbundets fokusområde Vinna boll |
+| Nr | Namn | Princip | Var i säsongen |
+| :---- | :---- | :---- | :---- |
+| B1 | Smålagsspel 2 mot 2 till 4 mot 4 med styrande regel, till exempel "alla måste vara över halva planen när vi anfaller för att mål ska räknas". Variera planstorlek, antal spelare och regler för att justera svårigheten | M2 (fler spelare i anfallet ger bredd och djup), U3 | [Ö26](/ovningar/o26/), fast avslutande spel. Regeln "alla över halva planen" gäller v. 44–51 |
+| B2 | Spelbarhet och "Give and go" i smålagsspel: poäng eller beröm när en spelare passar och direkt tar en ny position, eller tar sig ur passningsskuggan | M1, M3 | Styrande regel i [Ö26](/ovningar/o26/), v. 2–9 |
+| B3 | Triangeln, påbyggd: med passning till nästa kö, överlämning och 1 mot 1 eller 1 mot 2 i triangeln | M1 | Inte i säsongsplanen, eftersom övningen har köer. Passningarna tränas i [Ö27](/ovningar/o27/) och [Ö35](/ovningar/o35/) (Moälvens förslag, granska) |
+| B4 | Vinna boll: blad mot boll och styr mot sargen: i 1 mot 1 eller 2 mot 2 i en avgränsad yta får försvararen poäng när motståndaren styrs mot sargen eller blir felvänd | U2, U3 | Styrande regel i [Ö26](/ovningar/o26/), v. 10–16. Tränas också i [Ö36](/ovningar/o36/) Sargduellen och [Ö39](/ovningar/o39/) Pressa, Markera – 3 v 5 |
 
 ---
 
