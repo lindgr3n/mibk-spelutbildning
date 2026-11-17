@@ -220,13 +220,22 @@ Prioriterade fokusområden per nivå:
 - Alla ord förklaras i [Ordlistan](/ordlista/).
 
 ### Spelfasmodellen: samma språk på alla nivåer
-- Förbundet beskriver spelet med en spelfasmodell som gäller för alla nivåer [[7]](#källor). Vi använder den som gemensamt språk genom alla nivåer: enklare för de yngsta och mer uppdelad ju äldre spelarna blir.  
-- Anfallsspel: speluppbyggnad, samt komma till avslut och göra mål [[7]](#källor).  
-- Försvarsspel: förhindra speluppbyggnad, samt förhindra och rädda avslut [[7]](#källor).  
-- Fasta situationer tillkommer. Spelet växlar hela tiden mellan faserna, och faserna speglar varandra [[7]](#källor).  
-- Grundprinciperna: struktur/formation, spelbarhet genom bollens förflyttning och genom spelarförflyttning, samt kommunikation, som binder ihop de andra [[7]](#källor).  
-- Informationsprocessen: i varje aktion uppfattar, värderar, beslutar och utför spelaren. Ingen aktion är den andra lik [[7]](#källor).  
+- Vi använder förbundets spelfasmodell som gemensamt språk genom alla nivåer.  
+- Den är enklare för de yngsta och mer uppdelad ju äldre spelarna blir.  
 - Hur faserna ser ut på varje nivå står i respektive nivådokument.
+
+<details class="notis">
+<summary>Vad säger förbundet?</summary>
+
+Förbundet beskriver spelet med en spelfasmodell som gäller för alla nivåer [[7]](#källor):
+
+- Anfallsspel: speluppbyggnad, samt komma till avslut och göra mål.
+- Försvarsspel: förhindra speluppbyggnad, samt förhindra och rädda avslut.
+- Fasta situationer tillkommer. Spelet växlar hela tiden mellan faserna, och faserna speglar varandra.
+- Grundprinciperna: struktur/formation, spelbarhet genom bollens förflyttning och genom spelarförflyttning, samt kommunikation, som binder ihop de andra.
+- Informationsprocessen: i varje aktion uppfattar, värderar, beslutar och utför spelaren. Ingen aktion är den andra lik.
+
+</details>
 
 ### Ledarskap
 - Visa, och låt barnen härma. Det är lättare än att lyssna.  
