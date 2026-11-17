@@ -262,7 +262,7 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 
 ### Ljusgrön nivå – Lek och rörelse (0–6 år)
 - Lek och rörelse står i fokus. Träningen är inte särskilt inriktad på innebandy [[2]](#källor).  
-- Barnen börjar hos oss i Moälven Kidz (ljusgrön nivå, rekommenderat födda {{kull:ljusgron}}).  
+- Barnen börjar hos oss i Moälven Kidz.  
 - Inga matcher. Förbundet anger inga fokusområden och ingen spelform för ljusgrön nivå. Våra fokusområden är rörelsernas grundformer och lek med boll, och kasta och fånga för målvaktsleken (Moälvens förslag).  
 - Runt laget: en enklare uppsättning än på grön nivå, och förra årets ledare stöttar som mentorer.  
 - Läs mer: [Uppstart av nya lag och mentorrutin – utkast](/nya-lag/) och [Att vara med i Moälvens IBK – A4 (utkast)](/att-vara-med/).
