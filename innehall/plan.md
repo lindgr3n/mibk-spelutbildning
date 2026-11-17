@@ -294,8 +294,9 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Träna för att träna. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  
 - Fortfarande principer före positioner, och alla provar olika roller så länge som möjligt.  
 - Matcher i 5 mot 5.  
-- Fokusområden 12–14 år: utespelare Duellspel med boll (1), Passningsspel (6) och Förhindra mål (8). Målvakt Returer (2) och Förflyttningar (4) [[6]](#källor).  
-- Fokusområden 15–16 år: utespelare Duellspel med boll (1), Vinna insida (5), Passningsspel (6) och Förhindra mål (8). Målvakt Returer (2), Förflyttningar (4), Aktiv som försvarare (7) och Trafikhantering (8) [[6]](#källor).  
+- Fokusområden enligt förbundets plan för röd nivå [[6]](#källor):
+  - 12–14 år: utespelare Duellspel med boll (1), Passningsspel (6) och Förhindra mål (8). Målvakt Returer (2) och Förflyttningar (4).
+  - 15–16 år: utespelare Duellspel med boll (1), Vinna insida (5), Passningsspel (6) och Förhindra mål (8). Målvakt Returer (2), Förflyttningar (4), Aktiv som försvarare (7) och Trafikhantering (8).
 - Läs mer: [Röd nivå – Jag, vi och spelet](/nivaer/rod/)
 
 ### Svart nivå, junior och senior: Vi och spelet
