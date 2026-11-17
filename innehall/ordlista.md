@@ -10,7 +10,7 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 **Så läser du listan**
 
 - Ord som bara finns i klubbmaterial eller tränarpraxis är märkta "vedertaget, ej i förbundets material". Tveksamma ord står i avsnitt 9.
-- Barnspråk på grön är förbundets egna formuleringar när de finns. Annars är det Moälvens coachord från dokumentet Grön nivå – Jag och bollen, märkta *(Moälven)*.
+- Barnspråk på grön är förbundets egna formuleringar när de finns. Annars är det våra egna coachord från dokumentet Grön nivå – Jag och bollen.
 - Nivå anger från vilken nivå vi börjar använda ordet med spelarna. Ledarna får använda alla ord.
 - Spelidé visar vilken av våra principer (M1–M3 och U1–U3) ordet hör till. Principerna finns i avsnitt 8 och i [planen](/plan/#gemensam-spelidé).
 
@@ -19,21 +19,21 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 ## 1. Planen och ytor
 | Begrepp | Betydelse (kort, enkel) | Från nivå | Barnspråk på grön | Källa | Spelidé |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Spelplan | Ytan innanför sargen där matchen spelas. | Grön | "planen" *(Moälven)* | [RH26 Ordlista] | – |
-| Sarg | Den låga väggen runt planen. | Grön | "kanten" ("Ut mot kanten!") *(Moälven)* | [RH26 Ordlista] | U2 |
+| Spelplan | Ytan innanför sargen där matchen spelas. | Grön | "planen" | [RH26 Ordlista] | – |
+| Sarg | Den låga väggen runt planen. | Grön | "kanten" ("Ut mot kanten!") | [RH26 Ordlista] | U2 |
 | Mittlinje | Linjen som delar planen i två lika stora halvor. | Grön | "mittlinjen" | [HB Ordlista; RH26 Ordlista] | – |
-| Reträttlinje | Samma som mittlinjen. På grön nivå måste spelarna springa tillbaka till egen planhalva (efter mål eller när målvakten fångar bollen). Den exakta meningen är bruten i PDF-texten: oklart i källan. | Grön | "Spring hem över mittlinjen!" *(Moälven)* | [HB Ordlista; HB spelformstabell "Mittlinje = reträttlinje"] | U3 |
+| Reträttlinje | Samma som mittlinjen. På grön nivå måste spelarna springa tillbaka till egen planhalva (efter mål eller när målvakten fångar bollen). Den exakta meningen är bruten i PDF-texten: oklart i källan. | Grön | "Spring hem över mittlinjen!" | [HB Ordlista; HB spelformstabell "Mittlinje = reträttlinje"] | U3 |
 | Mittpunkt | Punkten mitt på planen där tekning sker. | Grön | – | [HB Ordlista; RH26 Ordlista] | – |
 | Tekningspunkt | Markerad punkt där tekning görs; det finns sex. | Grön | – | [HB Ordlista; RH26 Ordlista] | – |
 | Målpunkt | Punkten framför målburen där spelet på grön nivå sätts igång efter mål och byte. | Grön | – | [HB Ordlista] | – |
 | Förlängd mållinje | Tänkt linje från mållinjen ut till tekningspunkterna i hörnen. | Grön | – | [HB Ordlista; RH26 Ordlista; SIU-G] | – |
 | Målområde / målvaktsområde | HB: målområde = där målvakten får ta bollen med händerna; målvaktsområde = där bara målvakten får vara. RH26: målområdet är den större, målvaktsområdet den mindre rektangeln framför målet. | Grön | – | [HB Ordlista; RH26 Ordlista] | – |
-| Byteszon | Området utanför planen där avbytare och ledare står och där byten görs. | Grön | "bänken" *(Moälven)* | [HB Ordlista; RH26 Ordlista] | – |
-| Ledig yta | Plats på planen där ingen står, dit man kan ta sig för att få tid. | Grön | "Spring dit ingen är!" *(Moälven)* | [SIU-G: "hitta en ledig yta"] | M3 |
+| Byteszon | Området utanför planen där avbytare och ledare står och där byten görs. | Grön | "bänken" | [HB Ordlista; RH26 Ordlista] | – |
+| Ledig yta | Plats på planen där ingen står, dit man kan ta sig för att få tid. | Grön | "Spring dit ingen är!" | [SIU-G: "hitta en ledig yta"] | M3 |
 | Skapa ytor / ta sig in i ytor | Med boll: flytta bollen och spelarna så att det öppnas plats. | Blå | – | [SIU-Spelet, grundprincip spelbarhet] | M2, M3 |
 | Farliga ytor | Ytor där det lätt blir mål, som vi söker i anfall och stänger i försvar. | Blå | – | [SIBF-B: "söka farliga ytor"; SIU-B: "stänga farliga ytor"; SIU-R] | M3, U1 |
-| Centrala ytor (insidan) | Ytorna i mitten av planen, mellan motståndarna och målet. Förbundet: "de centrala ytorna (på insidan) är de farligaste – både för att skapa målchanser framåt men även för att skydda eget mål". | Röd (på grön: "mitten") | "Skydda mitten!" *(Moälven)* | [SIBF-R fokusområde 5] | U1 (försvar), M2 (anfall, se fokusområde 5) |
-| Utsida / längs sarg | Ytorna ute vid sargen. Dit vill vi styra motståndarna. | Blå ("mot sargen"), Röd ("utsida") | "Ut mot kanten!" *(Moälven)* | [SIBF-B: "Styr motståndarna bort från målet, helst mot sargen"; SIBF-R: "Hålla motståndare på utsida och längs sarg"] | U2 |
+| Centrala ytor (insidan) | Ytorna i mitten av planen, mellan motståndarna och målet. Förbundet: "de centrala ytorna (på insidan) är de farligaste – både för att skapa målchanser framåt men även för att skydda eget mål". | Röd (på grön: "mitten") | "Skydda mitten!" | [SIBF-R fokusområde 5] | U1 (försvar), M2 (anfall, se fokusområde 5) |
+| Utsida / längs sarg | Ytorna ute vid sargen. Dit vill vi styra motståndarna. | Blå ("mot sargen"), Röd ("utsida") | "Ut mot kanten!" | [SIBF-B: "Styr motståndarna bort från målet, helst mot sargen"; SIBF-R: "Hålla motståndare på utsida och längs sarg"] | U2 |
 | Offensiv zon | Motståndarnas planhalva, där vi spelar uppställt anfallsspel. | Blå | – | [SIU-B] | – |
 | Egen zon / defensiv zon | Vår egen planhalva, där vi skyddar de farliga ytorna. | Röd | – | [SIU-R/SIU-S: "skydda de farliga ytorna i egen zon"; ÖB Etablerat anfall & försvar C: "defensiv zon"] | U1, U3 |
 | Avslutsytor | Ytorna där man kan komma till avslut. Försvaret ska "försvara avslutsytor". | Röd [ATT BESLUTA] | – | [ÖB Avslut 2B; UTB Skottet i slottet] | U1 |
@@ -47,15 +47,15 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 | Anfallsspel | När vårt lag har bollen. | Grön | "när mitt lag har bollen" / "när vi har bollen" | [SIU-G; SIU-bilder] | M1–M3 |
 | Anfallande lag | Laget som kontrollerar bollen. | Blå | "vi som har bollen" | [RH26 Ordlista] | – |
 | Spelet med boll | Allt man gör när laget har bollen; grön nivås enkla indelning. | Grön | "med boll" | [SIU-G] | M1–M3 |
-| Bollförare / bollhållare | Spelaren som har bollen. | Blå | "den som har bollen" *(Moälven)* | [SIBF-G/B/R: "bollföraren"; SIU-B: "bollhållaren"] | – |
-| Driva, dribbla, utmana, passa | Sätt att ta bollen mot motståndarnas mål. | Grön | "Snabbt framåt med bollen!" *(Moälven)* | [SIU-G] | M1 |
-| Duellspel med boll (fokusområde 1) | Utmana motståndare och skydda bollen. | Grön | "Skydda bollen!" *(Moälven)* | [SIBF-G/B/R fokusområde 1] | – |
+| Bollförare / bollhållare | Spelaren som har bollen. | Blå | "den som har bollen" | [SIBF-G/B/R: "bollföraren"; SIU-B: "bollhållaren"] | – |
+| Driva, dribbla, utmana, passa | Sätt att ta bollen mot motståndarnas mål. | Grön | "Snabbt framåt med bollen!" | [SIU-G] | M1 |
+| Duellspel med boll (fokusområde 1) | Utmana motståndare och skydda bollen. | Grön | "Skydda bollen!" | [SIBF-G/B/R fokusområde 1] | – |
 | Göra mål (fokusområde 2) | Avsluta, störa målvakt och ta returer. | Grön | "Skjut när du kan!" | [SIBF-G/B/R fokusområde 2; SIBF-G "försök skjuta på mål när du kan"] | – |
-| Ta bollen framåt (fokusområde 3) | "I anfallsspelets alla delar ta bollen mot motståndarnas mål i syfte att skapa möjlighet till målchans." Obs: definitionssidan i planerna ger en annan text ("Genom passningar sätta medspelare i bättre situationer än sin egen"): oklart i källan. | Grön | "Snabbt framåt med bollen!" *(Moälven)* | [SIBF-B/R temasida 3; SIBF-B/R definitionssida] | M1 |
-| Spelbar / spelbarhet (fokusområde 4) | Att vilja, våga och kunna bli spelbar när en medspelare har bollen. | Grön | "Visa klubban!", "Spring dit ingen är!" *(Moälven)* | [SIBF-G: "Träna på att vara spelbar"; SIBF-B/R temasida 4; SIU-Spelet] | M3 |
-| Passningsskugga | Att stå still bakom en motståndare, så att man inte kan få bollen. Det ska vi undvika. | Grön | "Stå inte gömd bakom någon!" *(Moälven)* | [SIBF-G: "inte stå still bakom en motståndare ('passningsskugga')"; SIBF-B] | M3 |
+| Ta bollen framåt (fokusområde 3) | "I anfallsspelets alla delar ta bollen mot motståndarnas mål i syfte att skapa möjlighet till målchans." Obs: definitionssidan i planerna ger en annan text ("Genom passningar sätta medspelare i bättre situationer än sin egen"): oklart i källan. | Grön | "Snabbt framåt med bollen!" | [SIBF-B/R temasida 3; SIBF-B/R definitionssida] | M1 |
+| Spelbar / spelbarhet (fokusområde 4) | Att vilja, våga och kunna bli spelbar när en medspelare har bollen. | Grön | "Visa klubban!", "Spring dit ingen är!" | [SIBF-G: "Träna på att vara spelbar"; SIBF-B/R temasida 4; SIU-Spelet] | M3 |
+| Passningsskugga | Att stå still bakom en motståndare, så att man inte kan få bollen. Det ska vi undvika. | Grön | "Stå inte gömd bakom någon!" | [SIBF-G: "inte stå still bakom en motståndare ('passningsskugga')"; SIBF-B] | M3 |
 | Vinna insida (fokusområde 5) | "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar". Gäller både anfall och försvar. Obs: definitionssidan i förbundets plan har en annan text; vi följer temasidan. Hos oss: den offensiva delen syns i M2 och M3, och den defensiva delen heter U1 *Stäng centralkorridoren* (Moälvens ord). | Röd (förbundet lyfter fokusområde 5 på röd) | – | [SIBF-R temasida 5; SIBF-R "1- Duellspel med boll, 5- Vinna insida"] | M2, M3 (anfall) · U1 (försvar) |
-| Passningsspel (fokusområde 6) | Genom passningar sätta andra i bättre situationer än sig själv. Obs: definitionssidan ger en annan text: oklart i källan. | Grön | "Passa till den som är fri!" *(Moälven)* | [SIBF-R temasida 6; SIBF-G/B/R fokusområde 6] | M1, M2 |
+| Passningsspel (fokusområde 6) | Genom passningar sätta andra i bättre situationer än sig själv. Obs: definitionssidan ger en annan text: oklart i källan. | Grön | "Passa till den som är fri!" | [SIBF-R temasida 6; SIBF-G/B/R fokusområde 6] | M1, M2 |
 | Avslut / komma till avslut | Skott eller annat försök att göra mål; slutmålet för anfallsspelet. | Blå (grön: "skjuta") | "Skjut när du kan!" | [SIU-Spelet; SIU-bilder; SIU-S/guld] | – |
 | Rättvänd / felvänd | Rättvänd: kroppen vänd mot motståndarnas mål och planen. Felvänd: ryggen åt det hållet. | Blå | – | [SIU-Spelet: "hamna rättvänd emot planen"; SIBF-B: "ta emot rättvänd", "Få motståndarna felvända"; SIBF-R: "Rättvänd mottagning"] | M1, M3 |
 | Daylight / moonlight | Förbundets ord (engelska) för rättvänd/öppen position (daylight) respektive felvänd eller skymd position (moonlight). I äldre SPU (2023): "rättvändhet hos bollförare emot motståndares mål och inåt planen = Daylight". Vi säger i första hand "rättvänd/felvänd". | Röd | – | [SIBF-B: "felvända (i moonlight)"; SIBF-R: "Sträva efter daylight"; SPU 2023 ifylld version] | M1, M3 |
@@ -65,12 +65,12 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 | Speldjup | Att ge bollhållaren ett alternativ framåt eller bakåt. Förbundet använder ordet i övningsbanken, inte i SPU-planerna; där står "djup" och "djupled". | Blå | – | [ÖB Speldjup – spelövning 8 Zonerna: "Hur gör ni för att ge bollhållaren speldjup framåt eller bakåt?"] | M2 |
 | Spelbredd | Att ge alternativ ute på sidorna. Förbundet använder ordet i övningsbanken, inte i SPU-planerna; där står "bredd". | Blå | – | [ÖB Avslut 2B: "Hjälpspelare erbjuder spelbredd"] | M2 |
 | En möter, en löper i djupled, en skapar bredd | Tre sätt för medspelare att hjälpa bollföraren. | Blå | – | [SIBF-B, fokusområde 4] | M2 |
-| Give and go | Passa och ta en ny yta direkt. | Blå | "Passa och spring!" *(Moälven)* | [SIBF-B: "'Give and go' – passa och ta en ny …"; SIBF-R: "passa och ta ny yta direkt"] | M1, M3 |
+| Give and go | Passa och ta en ny yta direkt. | Blå | "Passa och spring!" | [SIBF-B: "'Give and go' – passa och ta en ny …"; SIBF-R: "passa och ta ny yta direkt"] | M1, M3 |
 | Ny position (vid markering) | Om jag är markerad flyttar jag mig till en ny plats för att bli spelbar. | Blå | – | [SIBF-B: "Vid markering ta en ny position"; SIBF-R] | M3 |
-| "Första framåt" | Vid bollvinst: första passningen framåt, snabbt. | Röd | "Snabbt framåt!" *(Moälven)* | [SIBF-R: "Snabb förstapassning vid bollvinst 'första framåt'"] | M1 |
+| "Första framåt" | Vid bollvinst: första passningen framåt, snabbt. | Röd | "Snabbt framåt!" | [SIBF-R: "Snabb förstapassning vid bollvinst 'första framåt'"] | M1 |
 | "Inåt och framåt" | Röd nivås offensiva princip: hota mot mitten och framåt. | Röd | – | [SIBF-R, principer offensivt] | M2 |
 | Attackera gapet | Driva eller passa in i luckan mellan två motståndare. | Röd | – | [SIBF-R fokusområde 3 och 5] | M2, M3 |
-| Scanna | Titta runt (läsa av) innan man får bollen. | Röd | "Titta upp!" *(Moälven)* | [SIBF-R: "Scanna innan man får bollen"] | M3 |
+| Scanna | Titta runt (läsa av) innan man får bollen. | Röd | "Titta upp!" | [SIBF-R: "Scanna innan man får bollen"] | M3 |
 | Spelvändning | Flytta spelet från ena sidan av planen till den andra. Ordet nämns i röd plan men definieras inte: oklart i källan. | Röd | – | [SIBF-R: "stora ytor för spelvändningar"; jfr ÖB Spelbarhet – centervändningen: "flytta bollen från sida till sida"] | M2 |
 | Triangelspel, en mot en, överbelastning, speltempo | Taktiska principer för anfall i en av övningsbankens spelövningar. Definieras inte: oklart i källan. | Röd [ATT BESLUTA] | – | [ÖB Etablerat anfall & försvar C] | M1, M2 |
 
@@ -80,18 +80,18 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 | Försvarsspel | När motståndarna har bollen. | Grön | "när motståndarna har bollen" | [SIU-G; SIU-bilder] | U1–U3 |
 | Försvarande lag | Laget som inte kontrollerar bollen. | Blå | – | [RH26 Ordlista] | – |
 | Spelet utan boll | Allt man gör när laget inte har bollen; grön nivås enkla indelning. | Grön | "utan boll" | [SIU-G] | U1–U3 |
-| Vinna boll (fokusområde 7) | Pressa/stoppa motståndare, vinna lösa bollar och äga yta. | Grön | "Först till bollen!" *(Moälven)* | [SIBF-G/B/R temasida 7] | U3 |
-| Förhindra mål (fokusområde 8) | Försvara mål, skydda centrala ytor och täcka skott. | Grön | "Skydda mitten!" *(Moälven)* | [SIBF-R temasida 8] | U1 |
+| Vinna boll (fokusområde 7) | Pressa/stoppa motståndare, vinna lösa bollar och äga yta. | Grön | "Först till bollen!" | [SIBF-G/B/R temasida 7] | U3 |
+| Förhindra mål (fokusområde 8) | Försvara mål, skydda centrala ytor och täcka skott. | Grön | "Skydda mitten!" | [SIBF-R temasida 8] | U1 |
 | Blad mot boll / blad mot blad | Gå nära och sätta klubbladet mot motståndarens blad eller boll, så att det blir svårt att passa eller skjuta. SIU skriver "blad mot blad", grön plan skriver "blad mot boll". Båda är förbundets ord. Hos oss säger vi blad mot boll. | Grön | "Blad mot boll!" | [SIU-G; SIU-B; SIU-R; SIBF-G: "Sätta blad mot boll"] | U3 |
-| Styra bort från målet | Få den som har bollen att röra sig bort från vårt mål, helst mot sargen. | Grön | "Ut mot kanten!" *(Moälven)* | [SIBF-G fokusområde 7: "Styra motståndaren bort från målet"; SIBF-B: "helst mot sargen"] | U2 |
-| Hålla motståndare på utsida | Hålla bollföraren ute vid sargen, borta från mitten. | Röd | "Ut mot kanten!" *(Moälven)* | [SIBF-R: "Hålla motståndare på utsida och längs sarg"] | U2 |
+| Styra bort från målet | Få den som har bollen att röra sig bort från vårt mål, helst mot sargen. | Grön | "Ut mot kanten!" | [SIBF-G fokusområde 7: "Styra motståndaren bort från målet"; SIBF-B: "helst mot sargen"] | U2 |
+| Hålla motståndare på utsida | Hålla bollföraren ute vid sargen, borta från mitten. | Röd | "Ut mot kanten!" | [SIBF-R: "Hålla motståndare på utsida och längs sarg"] | U2 |
 | Spring hem | När vi tappar bollen springer vi snabbt tillbaka mot eget mål. | Grön | "Spring hem när vi tappar bollen!" | [SIBF-G (enkla regler i smålagsspel, se grön-dokumentet); SIBF-B: "spring hem snabbt i försvar"] | U3 |
-| Press / presspel / presspelare | Gå på bollföraren för att ta bollen eller göra det svårt för hen. | Blå ("press"), Röd ("presspel") | "Gå nära!" *(Moälven)* | [SIBF-B: "Sätt snabb press på den som har bollen"; SIU-B/SIU-R: "presspel"; SIU-S: "passiva presspelare"] | U3 |
+| Press / presspel / presspelare | Gå på bollföraren för att ta bollen eller göra det svårt för hen. | Blå ("press"), Röd ("presspel") | "Gå nära!" | [SIBF-B: "Sätt snabb press på den som har bollen"; SIU-B/SIU-R: "presspel"; SIU-S: "passiva presspelare"] | U3 |
 | Aggressivt försvarsspel | Att försvara aktivt och nära så att motståndaren inte hinner. | Blå | – | [SIU-B] | U3 |
-| Markera / markering / markeringsspel | Följa en motståndare utan boll så att hen inte blir fri. | Blå (grön: "prova på") | "Ta en kompis!" *(Moälven)* | [SIU-Spelet: "markera en spelare"; SIBF-G: "Prova på … markering"; SIBF-B: "markera motståndare utan boll så de inte blir fria"] | U3 |
+| Markera / markering / markeringsspel | Följa en motståndare utan boll så att hen inte blir fri. | Blå (grön: "prova på") | "Ta en kompis!" | [SIU-Spelet: "markera en spelare"; SIBF-G: "Prova på … markering"; SIBF-B: "markera motståndare utan boll så de inte blir fria"] | U3 |
 | Tät markering | Att markera mycket nära. | Röd | – | [SIBF-R: "hög press, lågt försvar, tät markering"] | U3 |
 | Hög press / lågt försvar | Att försvara högt upp på planen eller nära eget mål. Nämns i röd plan men definieras inte: oklart i källan. | Röd | – | [SIBF-R] | – |
-| Stänga ytor | Ställa sig så att motståndarna inte kommer in i ytor. | Blå | "Skydda mitten!" *(Moälven)* | [SIU-Spelet; SIU-B: "stänga farliga ytor"; SIU-R] | U1 |
+| Stänga ytor | Ställa sig så att motståndarna inte kommer in i ytor. | Blå | "Skydda mitten!" | [SIU-Spelet; SIU-B: "stänga farliga ytor"; SIU-R] | U1 |
 | Skära passningsvägar (eller löpvägar) | Ställa sig i vägen för passningen eller löpningen. | Blå | – | [SIU-B; SIU-R; ÖB Avslut 2B] | U1 |
 | Täcka skott / täcka ett avslut | Ställa sig i skottlinjen och blockera. | Blå | – | [SIU-B; SIU-R; SIBF-R fokusområde 8] | U1 |
 | Dubblingar, duellspel (i försvar) | Taktiska principer för försvar i en av övningsbankens övningar. Definieras inte: oklart i källan. | Röd [ATT BESLUTA] | – | [ÖB Etablerat anfall & försvar C] | U3 |
@@ -111,9 +111,9 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 | Komma till avslut och göra mål | Anfallsspelets slutmål. | Blå | "Skjut när du kan!" | [SIU-Spelet; SIU-bilder] | – |
 | Förhindra speluppbyggnad | Försvarsfas: stoppa motståndarnas uppspel. På röd delas den i förhindra uppspel och etablerat försvar. | Blå (delfaser: Röd) | "när motståndarna har bollen" | [SIU-Spelet; SIU-R] | U1, U2 |
 | Etablerat försvar(sspel) | Försvarsspel när motståndarna tagit sig förbi första försvarsled. | Röd | – | [SIU-R; SIU-S] | U1, U2 |
-| Förhindra och rädda avslut / förhindra avslut – skydda mål | Försvarsfas närmast eget mål. | Blå | "Skydda mitten!" *(Moälven)* | [SIU-Spelet; SIU-R] | U1 |
-| Offensiv omställning | Anfalla direkt efter bollvinst, innan motståndarna hunnit organisera sitt försvar. | Blå | "Snabbt framåt!" *(Moälven)* | [SIU-B; SIU-R] | M1 |
-| Defensiv omställning | Det som händer direkt när vi tappar bollen. | Blå | "Spring hem och gå nära!" *(Moälven)* | [SIU-B; SIU-R] | U3 |
+| Förhindra och rädda avslut / förhindra avslut – skydda mål | Försvarsfas närmast eget mål. | Blå | "Skydda mitten!" | [SIU-Spelet; SIU-R] | U1 |
+| Offensiv omställning | Anfalla direkt efter bollvinst, innan motståndarna hunnit organisera sitt försvar. | Blå | "Snabbt framåt!" | [SIU-B; SIU-R] | M1 |
+| Defensiv omställning | Det som händer direkt när vi tappar bollen. | Blå | "Spring hem och gå nära!" | [SIU-B; SIU-R] | U3 |
 | Återerövring | Strategi i omställning: vinna tillbaka bollen så snabbt som möjligt. | Röd | – | [SIU-R; SIU-S] | U3 |
 | Reträtt | Strategi i omställning: ta säkrare försvarspositioner och skydda de farliga ytorna i egen zon. Inte samma sak som *reträttlinje*. | Röd | – | [SIU-R; SIU-S] | U3, U1 |
 | Fasta situationer | Sätt att starta spelet efter avbrott. RH26: tekning, inslag, frislag och straffslag. HB (grön/blå): inslag, frislag, tekning, avslag och straffslag. | Grön | – | [RH26 Ordlista; HB Ordlista] | – |
@@ -124,12 +124,12 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 ## 5. Individuellt / teknik
 | Begrepp | Betydelse (kort, enkel) | Från nivå | Barnspråk på grön | Källa | Spelidé |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Driva | Föra bollen med klubban i rörelse. | Grön | "Spring med bollen!" *(Moälven)* | [SIU-G; SIBF-G] | M1 |
+| Driva | Föra bollen med klubban i rörelse. | Grön | "Spring med bollen!" | [SIU-G; SIBF-G] | M1 |
 | Dribbla | Ta sig förbi motståndare med bollen. | Grön | – | [SIU-G; SIBF-G] | M1 |
 | Vända | Vända med bollen. | Grön | – | [SIBF-G: "skott, passa, driva, vända, dribbla"] | – |
 | Forehand / backhand | Bladets två sidor. Driva och passa på båda. | Blå [ATT KONTROLLERA] att ordet används på blå | – | [SIBF-R: "driva med bollen på forehand och backhand i fart"] | – |
-| Blicken uppe | Titta upp medan man har bollen. | Grön (som coachord) | "Titta upp!" *(Moälven)* | [SIBF-R fokusområde 1: "Ha blicken uppe"] | M3 |
-| Skydda bollen | Använda klubba och kropp så att motståndaren inte når bollen. | Grön | "Skydda bollen!" *(Moälven)* | [SIBF-G/B/R fokusområde 1] | – |
+| Blicken uppe | Titta upp medan man har bollen. | Grön (som coachord) | "Titta upp!" | [SIBF-R fokusområde 1: "Ha blicken uppe"] | M3 |
+| Skydda bollen | Använda klubba och kropp så att motståndaren inte når bollen. | Grön | "Skydda bollen!" | [SIBF-G/B/R fokusområde 1] | – |
 | Mottagning / rättvänd mottagning | Ta emot bollen, helst vänd framåt. | Blå | – | [SIBF-B; SIBF-R] | M1 |
 | Tempoväxling / riktningsförändring | Ändra fart och riktning för att bli svår att läsa. | Röd | – | [SIBF-R fokusområde 1] | – |
 | Direktskott, bågskott | Skottyper som nämns på grön. | Grön | – | [SIBF-G: "skott – direktskott, bågskott"] | – |
@@ -143,15 +143,15 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 
 | Begrepp | Betydelse (kort, enkel) | Från nivå | Barnspråk på grön | Källa | Spelidé |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| 1 Bollhantering | Öga-hand-koordination och att vara bekväm med boll. | Grön | "Fånga bollen!" *(Moälven)* | [SIBF-R] | – |
-| 2 Returer | Följa och hitta bollen efter räddning och hantera det som händer sedan. | Grön | "Följ upp returen!" *(Moälven)* | [SIBF-R] | – |
+| 1 Bollhantering | Öga-hand-koordination och att vara bekväm med boll. | Grön | "Fånga bollen!" | [SIBF-R] | – |
+| 2 Returer | Följa och hitta bollen efter räddning och hantera det som händer sedan. | Grön | "Följ upp returen!" | [SIBF-R] | – |
 | 3 Ta bollen framåt | Samma definition som för utespelare. Blå: "Utmana motståndare genom ett snabbt spel." | Blå | – | [SIBF-R; SIBF-B temasida] | M1 |
 | 4 Förflyttningar | Med olika tekniker förflytta sig situationsanpassat. | Grön | – | [SIBF-R] | – |
 | 5 Positionering | Med kroppsposition och placering i målet kunna spela blockande och räddande. | Blå | – | [SIBF-R] | – |
-| 6 Utkast | Med olika tekniker sätta utespelare i bättre lägen än sig själv. | Grön | "Kasta till en kompis!" *(Moälven)* | [SIBF-R] | M1 |
+| 6 Utkast | Med olika tekniker sätta utespelare i bättre lägen än sig själv. | Grön | "Kasta till en kompis!" | [SIBF-R] | M1 |
 | 7 Aktiv som försvarare | Med kommunikation och agerande bidra till ett bra lagspel; vid behov täcka bakyta. | Blå | – | [SIBF-R] | U1 |
 | 8 Trafikhantering | Hantera med- och motspelare nära målet, ta in information och placera sig rätt. | Röd [ATT KONTROLLERA] | – | [SIBF-R] | – |
-| Grundposition | Målvaktens utgångsställning. | Blå | "Redo!" *(Moälven)* | [SIBF-B; SIBF-R: "hålla sin grundposition"] | – |
+| Grundposition | Målvaktens utgångsställning. | Blå | "Redo!" | [SIBF-B; SIBF-R: "hålla sin grundposition"] | – |
 | Bakyta | Ytan bakom försvaret, som målvakten kan behöva täcka. | Röd | – | [SIBF-R målvakt 7] | – |
 
 *Målvakt på grön: förbundets plan säger "Ingen fast målvakt" [SIBF-G]. Moälvens beslut: ingen målvakt första året, och alla gör målvaktslekar (kasta, fånga, utkast). Se Grön nivå – Jag och bollen.*
@@ -166,10 +166,10 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 | Intensitet / Flöde / 10 000 touch (1–7) | 1 Ingen väntetid, 2 Få spelare/boll, 3 Rotationer, 4 Övergång mellan övningar, 5 Aktionsfrekvens/aktioner per tidsenhet, 6 Andel aktiva spelare, 7 Spelare per kvadratmeter. | Ledarord | – | [SIBF-G/B/R] | – |
 | Aktionsfrekvens | Antal aktioner per tidsenhet. | Ledarord | – | [SIBF-G/B/R, punkt 5 ovan] | – |
 | Bolltouchprincipen | Rubrik i planerna med 1-mot-1 till 4-mot-4 och frågan om hur många spelare som har bollen i respektive övning. Text och bild går inte att läsa ut helt: oklart i källan. | Ledarord | – | [SIBF-G/B/R] | – |
-| Smålagsspel | Spel med få spelare per lag (t.ex. 2v2, 3v3, 4v4). Bästa vägen till spelförståelse. | Grön | "match" *(Moälven)* | [SIBF-G; SIBF-B; SIU-bilder] | M1–U3 |
+| Smålagsspel | Spel med få spelare per lag (t.ex. 2v2, 3v3, 4v4). Bästa vägen till spelförståelse. | Grön | "match" | [SIBF-G; SIBF-B; SIU-bilder] | M1–U3 |
 | Spelövning | Övning i spelform med en uppgift (t.ex. avslut, speldjup). | Blå | – | [ÖB] | – |
-| Hjälpspelare / joker | Extra spelare som hjälper det anfallande laget, ofta i en ytterzon. | Blå | "kompis på kanten" *(Moälven)* | [ÖB Avslut 2B; ÖB Etablerat anfall & försvar C] | M2 |
-| Reflektionsfrågor | Frågor till spelarna, som "Vad hände när vi vann bollen?". | Blå (grön: enkla frågor) | "Vad var roligast?" *(Moälven)* | [SIBF-B/R "Tips på reflektionsfrågor"; SIU-bilder] | – |
+| Hjälpspelare / joker | Extra spelare som hjälper det anfallande laget, ofta i en ytterzon. | Blå | "kompis på kanten" | [ÖB Avslut 2B; ÖB Etablerat anfall & försvar C] | M2 |
+| Reflektionsfrågor | Frågor till spelarna, som "Vad hände när vi vann bollen?". | Blå (grön: enkla frågor) | "Vad var roligast?" | [SIBF-B/R "Tips på reflektionsfrågor"; SIU-bilder] | – |
 | Gemensamt språk | Samma ord i alla lag. | Ledarord | – | [SIU-R; SIU-bilder] | – |
 
 ---
