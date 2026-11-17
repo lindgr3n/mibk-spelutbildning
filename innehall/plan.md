@@ -306,8 +306,6 @@ Så här beskriver förbundet svart nivå [[2]](#källor):
 * Matchspel blir mer centralt, men prestationsmålen ska fortfarande väga tungt i förhållande till resultatmålen.  
 * Träningsmängden balanseras mot återhämtning för att minska skaderisken, och spelarna lär sig mer om träning, återhämtning, mat och dryck.  
 
-Spelform: 5 mot 5 med målvakt enligt Regelhandboken. Juniorserierna i Västernorrland spelar 3 × 20 minuter effektiv tid (lokala förutsättningar 2026/27).  
-
 ---
 
 ### Källor
