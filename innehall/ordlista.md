@@ -1,5 +1,5 @@
 ---
-titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
+titel: "Ordlista – Den orangea tråden"
 ---
 
 *Del av den orangea tråden – Moälvens IBK:s spel- och spelarutvecklingsplan (arbetsnamn). Arbetsmaterial, inte beslutat.* *Dokumentstruktur (beslutad): Den orangea tråden består av huvuddokumentet, en separat övningsbank och en kortguide på en A4 per nivå. Ordlistan hör till huvuddokumentet. Övningsbanken och kortguiderna använder samma ord.*
