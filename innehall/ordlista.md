@@ -58,7 +58,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ### Spelfaser
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
-| Fasta situationer | Sätt att starta spelet efter avbrott. RH26: tekning, inslag, frislag och straffslag. HB (grön/blå): inslag, frislag, tekning, avslag och straffslag. | – | – |
+| Fasta situationer | Sätt att starta spelet igen efter ett avbrott: tekning, inslag, frislag, avslag och straffslag. | – | – |
 
 ### Individuellt / teknik
 | Begrepp | Betydelse | Barnspråk | Spelidé |
