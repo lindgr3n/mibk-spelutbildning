@@ -217,7 +217,7 @@ Prioriterade fokusområden per nivå:
 *Förbundet har inga fokusområden för ljusgrön nivå. Våra är Moälvens förslag och bygger på de rörelser förbundet nämner: åla och krypa, gå, springa, hoppa, balansera, hänga, rulla, stödja och kasta och fånga [[2]](#källor).*
 
 ### Gemensamt språk
-- Vi använder förbundets ord [[7]](#källor): bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot boll, press och omställning.  
+- Vi använder förbundets ord [[7]](#källor): bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot blad (förbundets grönplan säger blad mot boll), press och omställning.  
 - Vi hittar inte på egna specialord.  
 - Alla ord förklaras i [Ordlistan](/ordlista/).
 
