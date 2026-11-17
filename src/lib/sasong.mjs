@@ -50,6 +50,8 @@ export function kullar(datum = new Date()) {
 
 /** Födelseår för en hel nivå ('ljusgron' | 'gron' | 'bla' | 'rod'), äldst först, till exempel "2019, 2018 och 2017". */
 export function nivaFodelsear(niva, datum = new Date()){
+	// Svart nivå (junior och senior) börjar där röd slutar: ett år äldre än sista året på röd.
+	if (niva === 'svart') return `${sasongsStartAr(datum) - (Math.max(...kullDefinitioner.map((k) => k.alder)) + 1)} eller tidigare`;
 	const namn = { ljusgron: 'Ljusgrön', gron: 'Grön', bla: 'Blå', rod: 'Röd' }[niva];
 	const ar = kullar(datum)
 		.filter((k) => k.niva === namn)

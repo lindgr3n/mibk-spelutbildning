@@ -1,6 +1,7 @@
 // Byter platshållare i text mot säsong och födelseår som räknas ut när sidan byggs.
 //   {{sasong}}        -> 2026/27
 //   {{nivakullar:gron}} -> 2019, 2018 och 2017  (ljusgron, gron, bla, rod)
+//   {{nivakullar:svart}} -> 2009 eller tidigare  (ett år äldre än sista året på röd)
 //   {{kull:gron1}}    -> 2019   (id:n finns i sasong.mjs: ljusgron, gron1–3, bla1–3, rod1–4)
 import { kullDefinitioner, sasongNamn, fodelsear, nivaFodelsear } from './sasong.mjs';
 

@@ -258,7 +258,7 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 | **Grön** | 6–9 år | födda {{nivakullar:gron}} | Rörelseglädje | Jag och bollen | 3 mot 3 |
 | **Blå** | 9–12 år | födda {{nivakullar:bla}} | Lära sig träna | Jag, du och bollen | 4 mot 4 med målvakt |
 | **Röd** | 12–16 år | födda {{nivakullar:rod}} | Träna för att träna | Jag, vi och spelet | 5 mot 5 |
-| **Svart** | Junior och senior | – | Träna för att tävla | Vi och spelet | 5 mot 5 |
+| **Svart** | Junior och senior | födda {{nivakullar:svart}} | Träna för att tävla | Vi och spelet | 5 mot 5 |
 
 ### Ljusgrön nivå – Lek och rörelse (0–6 år)
 - Lek och rörelse står i fokus. Träningen är inte särskilt inriktad på innebandy [[2]](#källor).  
