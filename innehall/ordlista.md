@@ -40,7 +40,8 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Duellspel med boll (fokusområde 1) | Utmana motståndare och skydda bollen. | "Skydda bollen!" | – |
 | Göra mål (fokusområde 2) | Avsluta, störa målvakten och ta returer. | "Skjut när du kan!" | – |
 | Ta bollen framåt (fokusområde 3) | Ta bollen mot motståndarnas mål och skapa chans att göra mål. | "Snabbt framåt med bollen!" | M1 |
-| Spelbar / spelbarhet (fokusområde 4) | Att vilja, våga och kunna bli spelbar när en medspelare har bollen. | "Visa klubban!", "Spring dit ingen är!" | M3 |
+| Spelbar (fokusområde 4) | Att vilja, våga och kunna bli spelbar när en medspelare har bollen. | "Visa klubban!", "Spring dit ingen är!" | M3 |
+| Spelbarhet | Hur bra man är på att bli spelbar. | – | M3 |
 | Passningsskugga | Att stå still bakom en motståndare, så att man inte kan få bollen. Det ska vi undvika. | "Stå inte gömd bakom någon!" | M3 |
 | Passningsspel (fokusområde 6) | Använda passningar för att sätta andra i bättre lägen än sig själv. | "Passa till den som är fri!" | M1, M2 |
 
@@ -51,7 +52,8 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Spelet utan boll | Allt man gör när laget inte har bollen. | "utan boll" | U1–U3 |
 | Vinna boll (fokusområde 7) | Pressa och stoppa motståndare, vinna lösa bollar och äga ytan. | "Först till bollen!" | U3 |
 | Förhindra mål (fokusområde 8) | Försvara målet, skydda de centrala ytorna och täcka skott. | "Skydda mitten!" | U1 |
-| Blad mot boll / blad mot blad | Gå nära och sätta klubbladet mot motståndarens blad eller boll, så att det blir svårt att passa eller skjuta. Förbundet använder båda orden. Hos oss säger vi blad mot boll. | "Blad mot boll!" | U3 |
+| Blad mot boll | Gå nära och sätta klubbladet mot bollen, så att det blir svårt att passa eller skjuta. Det är det ord vi använder. | "Blad mot boll!" | U3 |
+| Blad mot blad | Samma sak som blad mot boll, men klubbladet sätts mot motståndarens blad. Förbundet använder båda orden. | – | U3 |
 | Styra bort från målet | Få den som har bollen att röra sig bort från vårt mål, helst mot sargen. | "Ut mot kanten!" | U2 |
 | Spring hem | När vi tappar bollen springer vi snabbt tillbaka mot vårt eget mål. | "Spring hem när vi tappar bollen!" | U3 |
 
@@ -90,23 +92,32 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ### Planen och ytor
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
-| Skapa ytor / ta sig in i ytor | Med boll: flytta bollen och spelarna så att det öppnas plats. | – | M2, M3 |
+| Skapa ytor | Med boll: flytta bollen och spelarna så att det öppnas plats. | – | M2, M3 |
+| Ta sig in i ytor | Ta sig in på platser där det finns utrymme. | – | M2, M3 |
 | Farliga ytor | Ytor där det lätt blir mål. Vi söker dem i anfall och stänger dem i försvar. | – | M3, U1 |
-| Utsida / längs sarg | Ytorna ute vid sargen. Dit vill vi styra motståndarna. På blå säger vi "mot sargen", på röd "utsida". | "Ut mot kanten!" | U2 |
+| Utsida | Ytorna ute vid sargen. Dit vill vi styra motståndarna. På röd säger vi "utsida". | "Ut mot kanten!" | U2 |
+| Längs sarg | Spela eller styra motståndarna längs sargen. På blå säger vi "mot sargen". | "Ut mot kanten!" | U2 |
 | Offensiv zon | Motståndarnas planhalva, där vi spelar uppställt anfallsspel. | – | – |
-| Centralkorridor / ytterkorridor | Planen delas på längden i tre korridorer: centralkorridoren i mitten och en ytterkorridor på varje sida. Vi använder orden från blå nivå. | ("mitten" / "kanten") | U1 (centralkorridor), U2 (ytterkorridor), M2 |
-| Ytterzon / centrala ytan (i övning) | Övningsytor: hjälpspelare i ytterzonerna och spel i den centrala ytan. | – | M2 |
-| Målområde / målvaktsområde | Målområdet är den större rektangeln framför målet, där målvakten får ta bollen med händerna. Målvaktsområdet är den mindre, där bara målvakten får vara. | – | – |
+| Centralkorridor | Korridoren i mitten av planen. Planen delas på längden i tre korridorer. Vi använder ordet från blå nivå. | ("mitten") | U1, M2 |
+| Ytterkorridor | Korridoren på varje sida om centralkorridoren, längs sargen. Vi använder ordet från blå nivå. | ("kanten") | U2, M2 |
+| Ytterzon (i övning) | Övningsyta längs sidan, där hjälpspelare står. | – | M2 |
+| Centrala ytan (i övning) | Övningsytan i mitten, där spelet sker. | – | M2 |
+| Målområde | Den större rektangeln framför målet, där målvakten får ta bollen med händerna. | – | – |
+| Målvaktsområde | Den mindre rektangeln framför målet, där bara målvakten får vara. | – | – |
 
 ### Med boll (anfallsspel)
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Anfallande lag | Laget som har bollen. | "vi som har bollen" | – |
-| Bollförare / bollhållare | Spelaren som har bollen. | "den som har bollen" | – |
-| Avslut / komma till avslut | Skott eller annat försök att göra mål. Det är det anfallsspelet siktar mot. På grön säger vi "skjuta". | "Skjut när du kan!" | – |
-| Rättvänd / felvänd | Rättvänd: kroppen är vänd mot motståndarnas mål och in över planen. Felvänd: ryggen är vänd åt det hållet. | – | M1, M3 |
+| Bollförare | Spelaren som har bollen. | "den som har bollen" | – |
+| Bollhållare | Samma som bollförare. | "den som har bollen" | – |
+| Avslut | Skott eller annat försök att göra mål. På grön säger vi "skjuta". | "Skjut när du kan!" | – |
+| Komma till avslut | Att ta sig till ett läge där man kan avsluta. Det är det anfallsspelet siktar mot. | "Skjut när du kan!" | – |
+| Rättvänd | Kroppen är vänd mot motståndarnas mål och in över planen. | – | M1, M3 |
+| Felvänd | Ryggen är vänd mot motståndarnas mål. | – | M1, M3 |
 | Bredd och djup | Att laget sprider ut sig både åt sidorna (bredd) och framåt och bakåt (djup), så att bollföraren får flera alternativ. | (på grön räcker "Spring dit ingen är!") | M2 |
-| Djupled / löpa i djupled | Löpning framåt mot motståndarnas mål, bakom eller förbi motståndare. | – | M2 |
+| Djupled | Riktningen framåt mot motståndarnas mål. | – | M2 |
+| Löpa i djupled | Löpning framåt mot motståndarnas mål, bakom eller förbi motståndare. | – | M2 |
 | Spelavstånd | Avståndet mellan medspelarna, både på djupet och på bredden. | – | M2 |
 | Speldjup | Att ge bollhållaren ett alternativ framåt eller bakåt. | – | M2 |
 | Spelbredd | Att ge alternativ ute på sidorna. | – | M2 |
@@ -118,12 +129,17 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Försvarande lag | Laget som inte har bollen. | – | – |
-| Press / presspel / presspelare | Gå på bollföraren för att ta bollen eller göra det svårt för hen. Blå säger "press" och röd "presspel". | "Gå nära!" | U3 |
+| Press | Gå på bollföraren för att ta bollen eller göra det svårt för hen. | "Gå nära!" | U3 |
+| Presspel | Samma sak som press. Röd säger "presspel". | "Gå nära!" | U3 |
+| Presspelare | Spelaren som går på bollföraren. | – | U3 |
 | Aggressivt försvarsspel | Att försvara aktivt och nära så att motståndaren inte hinner. | – | U3 |
-| Markera / markering / markeringsspel | Följa en motståndare utan boll så att hen inte blir fri. På grön säger vi "prova på". | "Ta en kompis!" | U3 |
+| Markera | Följa en motståndare utan boll så att hen inte blir fri. På grön säger vi "prova på". | "Ta en kompis!" | U3 |
+| Markering | När man följer en motståndare utan boll. | "Ta en kompis!" | U3 |
+| Markeringsspel | Spel där man markerar motståndarna. | – | U3 |
 | Stänga ytor | Ställa sig så att motståndarna inte kommer in i ytor. | "Skydda mitten!" | U1 |
 | Skära passningsvägar (eller löpvägar) | Ställa sig i vägen för passningen eller löpningen. | – | U1 |
-| Täcka skott / täcka ett avslut | Ställa sig i skottlinjen och blockera. | – | U1 |
+| Täcka skott | Ställa sig i skottlinjen och blockera. | – | U1 |
+| Täcka ett avslut | Samma som täcka skott. | – | U1 |
 
 ### Spelfaser
 | Begrepp | Betydelse | Barnspråk | Spelidé |
@@ -133,15 +149,18 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Uppställt anfallsspel | Anfall i offensiv zon med målet att komma till avslut. | – | – |
 | Komma till avslut och göra mål | Det anfallsspelet siktar mot. | "Skjut när du kan!" | – |
 | Förhindra speluppbyggnad | Försvarsfas: stoppa motståndarnas uppspel. På röd delas den i förhindra uppspel och etablerat försvar. | "när motståndarna har bollen" | U1, U2 |
-| Förhindra och rädda avslut / förhindra avslut – skydda mål | Försvarsfasen närmast vårt eget mål. | "Skydda mitten!" | U1 |
+| Förhindra och rädda avslut | Försvarsfasen närmast vårt eget mål. | "Skydda mitten!" | U1 |
+| Förhindra avslut – skydda mål | Samma försvarsfas, närmast vårt eget mål. | "Skydda mitten!" | U1 |
 | Offensiv omställning | Anfalla direkt efter bollvinst, innan motståndarna hunnit organisera sitt försvar. | "Snabbt framåt!" | M1 |
 | Defensiv omställning | Det som händer direkt när vi tappar bollen. | "Spring hem och gå nära!" | U3 |
 
 ### Individuellt / teknik
 | Begrepp | Betydelse | Spelidé |
 | :---- | :---- | :---- |
-| Forehand / backhand | Bladets två sidor. Driva och passa på båda. | – |
-| Mottagning / rättvänd mottagning | Ta emot bollen, helst vänd framåt. | M1 |
+| Forehand | Bladets ena sida. Man kan driva och passa på den. | – |
+| Backhand | Bladets andra sida. Man kan driva och passa på den. | – |
+| Mottagning | Ta emot bollen. | M1 |
+| Rättvänd mottagning | Ta emot bollen vänd framåt. | M1 |
 
 ### Målvakt
 | Begrepp | Betydelse | Barnspråk | Spelidé |
@@ -154,7 +173,8 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Spelövning | Övning i spelform med en uppgift, till exempel avslut eller speldjup. | – | – |
-| Hjälpspelare / joker | Extra spelare som hjälper det anfallande laget, ofta i en ytterzon. | "kompis på kanten" | M2 |
+| Hjälpspelare | Extra spelare som hjälper det anfallande laget, ofta i en ytterzon. | "kompis på kanten" | M2 |
+| Joker | Samma som hjälpspelare. | "kompis på kanten" | M2 |
 | Reflektionsfrågor | Frågor till spelarna, som "Vad hände när vi vann bollen?". På grön ställer vi enkla frågor. | "Vad var roligast?" | – |
 
 ---
@@ -165,15 +185,19 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Centrala ytor (insidan) | Ytorna i mitten av planen, mellan motståndarna och målet. De är de farligaste ytorna, både för att skapa målchanser framåt och för att skydda vårt eget mål. På grön säger vi "mitten". | "Skydda mitten!" | U1 (försvar), M2 (anfall, se fokusområde 5) |
-| Egen zon / defensiv zon | Vår egen planhalva, där vi skyddar de farliga ytorna. | – | U1, U3 |
+| Egen zon | Vår egen planhalva, där vi skyddar de farliga ytorna. | – | U1, U3 |
+| Defensiv zon | Samma som egen zon. | – | U1, U3 |
 | Avslutsytor | Ytorna där man kan komma till avslut. Försvaret ska försvara avslutsytorna. | – | U1 |
-| Uppspelszon / anfallszon / försvarszon (i övning) | Zoner som en övningsyta delas in i. | – | M2 |
+| Uppspelszon (i övning) | Zonen där uppspelet sker. | – | M2 |
+| Anfallszon (i övning) | Zonen där anfallet avslutas. | – | M2 |
+| Försvarszon (i övning) | Zonen där försvaret står. | – | M2 |
 
 ### Med boll (anfallsspel)
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Vinna insida (fokusområde 5) | Rikta spelet mot de centrala ytorna på vägen framåt, och vinna ytan mellan motspelare och mål. Gäller både anfall och försvar. Hos oss syns den offensiva delen i M2 och M3, och den defensiva delen i U1 Stäng centralkorridoren. | – | M2, M3 (anfall) · U1 (försvar) |
-| Daylight / moonlight | Engelska ord för rättvänd, öppen position (daylight) och felvänd eller skymd position (moonlight). Vi säger i första hand rättvänd och felvänd. | – | M1, M3 |
+| Daylight | Engelskt ord för rättvänd, öppen position. Vi säger i första hand rättvänd. | – | M1, M3 |
+| Moonlight | Engelskt ord för felvänd eller skymd position. Vi säger i första hand felvänd. | – | M1, M3 |
 | "Första framåt" | Vid bollvinst: första passningen framåt, snabbt. | "Snabbt framåt!" | M1 |
 | "Inåt och framåt" | Röd nivås princip i anfall: hota mot mitten och framåt. | – | M2 |
 | Attackera gapet | Driva eller passa in i luckan mellan två motståndare. | – | M2, M3 |
@@ -185,13 +209,15 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | :---- | :---- | :---- | :---- |
 | Hålla motståndare på utsida | Hålla bollföraren ute vid sargen, borta från mitten. | "Ut mot kanten!" | U2 |
 | Tät markering | Att markera mycket nära. | – | U3 |
-| Hög press / lågt försvar | Att försvara högt upp på planen eller nära vårt eget mål. | – | – |
+| Hög press | Att försvara högt upp på planen. | – | – |
+| Lågt försvar | Att försvara nära vårt eget mål. | – | – |
 
 ### Spelfaser
 | Begrepp | Betydelse | Spelidé |
 | :---- | :---- | :---- |
 | Uppspel | Att spela förbi motståndarnas första försvarslinje. | M1, M2 |
-| Etablerat anfallsspel / etablerat anfall | Anfallsspel efter uppspelet. | – |
+| Etablerat anfallsspel | Anfallsspel efter uppspelet. | – |
+| Etablerat anfall | Samma som etablerat anfallsspel. | – |
 | Etablerat försvar(sspel) | Försvarsspel när motståndarna har tagit sig förbi första försvarsled. | U1, U2 |
 | Återerövring | Strategi i omställning: vinna tillbaka bollen så snabbt som möjligt. | U3 |
 | Reträtt | Strategi i omställning: ta säkrare försvarspositioner och skydda de farliga ytorna i egen zon. Inte samma sak som reträttlinje. | U3, U1 |
@@ -200,7 +226,8 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ### Individuellt / teknik
 | Begrepp | Betydelse | Spelidé |
 | :---- | :---- | :---- |
-| Tempoväxling / riktningsförändring | Ändra fart och riktning för att bli svår att läsa. | – |
+| Tempoväxling | Ändra fart för att bli svår att läsa. | – |
+| Riktningsförändring | Ändra riktning för att bli svår att läsa. | – |
 | Handledsskott | Skottyp som nämns på röd nivå. | – |
 | Slagskott | Skottyp som förbundet använder i sina utbildningsövningar. | – |
 
@@ -243,7 +270,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Fokusområde | De åtta områdena, för utespelare och för målvakt, som utvecklingsplanerna bygger på. | – |
 | Aktiva spelare | Ingen väntan och inga köer. | – |
 | Träningsekonomi: aktivitetstid och lärtid | Hur mycket aktivitet och hur mycket lärande en övning ger varje spelare. | – |
-| Intensitet / flöde / 10 000 touch (1–7) | 1 Ingen väntetid, 2 Få spelare per boll, 3 Rotationer, 4 Snabba övergångar mellan övningar, 5 Många aktioner per tidsenhet, 6 Hög andel aktiva spelare, 7 Lagom antal spelare per kvadratmeter. | – |
+| Intensitet och flöde (10 000 touch) | 1 Ingen väntetid, 2 Få spelare per boll, 3 Rotationer, 4 Snabba övergångar mellan övningar, 5 Många aktioner per tidsenhet, 6 Hög andel aktiva spelare, 7 Lagom antal spelare per kvadratmeter. | – |
 | Aktionsfrekvens | Antal aktioner per tidsenhet. | – |
 | Gemensamt språk | Samma ord i alla lag. | – |
 
@@ -262,10 +289,12 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ## Ord vi undviker (eller bara använder med förbehåll)
 | Ord | Så gör vi |
 | :---- | :---- |
-| Centralkorridor / ytterkorridor | Vi använder orden från blå nivå. På grön säger vi "mitten" och "kanten". |
+| Centralkorridor | Vi använder ordet från blå nivå. På grön säger vi "mitten". |
+| Ytterkorridor | Vi använder ordet från blå nivå. På grön säger vi "kanten". |
 | Spelbredd | Okej från blå, men "bredd" är huvudordet. |
 | Speldjup | Okej från blå, men "djup" och "djupled" är huvudorden. |
 | Spelavstånd | Okej från blå. |
 | Gold zone | Används inte. Säg "farliga ytor", "centrala ytor" eller "avslutsytor". |
-| Slot / slottet | Används inte. Säg "avslutsytor" eller "farliga ytor". |
+| Slot | Används inte. Säg "avslutsytor" eller "farliga ytor". |
+| Slottet | Används inte. Säg "avslutsytor" eller "farliga ytor". |
 | L-pass | Används inte. |
