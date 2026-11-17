@@ -1,5 +1,5 @@
 ---
-titel: "Ordlista – Den orangea tråden"
+titel: "Ordlista"
 ---
 
 ## Förord
