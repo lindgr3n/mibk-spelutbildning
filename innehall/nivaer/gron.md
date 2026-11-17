@@ -193,40 +193,7 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 
 ---
 
-## 6. Övningar (finns i Övningsbanken)
-Övningskorten finns i dokumentet Övningsbank – Den orangea tråden, med samma fält på varje kort: Vad? · Varför? · Hur? · Organisation · Anvisningar, och sist progressionen vecka för vecka (grundövning, Progression 1–3 och en svårare variant för vecka 5–8). De flesta övningarna kommer från förbundets övningsbank (innebandy.se/ovningsbanken); övningar märkta Moälvens är våra egna.
-
-Grundprincipen är inga köer, många bollkontakter och mycket spel.
-
-| Nr | Namn | Tema (förbundets ord) | Princip | Var i säsongen | Källa |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| [Ö1](/ovningar/o1/) | Jag och bollen | Teknikträning | M1 | Fast uppvärmning | Förbundets övningsbank |
-| [Ö2](/ovningar/o2/) | Kasta och fånga (målvaktslek för alla) | Målvakt | M1, M3 | Fast målvaktslek | Moälvens |
-| [Ö3](/ovningar/o3/) | Smålagsspel 3 mot 3 | Etablerat anfallsspel / Etablerat försvarsspel | alla (M1–M3, U1–U3) | Fast avslutande spel | Moälvens |
-| [Ö4](/ovningar/o4/) | 360 kontroll – Innebandykull | Teknikträning | M1, U3 | Pass A, v. 44–47 | Förbundets övningsbank |
-| [Ö5](/ovningar/o5/) | Hinderbana | Lek | – | Pass B, v. 44–47 | Förbundets övningsbank |
-| [Ö6](/ovningar/o6/) | Vända – Vändningen | Etablerat anfallsspel | M3 | Pass A, v. 44–51 | Förbundets övningsbank |
-| [Ö7](/ovningar/o7/) | Driva boll – Gatloppet | Teknikträning | M1, M3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö8](/ovningar/o8/) | Avslut – Skottormen | Komma till avslut | M1 | Pass A, v. 48–5 | Förbundets övningsbank |
-| [Ö9](/ovningar/o9/) | Passa – Passningsleken | Etablerat anfallsspel | M3 | Pass A, v. 6–13 | Förbundets övningsbank |
-| [Ö10](/ovningar/o10/) | Driva boll – Jaktlek | Defensiv omställning | U3, M1 | Pass A, v. 2–9 | Förbundets övningsbank |
-| [Ö11](/ovningar/o11/) | Ut mot kanten | Etablerat försvarsspel | U1, U2 | Pass A, v. 10–16 | Moälvens |
-| [Ö12](/ovningar/o12/) | Skjuta – Målen i mitten | Komma till avslut | M1, U1 | Pass A, v. 14–16 · även alternativt avslutande spel | Förbundets övningsbank |
-| [Ö13](/ovningar/o13/) | Snurr med boll grundteknik | Teknikträning | M1 | Pass B, v. 44–51 | Förbundets övningsbank |
-| [Ö14](/ovningar/o14/) | Handledsskott | Teknikträning | M1 | Pass B, v. 48–5 | Förbundets övningsbank |
-| [Ö15](/ovningar/o15/) | Direktskott | Teknikträning | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö16](/ovningar/o16/) | British Bulldogs | Lek | M1, U3 | Pass B, v. 2–9 | Förbundets övningsbank |
-| [Ö17](/ovningar/o17/) | Vända – Jaktlek | Defensiv omställning | M3, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö18](/ovningar/o18/) | Dragpassningar | Teknikträning | M1, M3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö19](/ovningar/o19/) | Passa och mottagning – Basketbollen | Etablerat anfallsspel | M3 | Pass B, v. 6–13 | Förbundets övningsbank |
-| [Ö20](/ovningar/o20/) | Vända – vägg till vägg | Etablerat anfallsspel | M3, U2 | Pass B, v. 10–16 | Förbundets övningsbank |
-| [Ö21](/ovningar/o21/) | 360 kontroll – 1 v 1 | Teknikträning | M1, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
-| [Ö22](/ovningar/o22/) | Utmana, finta, dribbla – Utmaningen | Etablerat anfallsspel | M3, U3 | Pass B, v. 14–16 | Förbundets övningsbank |
-| [Ö23](/ovningar/o23/) | Teknikbana | Lek | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
-
----
-
-## 7. Träningspass: exempel pass A, vecka 44 (60 minuter, 8–9 år)
+## 6. Träningspass: exempel pass A, vecka 44 (60 minuter, 8–9 år)
 Hela passet med övningskorten finns i Övningsbanken under "Träningspass: Grön – pass A, vecka 44".
 
 Övningar i träningspasset (vecka 44, grundövning):

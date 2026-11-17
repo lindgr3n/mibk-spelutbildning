@@ -193,8 +193,8 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 
 ---
 
-## 6. Övningar (finns i Övningsbanken)
-Övningskorten för blå nivå finns i dokumentet [Övningsbank – Den orangea tråden](/ovningar/) ([Ö24](/ovningar/o24/)–[Ö43](/ovningar/o43/)), med samma fält som på grön nivå och en översikt under Blå nivå. Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna från spelutvecklingsplanen och var de finns i säsongen:
+## 6. Exempelövningar från förbundets plan
+Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna från spelutvecklingsplanen och var de finns i säsongen:
 
 | Nr | Namn | Princip | Var i säsongen | Källa |
 | :---- | :---- | :---- | :---- | :---- |

@@ -202,8 +202,8 @@ Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller s
 
 ---
 
-## 6. Övningar (finns i Övningsbanken)
-Övningskorten för röd nivå ([Ö44](/ovningar/o44/)–[Ö67](/ovningar/o67/)) finns i dokumentet [Övningsbank – Den orangea tråden](/ovningar/), med översikt under "Röd nivå" och korten under "Övningskort – röd nivå". Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna nedan kommer från förbundets spelarutvecklingsplan, och kolumnen Var i säsongen visar var de finns i säsongsplanen (avsnitt 5):
+## 6. Exempelövningar från förbundets plan
+Grundprincipen är inga köer, många bollkontakter och mycket spel. Exempelövningarna kommer från förbundets spelarutvecklingsplan, och kolumnen Var i säsongen visar var de finns i säsongsplanen (avsnitt 5):
 
 | Nr | Namn | Princip | Var i säsongen | Källa |
 | :---- | :---- | :---- | :---- | :---- |
