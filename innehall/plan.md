@@ -186,7 +186,7 @@ Utan boll har spelidén tre principer:
 
 Planen delas på längden i tre korridorer: centralkorridoren i mitten och en ytterkorridor utmed sargen på varje sida. På grön nivå säger vi enklare "mitten" och "kanten", och från blå nivå använder vi orden centralkorridor och ytterkorridor.
 
-Hur principerna ser ut på varje nivå, och vad vi säger till barnen, står i respektive nivådokument (se nivåerna och deras arbetsnamn i avsnitt 1). Spelidén är en arbetsversion och kan justeras.
+Hur principerna ser ut på varje nivå, och vad vi säger till barnen, står i respektive nivådokument (se nivåerna och deras arbetsnamn i avsnitt 1).
 
 ### Förbundets åtta fokusområden
 Förbundet delar in det spelarna ska lära sig i åtta fokusområden för utespelare och åtta för målvakter. Vi använder samma namn som förbundet, så att vi pratar samma språk som utbildningarna.
