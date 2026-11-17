@@ -280,14 +280,18 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Barnen lär sig driva, vända, skjuta och vinna tillbaka bollen, och att vara med i spelet.  
 - Inga positioner och ingen fast målvakt. Alla gör målvaktslekar.  
 - Matcher spelas som sammandrag i 3 mot 3, utan resultat.  
-- Fokusområden: utespelare Göra mål (2) och Vinna boll (7). Målvakt Bollhantering (1) och Utkast (3), som alla barn tränar [[5]](#källor).  
+- Fokusområden enligt förbundets plan för grön nivå [[5]](#källor):
+  - Utespelare: Göra mål (2) och Vinna boll (7).
+  - Målvakt: Bollhantering (1) och Utkast (3). Alla barn tränar målvaktsfokusen.  
 - Läs mer: [Grön nivå – Jag och bollen](/nivaer/gron/)
 
 ### Blå nivå, 9–12 år: Jag, du och bollen
 - Lära sig träna. Tekniken växer och kompisen kommer in i spelet: passa, ta emot och göra sig spelbar.  
 - Här börjar vi arbeta med principen Bredd till djup (M2).  
 - Matcher i 4 mot 4 med målvakt, fortfarande utan resultat och tabeller.  
-- Fokusområden: utespelare Ta bollen framåt (3), Spelbarhet (4) och Vinna boll (7). Målvakt Bollhantering (1), Utkast (3), Positionering (5) och Kommunikation (6) [[10]](#källor).  
+- Fokusområden enligt förbundets plan för blå nivå [[10]](#källor):
+  - Utespelare: Ta bollen framåt (3), Spelbarhet (4) och Vinna boll (7).
+  - Målvakt: Bollhantering (1), Utkast (3), Positionering (5) och Kommunikation (6).  
 - Läs mer: [Blå nivå – Jag, du och bollen](/nivaer/bla/)
 
 ### Röd nivå, 12–16 år: Jag, vi och spelet
