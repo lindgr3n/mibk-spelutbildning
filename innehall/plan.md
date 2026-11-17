@@ -170,7 +170,7 @@ Vår spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och v�
 
 Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi centralkorridoren och håller spelet i ytterkorridoren – och vi kommer snabbt på försvarssidan och sätter blad mot boll.
 
-Spelidén har sex principer, tre med boll och tre utan boll. Varje princip har en kod: **M** står för med boll och **U** för utan boll, så M1 är den första principen med boll och U3 den tredje utan boll. Koderna använder vi i övningarna och nivådokumenten för att visa vilken princip en övning tränar.
+Spelidén har sex principer, tre med boll och tre utan boll. Varje princip har en kod: **M** står för med boll och **U** för utan boll, så M1 är den första principen med boll och U3 den tredje utan boll. Koderna använder vi i övningarna och nivådokumenten för att visa vilken princip en övning tränar. De ska inte blandas ihop med förbundets fokusområden, som bara har en siffra (1–8).
 
 Med boll har spelidén tre principer:
 
@@ -189,7 +189,7 @@ Planen delas på längden i tre korridorer: centralkorridoren i mitten och en yt
 Hur principerna ser ut på varje nivå, och vad vi säger till barnen, står på respektive [nivåsida](/nivaer/).
 
 ### Förbundets åtta fokusområden
-Förbundet delar in det spelarna ska lära sig i åtta fokusområden för utespelare och åtta för målvakter. Vi använder samma namn som förbundet, så att vi pratar samma språk som utbildningarna.
+Förbundet delar in det spelarna ska lära sig i åtta fokusområden för utespelare och åtta för målvakter. Vi använder samma namn som förbundet, så att vi pratar samma språk som utbildningarna. Fokusområdena numreras 1–8. Det är inte samma sak som våra principer med boll och utan boll, som har en bokstav och en siffra (M1–M3 och U1–U3).
 
 | \# | Utespelare | Målvakt |
 | :---- | :---- | :---- |
