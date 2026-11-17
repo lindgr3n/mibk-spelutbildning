@@ -56,8 +56,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Spring hem | När vi tappar bollen springer vi snabbt tillbaka mot eget mål. | "Spring hem när vi tappar bollen!" | U3 |
 
 ### Spelfaser
-*Förbundets spelfasmodell: anfallsspel (speluppbyggnad; komma till avslut och göra mål) och försvarsspel (förhindra speluppbyggnad; förhindra och rädda avslut). Fasta situationer kommer till utöver det [SIU-Spelet]. Från blå tillkommer omställningar, och från röd delas faserna upp mer [SIU-B; SIU-R].*
-
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Fasta situationer | Sätt att starta spelet efter avbrott. RH26: tekning, inslag, frislag och straffslag. HB (grön/blå): inslag, frislag, tekning, avslag och straffslag. | – | – |
