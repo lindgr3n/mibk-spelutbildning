@@ -247,7 +247,6 @@ Prioriterade fokusområden per nivå:
   - Fråga ditt barn "Var det roligt?" hellre än "Vann ni?".  
   - Prata gott om andra idrotter som barnet håller på med.
 
-### Moälvens värdegrund [ATT BESLUTA]
 ---
 
 ## 3. Nivåerna
