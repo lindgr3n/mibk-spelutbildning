@@ -104,6 +104,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Centrala ytan (i övning) | Övningsytan i mitten, där spelet sker. | – | M2 |
 | Målområde | Den större rektangeln framför målet, där målvakten får ta bollen med händerna. | – | – |
 | Målvaktsområde | Den mindre rektangeln framför målet, där bara målvakten får vara. | – | – |
+| Slottet | Ytan rakt framför målet, där det är farligast och där många avslut kommer. | – | M3, U1 |
 
 ### Med boll (anfallsspel)
 | Begrepp | Betydelse | Barnspråk | Spelidé |
@@ -188,6 +189,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Egen zon | Vår egen planhalva, där vi skyddar de farliga ytorna. | – | U1, U3 |
 | Defensiv zon | Samma som egen zon. | – | U1, U3 |
 | Avslutsytor | Ytorna där man kan komma till avslut. Försvaret ska försvara avslutsytorna. | – | U1 |
+| Gold zone | Engelskt ord för slottet. Vi säger i första hand slottet. | – | M3, U1 |
 | Uppspelszon (i övning) | Zonen där uppspelet sker. | – | M2 |
 | Anfallszon (i övning) | Zonen där anfallet avslutas. | – | M2 |
 | Försvarszon (i övning) | Zonen där försvaret står. | – | M2 |
@@ -294,7 +296,4 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Spelbredd | Okej från blå, men "bredd" är huvudordet. |
 | Speldjup | Okej från blå, men "djup" och "djupled" är huvudorden. |
 | Spelavstånd | Okej från blå. |
-| Gold zone | Används inte. Säg "farliga ytor", "centrala ytor" eller "avslutsytor". |
-| Slot | Används inte. Säg "avslutsytor" eller "farliga ytor". |
-| Slottet | Används inte. Säg "avslutsytor" eller "farliga ytor". |
 | L-pass | Används inte. |
