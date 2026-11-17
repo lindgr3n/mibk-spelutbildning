@@ -270,7 +270,7 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Rörelseglädje. Lek, rörelse och mycket boll.  
 - Barnen lär sig driva, vända, skjuta och vinna tillbaka bollen, och att vara med i spelet.  
 - Inga positioner och ingen fast målvakt. Alla gör målvaktslekar.  
-- Matcher spelas som poolspel i 3 mot 3, utan resultat.  
+- Matcher spelas som sammandrag i 3 mot 3, utan resultat.  
 - Fokusområden: utespelare Göra mål och Vinna boll. Målvakt Bollhantering och Utkast, som alla barn tränar [[5]](#källor).  
 - Läs mer: [Grön nivå – Jag och bollen](/nivaer/gron/)
 
