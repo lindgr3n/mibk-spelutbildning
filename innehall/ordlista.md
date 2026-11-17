@@ -2,8 +2,6 @@
 titel: "Ordlista – Den orangea tråden"
 ---
 
-*Del av den orangea tråden – Moälvens IBK:s spel- och spelarutvecklingsplan (arbetsnamn). Arbetsmaterial, inte beslutat.* *Dokumentstruktur (beslutad): Den orangea tråden består av huvuddokumentet, en separat övningsbank och en kortguide på en A4 per nivå. Ordlistan hör till huvuddokumentet. Övningsbanken och kortguiderna använder samma ord.*
-
 > Syfte: ett gemensamt språk för alla tränare i Moälvens IBK. Förbundet skriver: "Skapa ett gemensamt språk i föreningen … Använd om möjligt samma begrepp i alla lag (t.ex. 'speluppbyggnad', 'komma till avslut') – åtminstone från blå nivå" [SIU-bilder]. På röd nivå: "Att skapa ett gemensamt språk blir viktigt" [SIU-R].  
 >   
 > **Regler för listan:**  
