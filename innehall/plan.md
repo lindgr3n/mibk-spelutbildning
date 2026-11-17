@@ -207,10 +207,10 @@ Prioriterade fokusområden per nivå:
 | Nivå | Utespelare | Målvakt |
 | :---- | :---- | :---- |
 | **Ljusgrön (0–6 år)** | Rörelsernas grundformer och lek med boll | Kasta och fånga |
-| **Grön (6–9 år)** | 2 Göra mål, 7 Vinna boll | 1 Bollhantering, 3 Utkast |
-| **Blå (9–12 år)** | 3 Ta bollen framåt, 4 Spelbarhet, 7 Vinna boll | 1 Bollhantering, 3 Utkast, 5 Positionering, 6 Kommunikation |
-| **Röd 12–14 år** | 1 Duellspel med boll, 6 Passningsspel, 8 Förhindra mål | 2 Returer, 4 Förflyttningar |
-| **Röd 15–16 år** | 1 Duellspel med boll, 5 Vinna insida, 6 Passningsspel, 8 Förhindra mål | 2 Returer, 4 Förflyttningar, 7 Aktiv som försvarare, 8 Trafikhantering |
+| **Grön (6–9 år)** | Göra mål (2), Vinna boll (7) | Bollhantering (1), Utkast (3) |
+| **Blå (9–12 år)** | Ta bollen framåt (3), Spelbarhet (4), Vinna boll (7) | Bollhantering (1), Utkast (3), Positionering (5), Kommunikation (6) |
+| **Röd 12–14 år** | Duellspel med boll (1), Passningsspel (6), Förhindra mål (8) | Returer (2), Förflyttningar (4) |
+| **Röd 15–16 år** | Duellspel med boll (1), Vinna insida (5), Passningsspel (6), Förhindra mål (8) | Returer (2), Förflyttningar (4), Aktiv som försvarare (7), Trafikhantering (8) |
 
 *Källa: Svensk Innebandys spel- och spelarutvecklingsplaner för grön, blå och röd nivå [[1]](#källor).*
 
