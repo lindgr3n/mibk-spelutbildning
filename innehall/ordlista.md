@@ -81,7 +81,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ### Träning
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
-| Smålagsspel | Spel med få spelare per lag, till exempel 2 mot 2, 3 mot 3 eller 4 mot 4. Bästa vägen till spelförståelse. | "match" | M1–U3 |
+| Smålagsspel | Spel med få spelare per lag. Bästa vägen till spelförståelse. | "match" | M1–U3 |
 
 ---
 
