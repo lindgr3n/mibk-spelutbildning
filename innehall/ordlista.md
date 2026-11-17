@@ -215,4 +215,3 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 - \[UTB Skottet i slottet\]: Svenska Innebandyförbundet Utbildning, övningsblad. [https://www.innebandy.se/media/d5ofixbz/skottet-i-slottet.pdf](https://www.innebandy.se/media/d5ofixbz/skottet-i-slottet.pdf)  
 - SPU 2023 ifylld version: äldre förbundsplan, Svensk Innebandy, *Spel & spelarutvecklingsplan* (ifylld version). [https://www.innebandy.se/media/lgwdam3b/29_sep-spu-ifylld-version.pdf](https://www.innebandy.se/media/lgwdam3b/29_sep-spu-ifylld-version.pdf) (endast för definitionen av daylight).  
 - \[ÅK\]: Åstorp/Kvidinge IS, *Utvecklingsplan för ungdomar* (klubbmaterial, inspiration).  
-- (Moälven): Moälvens coachord, från dokumentet Grön nivå – Jag och bollen. Moälvens förslag, inte förbundets.
