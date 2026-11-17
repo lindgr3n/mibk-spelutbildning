@@ -16,7 +16,27 @@ niva: "ljusgron"
 
 ---
 
-## 2. Träning
+## 2. Fokus
+Förbundet har inga fokusområden för ljusgrön nivå. Det här är Moälvens förslag och bygger på de rörelser förbundet nämner.
+
+| Område | Ljusgrön |
+| :---- | :---- |
+| Teknik | Prova på klubban och bollen. Inget krav på rätt teknik |
+| Spelförståelse | Leka med boll. Ingen taktik, bara lek och enkla regler |
+| Fysik | Åla och krypa, gå, springa, hoppa, balansera, hänga, rulla, stödja, kasta och fånga. Mycket koordination |
+| Socialt och psykologi | Lära känna varandra och ledarna. Uppmärksamma det barnen gör och skapa trygghet |
+| Målvakt | Ingen målvakt. Alla provar kasta, fånga och rulla i lekar |
+
+Moälvens fokusområden på ljusgrön nivå
+
+| Fokusområde | Vad det betyder på ljusgrön nivå |
+| :---- | :---- |
+| Utespelare | Rörelsernas grundformer och lek med boll |
+| Målvakt | Kasta och fånga |
+
+---
+
+## 3. Träning
 ### Röd tråd
 - Kul först. Mycket boll, korta köer och mycket lek.
 - Fasta rutiner varje gång, så att barnen känner igen sig.
@@ -32,7 +52,7 @@ Ett kort och enkelt pass med [Ö1](/ovningar/o1/) Jag och bollen och [Ö2](/ovni
 
 ---
 
-## 3. Start och att vara med
+## 4. Start och att vara med
 - Vid de tre första träningarna: säg hej till alla barn och föräldrar, använd namnlappar och kör ett kort, enkelt pass. Ha gärna ett föräldramöte efter första eller andra passet.
 - Barnet får prova på tre gånger innan man bestämmer sig för att gå med.
 - Barnen behöver inneskor, vattenflaska, klubba och skyddsglasögon. Klubba och skyddsglasögon går att låna.
@@ -40,5 +60,5 @@ Ett kort och enkelt pass med [Ö1](/ovningar/o1/) Jag och bollen och [Ö2](/ovni
 
 ---
 
-## 4. Därefter
+## 5. Därefter
 Nästa steg är [Grön nivå – Jag och bollen](/nivaer/gron/), där barnen också börjar spela matcher i 3 mot 3.
