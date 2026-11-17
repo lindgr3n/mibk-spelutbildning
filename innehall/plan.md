@@ -206,13 +206,15 @@ Prioriterade fokusområden per nivå:
 
 | Nivå | Utespelare | Målvakt |
 | :---- | :---- | :---- |
-| **Ljusgrön (0–6 år)** | – | – |
+| **Ljusgrön (0–6 år)** | Rörelsernas grundformer och lek med boll | Kasta och fånga |
 | **Grön (6–9 år)** | 2 Göra mål, 7 Vinna boll | 1 Bollhantering, 3 Utkast |
 | **Blå (9–12 år)** | 3 Ta bollen framåt, 4 Spelbarhet, 7 Vinna boll | 1 Bollhantering, 3 Utkast, 5 Positionering, 6 Kommunikation |
 | **Röd 12–14 år** | 1 Duellspel med boll, 6 Passningsspel, 8 Förhindra mål | 2 Returer, 4 Förflyttningar |
 | **Röd 15–16 år** | 1 Duellspel med boll, 5 Vinna insida, 6 Passningsspel, 8 Förhindra mål | 2 Returer, 4 Förflyttningar, 7 Aktiv som försvarare, 8 Trafikhantering |
 
 *Källa: Svensk Innebandys spel- och spelarutvecklingsplaner för grön, blå och röd nivå [[1]](#källor).*
+
+*Förbundet har inga fokusområden för ljusgrön nivå. Våra är Moälvens förslag och bygger på de rörelser förbundet nämner: åla och krypa, gå, springa, hoppa, balansera, hänga, rulla, stödja och kasta och fånga [[2]](#källor).*
 
 ### Gemensamt språk
 - Vi använder förbundets ord [[7]](#källor): bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot boll, press och omställning.  
@@ -264,7 +266,7 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 ### Ljusgrön nivå – Lek och rörelse (0–6 år)
 - Lek och rörelse står i fokus. Träningen är inte särskilt inriktad på innebandy [[2]](#källor).  
 - De yngsta startar som eget lag (Moälvens beslut). Hos oss heter gruppen Ljusgrön (rekommenderat födda {{kull:ljusgron}}).  
-- Inga matcher. Förbundet anger inga fokusområden och ingen spelform för ljusgrön nivå.  
+- Inga matcher. Förbundet anger inga fokusområden och ingen spelform för ljusgrön nivå. Våra fokusområden är rörelsernas grundformer och lek med boll, och kasta och fånga för målvaktsleken (Moälvens förslag).  
 - Runt laget: en enklare uppsättning än på grön nivå, och förra årets ledare stöttar som mentorer.  
 - Läs mer: [Uppstart av nya lag och mentorrutin – utkast](/nya-lag/) och [Att vara med i Moälvens IBK – A4 (utkast)](/att-vara-med/).
 
