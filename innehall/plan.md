@@ -264,7 +264,6 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Lek och rörelse står i fokus. Träningen är inte särskilt inriktad på innebandy [[2]](#källor).  
 - Barnen börjar hos oss i Moälven Kidz.  
 - Fokus är rörelsernas grundformer och lek med boll, och kasta och fånga för målvaktsleken.  
-- Runt laget: en enklare uppsättning än på grön nivå, och förra årets ledare stöttar som mentorer.  
 - Läs mer: [Uppstart av nya lag och mentorrutin – utkast](/nya-lag/) och [Att vara med i Moälvens IBK – A4 (utkast)](/att-vara-med/).
 
 ### Grön nivå, 6–9 år: Jag och bollen
