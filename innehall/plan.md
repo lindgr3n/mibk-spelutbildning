@@ -250,7 +250,7 @@ Prioriterade fokusområden per nivå:
 ---
 
 ## 3. Nivåerna
-Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, fokus, förbundets rekommendationer, spelform, vad spelaren bör kunna och exempelövningar – står i respektive nivådokument. Vi följer förbundets färger och nivånamn [[2]](#källor). Planen omfattar ljusgrön, grön, blå och röd nivå. Svart nivå (junior och senior, förbundets namn "Träna för att tävla") finns med i översikten och sammanfattas kort nedan. Undertitlarna visar hur spelet växer: från bollen, till kompisen, till hela spelet.
+Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, fokus, förbundets rekommendationer, spelform, vad spelaren bör kunna och exempelövningar – står i respektive nivådokument. Planen omfattar ljusgrön, grön, blå och röd nivå. Vi följer förbundets färger och nivånamn [[2]](#källor).
 
 | Nivå | Ålder | Rekommenderade kullar {{sasong}} | Förbundets namn | Moälvens undertitel | Spelform | Dokument |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
