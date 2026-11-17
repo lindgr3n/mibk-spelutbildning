@@ -15,7 +15,7 @@ Vi startar nya lag varje säsong. De två yngsta grupperna ligger på **två oli
 | Förbundets nivå | Lek och rörelse, 0–6 år | Rörelseglädje, 6–9 år |
 | Fokus | **Kul, rörelse och träna.** Lek med och utan boll | Lek och innebandy: driva, skjuta, vinna bollen, 3 mot 3 |
 | Runt laget | Ingen "stab". 1–2 ansvariga vuxna och föräldrar som hjälper till | **Fullt stöd runt laget:** tränare, lagledare/kontaktperson, materialansvarig, föräldragrupp |
-| Matcher | **Inga matcher** (Moälvens beslut). Fokus är rörelseglädje genom lek och rörelse | Förbundet för 6–7 år: *"Poolspel, inga matcher första året. 3vs3 spel endast."* Första året på grön spelar vi matcher (Moälvens beslut). |
+| Matcher | **Inga matcher** (Moälvens beslut). Fokus är rörelseglädje genom lek och rörelse | Sammandrag i 3 mot 3. Första året på grön spelar vi matcher (Moälvens beslut). |
 | Material | Lekar och grundformerna nedan. Övningsbankens lekar, till exempel [Ö1](/ovningar/o1/), [Ö2](/ovningar/o2/) och [Ö5](/ovningar/o5/), går också bra | Grön nivå – Jag och bollen, med säsongsplanen |
 
 *Rekommenderade kullar säsongen {{sasong}}: Moälven Kidz födda {{kull:ljusgron}}, grön första året födda {{kull:gron1}}. Förbundet beslutar efter ansökan vilken division laget spelar i.*
