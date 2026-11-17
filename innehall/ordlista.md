@@ -36,7 +36,7 @@ Därför bygger vi på förbundets ord, och varje rad har en källa.
 | Utsida / längs sarg | Ytorna ute vid sargen. Dit vill vi styra motståndarna. | Blå ("mot sargen"), Röd ("utsida") | "Ut mot kanten!" | [SIBF-B: "Styr motståndarna bort från målet, helst mot sargen"; SIBF-R: "Hålla motståndare på utsida och längs sarg"] | U2 |
 | Offensiv zon | Motståndarnas planhalva, där vi spelar uppställt anfallsspel. | Blå | – | [SIU-B] | – |
 | Egen zon / defensiv zon | Vår egen planhalva, där vi skyddar de farliga ytorna. | Röd | – | [SIU-R/SIU-S: "skydda de farliga ytorna i egen zon"; ÖB Etablerat anfall & försvar C: "defensiv zon"] | U1, U3 |
-| Avslutsytor | Ytorna där man kan komma till avslut. Försvaret ska "försvara avslutsytor". | Röd [ATT BESLUTA] | – | [ÖB Avslut 2B; UTB Skottet i slottet] | U1 |
+| Avslutsytor | Ytorna där man kan komma till avslut. Försvaret ska "försvara avslutsytor". | – | – | [ÖB Avslut 2B; UTB Skottet i slottet] | U1 |
 | Centralkorridor / ytterkorridor | Planen delas på längden i tre "korridorer": en i mitten (centralkorridor) och en på varje sida (ytterkorridor). Används i en övning i förbundets övningsbank, inte i SPU-planerna eller på SIU-sidorna. Moälvens beslut: används från blå nivå. | Blå | ("mitten" / "kanten") | [ÖB Spelbarhet – centervändningen: "Ytan delas in i 3 korridorer … från ytterkorridor in till centralkorridor"] | U1 (centralkorridor), U2 (ytterkorridor), M2 |
 | Ytterzon / centrala ytan (i övning) | Övningsytor: hjälpspelare i ytterzonerna, spel i centrala ytan. | Blå | – | [ÖB Avslut 2B; ÖB Etablerat anfall & försvar C] | M2 |
 | Uppspelszon / anfallszon / försvarszon (i övning) | Zoner som en övningsyta delas in i. | Röd | – | [ÖB Speldjup – spelövning 8 Zonerna] | M2 |
