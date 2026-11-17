@@ -71,8 +71,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Direktskott, dragskott | Skottyper som nämns på grön nivå. | – | – |
 
 ### Målvakt
-Ingen fast målvakt på grön nivå. Alla gör målvaktslekar, till exempel att kasta, fånga och göra utkast.
-
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Bollhantering | Öga–hand-koordination och att vara bekväm med bollen. | "Fånga bollen!" | – |
