@@ -248,7 +248,9 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ### Spelfaser
 | Begrepp | Betydelse | Spelidé |
 | :---- | :---- | :---- |
-| Special teams – powerplay och boxplay | Spel i numerärt över- respektive underläge. | – |
+| Boxplay | Spel i numerärt underläge. | – |
+| Powerplay | Spel i numerärt överläge. | – |
+| Special teams | Lagets sätt att spela i numerärt över- och underläge, med powerplay och boxplay. | – |
 | Spelsystem | Lagets system, byggt på spelfaserna och special teams. Används inte på blå. | – |
 
 ---
