@@ -28,7 +28,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Tekningspunkt | Markerad punkt där tekning görs; det finns sex. | – | – |
 | Målpunkt | Punkten framför målburen där spelet på grön nivå sätts igång efter mål och byte. | – | – |
 | Förlängd mållinje | Tänkt linje från mållinjen ut till tekningspunkterna i hörnen. | – | – |
-| Målområde / målvaktsområde | HB: målområde = där målvakten får ta bollen med händerna; målvaktsområde = där bara målvakten får vara. RH26: målområdet är den större, målvaktsområdet den mindre rektangeln framför målet. | – | – |
 | Byteszon | Området utanför planen där avbytare och ledare står och där byten görs. | "bänken" | – |
 | Ledig yta | Plats på planen där ingen står, dit man kan ta sig för att få tid. | "Spring dit ingen är!" | M3 |
 
@@ -103,6 +102,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Offensiv zon | Motståndarnas planhalva, där vi spelar uppställt anfallsspel. | – | – |
 | Centralkorridor / ytterkorridor | Planen delas på längden i tre "korridorer": en i mitten (centralkorridor) och en på varje sida (ytterkorridor). Används i en övning i förbundets övningsbank, inte i SPU-planerna eller på SIU-sidorna. Moälvens beslut: används från blå nivå. | ("mitten" / "kanten") | U1 (centralkorridor), U2 (ytterkorridor), M2 |
 | Ytterzon / centrala ytan (i övning) | Övningsytor: hjälpspelare i ytterzonerna, spel i centrala ytan. | – | M2 |
+| Målområde / målvaktsområde | Målområdet är den större rektangeln framför målet, där målvakten får ta bollen med händerna. Målvaktsområdet är den mindre, där bara målvakten får vara. | – | – |
 
 ### Med boll (anfallsspel)
 | Begrepp | Betydelse | Barnspråk | Spelidé |
