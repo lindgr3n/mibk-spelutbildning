@@ -154,8 +154,14 @@ Andra klubbar: Åstorp/Kvidinge IS har Teknikmärke blå och målet att "passnin
 ---
 
 ## 5. Säsongsplan (Moälvens förslag)
-Säsongen startar vecka 44 och går till cirka vecka 16, med uppehåll vid jul och nyår (vecka 52 och 1), som på grön nivå. Varje pass har en fast ram ([Ö24](/ovningar/o24/) Knäkontrollen, [Ö25](/ovningar/o25/) målvaktsövning för alla och [Ö26](/ovningar/o26/) smålagsspel 4 mot 4) och två övningar ur Övningsbanken som tar ett nytt steg varje vecka. Var fjärde vecka byts en övning, så varje övning ligger kvar i åtta veckor. Tränar laget en gång i veckan kör ni pass A. Moälvens förslag, granska.  
-Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller svårare variant. Övningskorten finns i Övningsbanken.
+### Så fungerar säsongen
+- Säsongen startar vecka 44 och går till cirka vecka 16, med uppehåll vid jul och nyår (vecka 52 och 1), som på grön nivå.
+- Varje pass har en fast ram ([Ö24](/ovningar/o24/) Knäkontrollen, [Ö25](/ovningar/o25/) målvaktsövning för alla och [Ö26](/ovningar/o26/) smålagsspel 4 mot 4) och två övningar ur [Övningsbanken](/ovningar/) som tar ett nytt steg varje vecka.
+- Var fjärde vecka byts en övning, så varje övning ligger kvar i åtta veckor.
+- Tränar laget en gång i veckan kör ni pass A.
+
+### Vecka för vecka
+Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller svårare variant. Övningskorten finns i [Övningsbanken](/ovningar/).
 
 | Vecka | Pass A | Pass B | Regel i [Ö26](/ovningar/o26/) |
 | :---- | :---- | :---- | :---- |
@@ -220,7 +226,7 @@ Hela passet med övningskorten finns i Övningsbanken under "Träningspass: Blå
 
 Blocken är en ram, inte ett schema. Passet kan ha en, två eller tre övningar före spelet: med färre övningar får övningen och spelet mer tid, och uppvärmning, samling och avslutning ligger kvar.
 
-Vecka 45–47: samma pass, men [Ö27](/ovningar/o27/) och [Ö28](/ovningar/o28/) tar Progression 1, 2 och 3. Vecka 48: [Ö27](/ovningar/o27/) går ut och [Ö29](/ovningar/o29/) Spelbarhet – Centervändningen kommer in. [Ö28](/ovningar/o28/) fortsätter på Progression 3 eller sin svårare variant (se avsnitt 5).  
+Hur övningarna byts vecka för vecka står i avsnitt 5.
 Förbundets fördelning för 9–10 år är 20 % lek, 35 % koordination och teknik, 30 % småplanspel och 15 % övrigt. Passet ovan har cirka 16 minuter småplanspel i [Ö26](/ovningar/o26/) (27 %). Leken kommer in genom att [Ö27](/ovningar/o27/) och [Ö28](/ovningar/o28/) körs som tävling, och [Ö43](/ovningar/o43/) Tjuva koner kan bytas in. För 11–12 år (10/40/40/10): kortare samling och cirka 20 minuter i [Ö26](/ovningar/o26/).
 
 ---

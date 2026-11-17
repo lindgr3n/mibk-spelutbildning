@@ -46,7 +46,6 @@ const { Content } = await render(bank);
 					</button>
 				))
 			}
-			<label class="chip chip-check"><input type="checkbox" id="bara-plan" /> Bara säsongsplanen</label>
 		</div>
 		<ul class="exercise-grid" id="kortlista">
 			{
@@ -75,7 +74,6 @@ const { Content } = await render(bank);
 
 	<script>
 		const buttons = document.querySelectorAll<HTMLButtonElement>('[data-filter]');
-		const onlyPlan = document.querySelector<HTMLInputElement>('#bara-plan')!;
 		const cards = document.querySelectorAll<HTMLElement>('#kortlista > li');
 		const empty = document.querySelector<HTMLElement>('.filter-empty')!;
 		const params = new URLSearchParams(location.search);
@@ -84,7 +82,7 @@ const { Content } = await render(bank);
 		function apply() {
 			let shown = 0;
 			cards.forEach((c) => {
-				const ok = (current === 'alla' || c.dataset.niva === current) && (!onlyPlan.checked || c.dataset.typ === 'sasongsplan');
+				const ok = (current === 'alla' || c.dataset.niva === current);
 				c.hidden = !ok;
 				if (ok) shown++;
 			});
@@ -101,7 +99,6 @@ const { Content } = await render(bank);
 				apply();
 			}),
 		);
-		onlyPlan.addEventListener('change', apply);
 		apply();
 	</script>
 </Layout>

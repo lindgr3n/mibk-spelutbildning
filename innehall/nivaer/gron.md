@@ -154,7 +154,42 @@ Förslagen är hämtade ur förbundets färdigheter och beteenden för grön niv
 ---
 
 ## 5. Säsongsplan (Moälvens förslag)
-Säsongen startar vecka 44 och går oktober–mars, med uppehåll vid jul och nyår. Den byggs upp i steg: bas → lek → koordination → småplanspel. Varje pass har en fast ram (uppvärmning, målvaktslek och 3 mot 3) och två övningar ur [Övningsbanken](/ovningar/) som tar ett nytt steg varje vecka. Var fjärde vecka byts en övning. Planen vecka för vecka finns i [Moälvens IBK – Säsongsplan grön nivå](/nivaer/gron/).
+### Så fungerar säsongen
+- Säsongen startar vecka 44 och går oktober–mars, med uppehåll vid jul och nyår (vecka 52 och 1).
+- Den byggs upp i steg: bas → lek → koordination → småplanspel.
+- Varje pass har en fast ram ([Ö1](/ovningar/o1/) Jag och bollen, [Ö2](/ovningar/o2/) Kasta och fånga och [Ö3](/ovningar/o3/) smålagsspel 3 mot 3) och två övningar ur [Övningsbanken](/ovningar/) som tar ett nytt steg varje vecka.
+- Var fjärde vecka byts en övning, så varje övning ligger kvar i åtta veckor.
+
+### Vecka för vecka
+Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller svårare variant. Övningskorten finns i [Övningsbanken](/ovningar/).
+
+| Vecka | Pass A | Pass B |
+| :---- | :---- | :---- |
+| v. 44 | [Ö4](/ovningar/o4/) G · [Ö6](/ovningar/o6/) G | [Ö5](/ovningar/o5/) G · [Ö13](/ovningar/o13/) G |
+| v. 45 | [Ö4](/ovningar/o4/) P1 · [Ö6](/ovningar/o6/) P1 | [Ö5](/ovningar/o5/) P1 · [Ö13](/ovningar/o13/) P1 |
+| v. 46 | [Ö4](/ovningar/o4/) P2 · [Ö6](/ovningar/o6/) P2 | [Ö5](/ovningar/o5/) P2 · [Ö13](/ovningar/o13/) P2 |
+| v. 47 | [Ö4](/ovningar/o4/) P3 · [Ö6](/ovningar/o6/) P3 | [Ö5](/ovningar/o5/) P3 · [Ö13](/ovningar/o13/) P3 |
+| v. 48 | [Ö6](/ovningar/o6/) P3+ · [Ö8](/ovningar/o8/) G | [Ö13](/ovningar/o13/) P3+ · [Ö14](/ovningar/o14/) G |
+| v. 49 | [Ö6](/ovningar/o6/) P3+ · [Ö8](/ovningar/o8/) P1 | [Ö13](/ovningar/o13/) P3+ · [Ö14](/ovningar/o14/) P1 |
+| v. 50 | [Ö6](/ovningar/o6/) P3+ · [Ö8](/ovningar/o8/) P2 | [Ö13](/ovningar/o13/) P3+ · [Ö14](/ovningar/o14/) P2 |
+| v. 51 | [Ö6](/ovningar/o6/) P3+ · [Ö8](/ovningar/o8/) P3 | [Ö13](/ovningar/o13/) P3+ · [Ö14](/ovningar/o14/) P3 |
+| v. 52 | Uppehåll jul och nyår |  |
+| v. 1 | Uppehåll jul och nyår |  |
+| v. 2 | [Ö8](/ovningar/o8/) P3+ · [Ö10](/ovningar/o10/) G | [Ö14](/ovningar/o14/) P3+ · [Ö16](/ovningar/o16/) G |
+| v. 3 | [Ö8](/ovningar/o8/) P3+ · [Ö10](/ovningar/o10/) P1 | [Ö14](/ovningar/o14/) P3+ · [Ö16](/ovningar/o16/) P1 |
+| v. 4 | [Ö8](/ovningar/o8/) P3+ · [Ö10](/ovningar/o10/) P2 | [Ö14](/ovningar/o14/) P3+ · [Ö16](/ovningar/o16/) P2 |
+| v. 5 | [Ö8](/ovningar/o8/) P3+ · [Ö10](/ovningar/o10/) P3 | [Ö14](/ovningar/o14/) P3+ · [Ö16](/ovningar/o16/) P3 |
+| v. 6 | [Ö10](/ovningar/o10/) P3+ · [Ö9](/ovningar/o9/) G | [Ö16](/ovningar/o16/) P3+ · [Ö19](/ovningar/o19/) G |
+| v. 7 | [Ö10](/ovningar/o10/) P3+ · [Ö9](/ovningar/o9/) P1 | [Ö16](/ovningar/o16/) P3+ · [Ö19](/ovningar/o19/) P1 |
+| v. 8 | [Ö10](/ovningar/o10/) P3+ · [Ö9](/ovningar/o9/) P2 | [Ö16](/ovningar/o16/) P3+ · [Ö19](/ovningar/o19/) P2 |
+| v. 9 | [Ö10](/ovningar/o10/) P3+ · [Ö9](/ovningar/o9/) P3 | [Ö16](/ovningar/o16/) P3+ · [Ö19](/ovningar/o19/) P3 |
+| v. 10 | [Ö9](/ovningar/o9/) P3+ · [Ö11](/ovningar/o11/) G | [Ö19](/ovningar/o19/) P3+ · [Ö20](/ovningar/o20/) G |
+| v. 11 | [Ö9](/ovningar/o9/) P3+ · [Ö11](/ovningar/o11/) P1 | [Ö19](/ovningar/o19/) P3+ · [Ö20](/ovningar/o20/) P1 |
+| v. 12 | [Ö9](/ovningar/o9/) P3+ · [Ö11](/ovningar/o11/) P2 | [Ö19](/ovningar/o19/) P3+ · [Ö20](/ovningar/o20/) P2 |
+| v. 13 | [Ö9](/ovningar/o9/) P3+ · [Ö11](/ovningar/o11/) P3 | [Ö19](/ovningar/o19/) P3+ · [Ö20](/ovningar/o20/) P3 |
+| v. 14 | [Ö11](/ovningar/o11/) P3+ · [Ö12](/ovningar/o12/) G | [Ö20](/ovningar/o20/) P3+ · [Ö22](/ovningar/o22/) G |
+| v. 15 | [Ö11](/ovningar/o11/) P3+ · [Ö12](/ovningar/o12/) P1 | [Ö20](/ovningar/o20/) P3+ · [Ö22](/ovningar/o22/) P1 |
+| v. 16 | [Ö11](/ovningar/o11/) P3+ · [Ö12](/ovningar/o12/) P2 | [Ö20](/ovningar/o20/) P3+ · [Ö22](/ovningar/o22/) P2 |
 
 ---
 
@@ -213,7 +248,7 @@ Hela passet med övningskorten finns i Övningsbanken under "Träningspass: Grö
 
 Blocken är en ram, inte ett schema. Passet kan ha en, två eller tre övningar före spelet: med färre övningar får övningen och spelet mer tid, och uppvärmning, samling och avslutning ligger kvar.
 
-Vecka 45–47: samma pass, men [Ö4](/ovningar/o4/) och [Ö6](/ovningar/o6/) tar Progression 1, 2 och 3. Vecka 48: [Ö4](/ovningar/o4/) går ut och [Ö8](/ovningar/o8/) Avslut – Skottormen kommer in. [Ö6](/ovningar/o6/) fortsätter på Progression 3 eller sin svårare variant (se Säsongsplan grön nivå).
+Hur övningarna byts vecka för vecka står i avsnitt 5.
 
 Förbundets fördelning för 8–9 år är 25 % lek, 25 % koordination och rörelse, 30 % småplanspel och 20 % övrigt. Passet ovan har cirka 18 minuter småplanspel (30 %). För 6–7 år (30/30/20/20): längre tid i [Ö1](/ovningar/o1/) och [Ö4](/ovningar/o4/), och cirka 12 minuter spel.
 

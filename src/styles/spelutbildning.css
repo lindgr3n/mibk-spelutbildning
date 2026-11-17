@@ -262,12 +262,6 @@ main .prose li > a {
 	border-color: var(--level-red);
 }
 
-.chip-check input {
-	width: 1.1rem;
-	height: 1.1rem;
-	accent-color: var(--orange);
-}
-
 .exercise-grid {
 	display: grid;
 	grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));

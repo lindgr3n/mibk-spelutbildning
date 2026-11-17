@@ -152,8 +152,15 @@ Andra klubbar (inspiration): Munka-Ljungby IBK har konkreta mål för 16-åringa
 ---
 
 ## 5. Säsongsplan (Moälvens förslag)
-Säsongen startar vecka 34 och går till cirka vecka 16, med uppehåll vid jul och nyår (vecka 52 och 1). Förbundet rekommenderar 2–3 pass i veckan från augusti till april [SIBF-R]. Planen har två pass, A och B. Ett tredje pass kan vara matchspel 5 mot 5 eller en alternativövning ([Ö65](/ovningar/o65/)–[Ö67](/ovningar/o67/)). Varje pass har en fast ram ([Ö44](/ovningar/o44/) Knäkontrollen, [Ö45](/ovningar/o45/) målvaktsövning och [Ö46](/ovningar/o46/) spel 5 mot 5 på hel plan) och två övningar ur Övningsbanken som tar ett nytt steg varje vecka. Var fjärde vecka byts en övning, så de flesta övningar ligger kvar i åtta veckor. Tränar laget en gång i veckan kör ni pass A. Moälvens förslag, granska.  
-Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller svårare variant. Regeln i [Ö46](/ovningar/o46/) byts i tre perioder: v. 34–45, v. 46–7 och v. 8–16. Övningskorten finns i Övningsbanken.
+### Så fungerar säsongen
+- Säsongen startar vecka 34 och går till cirka vecka 16, med uppehåll vid jul och nyår (vecka 52 och 1).
+- Förbundet rekommenderar 2–3 pass i veckan från augusti till april [SIBF-R]. Planen har två pass, A och B. Ett tredje pass kan vara matchspel 5 mot 5 eller en alternativövning ([Ö65](/ovningar/o65/)–[Ö67](/ovningar/o67/)).
+- Varje pass har en fast ram ([Ö44](/ovningar/o44/) Knäkontrollen, [Ö45](/ovningar/o45/) målvaktsövning och [Ö46](/ovningar/o46/) spel 5 mot 5 på hel plan) och två övningar ur [Övningsbanken](/ovningar/) som tar ett nytt steg varje vecka.
+- Var fjärde vecka byts en övning, så de flesta övningar ligger kvar i åtta veckor.
+- Tränar laget en gång i veckan kör ni pass A.
+
+### Vecka för vecka
+Steg: G = grundövning, P1–P3 = Progression 1–3, P3+ = Progression 3 eller svårare variant. Övningskorten finns i [Övningsbanken](/ovningar/). Regeln i [Ö46](/ovningar/o46/) byts i tre perioder: v. 34–45, v. 46–7 och v. 8–16.
 
 | Vecka | Pass A | Pass B | Regel i [Ö46](/ovningar/o46/) |
 | :---- | :---- | :---- | :---- |
@@ -228,7 +235,7 @@ Hela passet med övningskorten finns i Övningsbanken under "Träningspass: Röd
 
 Blocken är en ram, inte ett schema. Passet kan ha en, två eller tre övningar före spelet: med färre övningar får övningen och spelet mer tid, och uppvärmning, samling och avslutning ligger kvar.
 
-Vecka 35–37: samma pass, men [Ö47](/ovningar/o47/) och [Ö52](/ovningar/o52/) tar Progression 1, 2 och 3. Vecka 38: [Ö47](/ovningar/o47/) går ut och [Ö48](/ovningar/o48/) Passningar – Ajax leken kommer in. [Ö52](/ovningar/o52/) fortsätter på Progression 3 eller sin svårare variant (se avsnitt 5).  
+Hur övningarna byts vecka för vecka står i avsnitt 5.
 Förbundets fördelning för 12–14 år är 10 % lek och fys, 20 % koordination och teknik, 35 % småplanspel och 35 % fullplansspel [SIBF-R]. Passet ovan har 20 minuter spel 5 mot 5 på hel plan i [Ö46](/ovningar/o46/) (33 %), 10 minuter småplanspel i [Ö52](/ovningar/o52/) (17 %), 10 minuter teknik i [Ö47](/ovningar/o47/) (17 %), 10 minuter uppvärmning med knäkontroll (17 %) och 10 minuter samling och avslutning. När [Ö47](/ovningar/o47/) blir 2 mot 2 från vecka 3 ökar småplansspelet till 20 minuter (33 %). För 15–16 år (10/10/40/40): korta [Ö47](/ovningar/o47/) till 5 minuter och ge [Ö52](/ovningar/o52/) och [Ö46](/ovningar/o46/) några minuter mer var.
 
 ---
