@@ -216,7 +216,7 @@ Prioriterade fokusområden per nivå:
 
 ### Gemensamt språk
 - Vi använder förbundets ord: bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot boll, press och omställning [[7]](#källor).  
-- Vi hittar inte på egna specialord.  
+- Till barnen får vi gärna använda enklare ord, till exempel "Skydda mitten!" och "Ut mot kanten!", men de bygger på förbundets ord så att spelarna känner igen sig när de byter nivå.  
 - Alla ord förklaras i [Ordlistan](/ordlista/).
 
 ### Spelfasmodellen: samma språk på alla nivåer
