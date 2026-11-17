@@ -290,11 +290,14 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Läs mer: [Röd nivå – Jag, vi och spelet](/nivaer/rod/)
 
 ### Svart nivå, junior och senior: Vi och spelet
-* Träna för att tävla. Spelarna är mer inställda på att satsa på innebandyn, och för många är målet att nå elitnivå [[2]](#källor).  
-* Spelarna behärskar alla grunder, och träningen inriktas mot mer avancerade och komplexa spelövningar [[2]](#källor).  
-* Matchspel blir mer centralt, men prestationsmålen ska fortfarande väga tungt i förhållande till resultatmålen [[2]](#källor).  
-* Träningsmängden balanseras mot återhämtning för att minska skaderisken, och spelarna lär sig mer om träning, återhämtning, mat och dryck [[2]](#källor).  
-* Spelform: 5 mot 5 med målvakt enligt Regelhandboken. Juniorserierna i Västernorrland spelar 3 × 20 minuter effektiv tid (lokala förutsättningar 2026/27). Fokusområden: inga från förbundet. Förbundets spel- och spelarutvecklingsplaner finns för grön, blå och röd nivå [[1]](#källor).  
+Så här beskriver förbundet svart nivå [[2]](#källor):
+
+* Träna för att tävla. Spelarna är mer inställda på att satsa på innebandyn, och för många är målet att nå elitnivå.  
+* Spelarna behärskar alla grunder, och träningen inriktas mot mer avancerade och komplexa spelövningar.  
+* Matchspel blir mer centralt, men prestationsmålen ska fortfarande väga tungt i förhållande till resultatmålen.  
+* Träningsmängden balanseras mot återhämtning för att minska skaderisken, och spelarna lär sig mer om träning, återhämtning, mat och dryck.  
+
+Spelform: 5 mot 5 med målvakt enligt Regelhandboken. Juniorserierna i Västernorrland spelar 3 × 20 minuter effektiv tid (lokala förutsättningar 2026/27). Fokusområden: inga från förbundet. Förbundets spel- och spelarutvecklingsplaner finns för grön, blå och röd nivå [[1]](#källor).  
 
 ---
 
