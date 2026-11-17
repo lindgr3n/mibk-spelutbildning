@@ -35,7 +35,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Anfallsspel | När vårt lag har bollen. | "när mitt lag har bollen" / "när vi har bollen" | M1–M3 |
-| Driva, dribbla, utmana, passa | Sätt att ta bollen mot motståndarnas mål. | "Snabbt framåt med bollen!" | M1 |
 | Duellspel med boll | Utmana motståndare och skydda bollen. | "Skydda bollen!" | – |
 | Göra mål | Avsluta, störa målvakten och ta returer. | "Skjut när du kan!" | – |
 | Passningsskugga | Att stå still bakom en motståndare, så att man inte kan få bollen. Det ska vi undvika. | "Stå inte gömd bakom någon!" | M3 |
@@ -69,7 +68,9 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Direktskott, dragskott | Skottyper som nämns på grön nivå. | – | – |
 | Dribbla | Ta sig förbi motståndare med bollen. | – | M1 |
 | Driva | Föra bollen med klubban i rörelse. | "Spring med bollen!" | M1 |
+| Passa | Skicka bollen till en medspelare. | "Passa till den som är fri!" | M1 |
 | Skydda bollen | Använda klubba och kropp så att motståndaren inte når bollen. | "Skydda bollen!" | – |
+| Utmana | Ta sig an en motståndare med bollen. | – | M1 |
 | Vända | Vända med bollen. | – | – |
 
 ### Målvakt
