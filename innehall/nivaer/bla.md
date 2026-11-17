@@ -24,7 +24,7 @@ niva: "bla"
 - Vad ledaren ska tänka på: dela upp spelet i att ha bollen och att inte ha bollen. På blå nivå är samspelet med lagkamraterna större, och spelarna behöver träna under mer varierade förhållanden än på grön nivå. Sekvenser med uppställt anfalls- eller försvarsspel kan förekomma, och då tillkommer offensiva och defensiva omställningar.  
 - Anfallsspel: när vi har kontroll över bollen, oftast för att skapa målchanser. Spelarna samarbetar för att ta sig till motståndarens mål och avsluta, genom att passa eller transportera bollen. Medspelarna gör sig spelbara och skapar spelavstånd på djupet och på bredden. Alla, med eller utan boll, har koll på medspelare, motståndare och ytor.  
 - Offensiv omställning: direkt efter bollvinst, innan motståndarna hunnit ordna sitt försvar, anfaller vi deras mål och försöker komma till avslut.  
-- Försvarsspel: förhindra speluppbyggnad och ta bollen snabbt från motståndarna. Spela ett aggressivt försvarsspel och sträva efter blad mot blad, så att det blir svårt att passa eller skjuta.  
+- Försvarsspel: förhindra speluppbyggnad och ta bollen snabbt från motståndarna. Spela ett aggressivt försvarsspel och sträva efter blad mot boll, så att det blir svårt att passa eller skjuta.  
 - Defensiv omställning: när vi tappar bollen är det viktigast att ta tillbaka den så snabbt som möjligt och stoppa motståndarnas forcering. Går det inte: sätt motståndaren under press, skär passnings- och löpvägar och täck skott.  
 - Spelform: match spelas 4 mot 4 med målvakt på en plan som är 30 × 15 meter (28 × 15 till 32 × 16), enligt nationella spelformer (se 3.3).  
 - Kom ihåg: "aktiva spelare" är ett nyckelord, och spelet ska genomsyra träningen. Leken har stor betydelse även på blå nivå, så koppla gärna ihop lekar med färdigheter. En spelare löser inte en aktion bara med teknik eller fysik: alla delfärdigheter samverkar, och ingen aktion är den andra lik. Uppmuntra flera idrotter och använd gärna övningsbanken.  
@@ -41,7 +41,7 @@ niva: "bla"
 | Del | Vad det betyder på blå nivå | Säg så här till spelarna |
 | :---- | :---- | :---- |
 | Anfallsspel | När vi har bollen: "bredd och djup i anfall" | "När vi har bollen: gör dig spelbar, på djupet och på bredden!" |
-| Försvarsspel | När motståndarna har bollen: "spring hem snabbt i försvar" | "När de har bollen: ta bollen snabbt, blad mot blad!" |
+| Försvarsspel | När motståndarna har bollen: "spring hem snabbt i försvar" | "När de har bollen: ta bollen snabbt, blad mot boll!" |
 | Omställning | Ögonblicket när bollen byter lag. Förbundet tar upp ordet på blå nivå. Vid bollvinst anfaller vi snabbt | "Vi vann bollen: anfall direkt! Vi tappade bollen: ta tillbaka den så snabbt ni kan!" |
 
 Omställning är ett ledarord som vi använder likadant från grön upp till röd nivå, där förbundet delar upp det i offensiv och defensiv omställning.
@@ -58,7 +58,7 @@ Nu introduceras orden tom yta, bredd och djup och stäng mitten i smålagsspel. 
 | M3 | Hitta den tomma ytan | Gör dig spelbar och ta dig ur passningsskuggan. Passa och ta en ny position. | "Passa och spring till en ny yta!" | "Give and go" |
 | U1 | Stäng centralkorridoren | Gör det trångt framför målvakten och täck skott. | "Täpp till mitten framför målet!" | Förbundets spelarutvecklingsplan |
 | U2 | Håll spelet i ytterkorridoren | Styr motståndarna bort från målet, helst mot sargen. | "Styr ut mot sargen!" | Förbundets fokusområde Vinna boll |
-| U3 | Kom på försvarssidan och sätt blad mot blad | Spring hem när vi tappar bollen och sätt snabb press på bollföraren. | "Ta tillbaka bollen så snabbt ni kan!" | "spring hem snabbt i försvar", förbundets egna exempelprinciper för blå nivå |
+| U3 | Kom på försvarssidan och sätt blad mot boll | Spring hem när vi tappar bollen och sätt snabb press på bollföraren. | "Ta tillbaka bollen så snabbt ni kan!" | "spring hem snabbt i försvar", förbundets egna exempelprinciper för blå nivå |
 
 Spelidén är en arbetsversion och kan justeras.
 

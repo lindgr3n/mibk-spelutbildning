@@ -31,7 +31,7 @@ Den orangea tråden har tre delar: huvuddokumentet Den orangea tråden, den här
 ## Så är ett övningskort uppbyggt
 Överst på kortet står två korta rader:
 
-- Nivå och princip: nivå (Grön 6–9 år, Blå 9–12 år, Röd 12–16 år, Svart/lila 16+ år, som i förbundets övningsbank) och Moälvens princip. Med boll: M1 Snabb bollförflyttning, M2 Bredd till djup (och tvärtom), M3 Hitta den tomma ytan. Utan boll: U1 Stäng centralkorridoren, U2 Håll spelet i ytterkorridoren, U3 Kom på försvarssidan och sätt blad mot blad.  
+- Nivå och princip: nivå (Grön 6–9 år, Blå 9–12 år, Röd 12–16 år, Svart/lila 16+ år, som i förbundets övningsbank) och Moälvens princip. Med boll: M1 Snabb bollförflyttning, M2 Bredd till djup (och tvärtom), M3 Hitta den tomma ytan. Utan boll: U1 Stäng centralkorridoren, U2 Håll spelet i ytterkorridoren, U3 Kom på försvarssidan och sätt blad mot boll.  
 - Förbundets kategorier: Tema och Färdighet med förbundets egna ord, och förbundets fokusområde när det passar.
 
 Sedan kommer fälten, alltid i samma ordning (som i Svenska Fotbollförbundets övningsbank):

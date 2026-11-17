@@ -26,7 +26,7 @@ niva: "rod"
 - Komma till avslut och göra mål: det är syftet med hela anfallsspelet. Fråga gärna laget vad som är viktigast: antalet avslut eller varifrån avsluten kommer.  
 - Försvarsspel: förhindra speluppbyggnad, defensiv omställning samt förhindra avslut och skydda mål. Försvarsspel i olika höjder kan stoppa bollens väg framåt eller tvinga fram misstag som leder till bollvinst. Stäng ytor och skär passningsvägar.  
 - Defensiv omställning: när vi tappar bollen är målet att ta tillbaka den så fort vi kan, med presspel, skurna passningsvägar eller stängda ytor. Laget väljer mellan återerövring, att vinna tillbaka bollen för att snabbt göra mål, och reträtt, att inta säkrare positioner och skydda de farliga ytorna i egen zon.  
-- Förhindra avslut och skydda mål: ge motståndaren så lite tid som möjligt att hitta avslutsvägar, med presspel som blad mot blad och genom att täcka skott.  
+- Förhindra avslut och skydda mål: ge motståndaren så lite tid som möjligt att hitta avslutsvägar, med presspel som blad mot boll och genom att täcka skott.  
 - Spelform: match spelas 5 mot 5 med målvakt, och planmåttet är 40 × 20 meter enligt regelhandboken (se 3.3).  
 - Kom ihåg: "aktiva spelare" är ett nyckelord, och precis som på övriga nivåer ska spelet genomsyra träningen. Leken är ett bra verktyg för samarbetsövningar. En spelare löser inte en aktion bara med teknik eller fysik: alla delfärdigheter samverkar, och ingen aktion är den andra lik. Uppmuntra flera idrotter och använd gärna övningsbanken.  
 - Källa: Svensk Innebandy, Spelet – röd nivå (se Källor).
@@ -59,7 +59,7 @@ Principerna tränas i förbundets spelfaser. Fortfarande principer före positio
 | M3 | Hitta den tomma ytan | Spelbarhet utan boll, mycket rörelse med och utan boll. | "Rör dig och bli spelbar, även utan boll!" | "mycket rörelse med och utan boll" |
 | U1 | Stäng centralkorridoren | Den defensiva delen av fokusområde Vinna insida: vinna ytan mellan motspelare och vårt mål. | "Vinn insidan, stäng mitten!" | Förbundets temasida Vinna insida |
 | U2 | Håll spelet i ytterkorridoren | Styr spelet bort från farliga ytor. | "Håll dem på utsidan, längs sargen!" | "Hålla motståndare på utsida och längs sarg" |
-| U3 | Kom på försvarssidan och sätt blad mot blad | Snabb press på bollföraren, defensiv omställning. | "Ta tillbaka bollen så snabbt ni kan!" | Förbundets spelarutvecklingsplan |
+| U3 | Kom på försvarssidan och sätt blad mot boll | Snabb press på bollföraren, defensiv omställning. | "Ta tillbaka bollen så snabbt ni kan!" | Förbundets spelarutvecklingsplan |
 
 Fokusområdet Vinna insida, i anfall och försvar: "Rikta spelet mot att nå centrala ytor på vår väg framåt samt vinna ytan mellan motspelare och respektive mål i anfall och försvar" (förbundets temasida). Den offensiva delen tränas i M2 ("Inåt och framåt") och M3. Den defensiva delen är U1 *Stäng centralkorridoren*.
 

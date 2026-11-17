@@ -168,7 +168,7 @@ Förbundet delar träningsekonomi i två delar: **aktivitetstid**, alltså hur a
 ### Gemensam spelidé
 Vår spelidé är samma i alla åldrar. Den ser enklare ut för de yngsta och växer med spelarna.
 
-Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi centralkorridoren och håller spelet i ytterkorridoren – och vi kommer snabbt på försvarssidan och sätter blad mot blad.
+Vi använder djupet först – upp i anfall och hem i försvar – och från blå nivå flyttar vi också bollen snabbt, använder bredd och hittar den tomma ytan. Utan boll stänger vi centralkorridoren och håller spelet i ytterkorridoren – och vi kommer snabbt på försvarssidan och sätter blad mot boll.
 
 Spelidén har sex principer, tre med boll och tre utan boll. Varje princip har en kod: **M** står för med boll och **U** för utan boll, så M1 är den första principen med boll och U3 den tredje utan boll. Koderna använder vi i övningarna och nivådokumenten för att visa vilken princip en övning tränar.
 
@@ -182,7 +182,7 @@ Utan boll har spelidén tre principer:
 
 * U1 Stäng centralkorridoren  
 * U2 Håll spelet i ytterkorridoren  
-* U3 Kom på försvarssidan och sätt blad mot blad
+* U3 Kom på försvarssidan och sätt blad mot boll
 
 Planen delas på längden i tre korridorer: centralkorridoren i mitten och en ytterkorridor utmed sargen på varje sida. På grön nivå säger vi enklare "mitten" och "kanten", och från blå nivå använder vi orden centralkorridor och ytterkorridor.
 
@@ -217,7 +217,7 @@ Prioriterade fokusområden per nivå:
 *Förbundet har inga fokusområden för ljusgrön nivå. Våra är Moälvens förslag och bygger på de rörelser förbundet nämner: åla och krypa, gå, springa, hoppa, balansera, hänga, rulla, stödja och kasta och fånga [[2]](#källor).*
 
 ### Gemensamt språk
-- Vi använder förbundets ord [[7]](#källor): bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot blad (förbundets grönplan säger blad mot boll), press och omställning.  
+- Vi använder förbundets ord [[7]](#källor): bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot boll, press och omställning.  
 - Vi hittar inte på egna specialord.  
 - Alla ord förklaras i [Ordlistan](/ordlista/).
 

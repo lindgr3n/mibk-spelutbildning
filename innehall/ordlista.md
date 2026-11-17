@@ -18,7 +18,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 **Spelidén i korthet (arbetsversion 2026-10-18):**
 
 - Med boll: M1 Snabb bollförflyttning · M2 Bredd till djup (och tvärtom) · M3 Hitta den tomma ytan  
-- Utan boll: U1 Stäng centralkorridoren · U2 Håll spelet i ytterkorridoren (mot sargen) · U3 Kom på försvarssidan och sätt blad mot blad
+- Utan boll: U1 Stäng centralkorridoren · U2 Håll spelet i ytterkorridoren (mot sargen) · U3 Kom på försvarssidan och sätt blad mot boll
 
 ---
 
@@ -88,7 +88,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | Spelet utan boll | Allt man gör när laget inte har bollen; grön nivås enkla indelning. | Grön | "utan boll" | [SIU-G] | U1–U3 |
 | Vinna boll (fokusområde 7) | Pressa/stoppa motståndare, vinna lösa bollar och äga yta. | Grön | "Först till bollen!" *(Moälven)* | [SIBF-G/B/R temasida 7] | U3 |
 | Förhindra mål (fokusområde 8) | Försvara mål, skydda centrala ytor och täcka skott. | Grön | "Skydda mitten!" *(Moälven)* | [SIBF-R temasida 8] | U1 |
-| Blad mot blad / blad mot boll | Gå nära och sätta klubbladet mot motståndarens blad eller boll, så att det blir svårt att passa eller skjuta. SIU skriver "blad mot blad", grön plan skriver "blad mot boll". Båda är förbundets ord. | Grön | "Blad mot boll!" | [SIU-G; SIU-B; SIU-R; SIBF-G: "Sätta blad mot boll"] | U3 |
+| Blad mot boll / blad mot blad | Gå nära och sätta klubbladet mot motståndarens blad eller boll, så att det blir svårt att passa eller skjuta. SIU skriver "blad mot blad", grön plan skriver "blad mot boll". Båda är förbundets ord. Hos oss säger vi blad mot boll. | Grön | "Blad mot boll!" | [SIU-G; SIU-B; SIU-R; SIBF-G: "Sätta blad mot boll"] | U3 |
 | Styra bort från målet | Få den som har bollen att röra sig bort från vårt mål, helst mot sargen. | Grön | "Ut mot kanten!" *(Moälven)* | [SIBF-G fokusområde 7: "Styra motståndaren bort från målet"; SIBF-B: "helst mot sargen"] | U2 |
 | Hålla motståndare på utsida | Hålla bollföraren ute vid sargen, borta från mitten. | Röd | "Ut mot kanten!" *(Moälven)* | [SIBF-R: "Hålla motståndare på utsida och längs sarg"] | U2 |
 | Spring hem | När vi tappar bollen springer vi snabbt tillbaka mot eget mål. | Grön | "Spring hem när vi tappar bollen!" | [SIBF-G (enkla regler i smålagsspel, se grön-dokumentet); SIBF-B: "spring hem snabbt i försvar"] | U3 |
@@ -188,7 +188,7 @@ titel: "Ordlista – Den orangea tråden (utkast v3, 2026-10-18)"
 | M3 Hitta den tomma ytan | "Spring dit ingen är!" · ledig yta · passningsskugga | spelbar (4) · ny position · skapa ytor · farliga ytor | scanna · informationsprocessen |
 | U1 Stäng centralkorridoren | "Skydda mitten!" | stänga ytor · skära passningsvägar · täcka skott · stäng centralkorridor | vinna insida (5), defensiva delen · centrala ytor (insidan) · förhindra mål (8) · etablerat försvar · reträtt |
 | U2 Håll spelet i ytterkorridoren | "Ut mot kanten!" · styra bort från målet | "helst mot sargen" · håll spelet i ytterkorridoren | hålla motståndare på utsida och längs sarg |
-| U3 Kom på försvarssidan och sätt blad mot blad | "Spring hem och gå nära!" · "Blad mot boll!" | defensiv omställning · press · markera · aggressivt försvarsspel | återerövring · reträtt · presspel · tät markering |
+| U3 Kom på försvarssidan och sätt blad mot boll | "Spring hem och gå nära!" · "Blad mot boll!" | defensiv omställning · press · markera · aggressivt försvarsspel | återerövring · reträtt · presspel · tät markering |
 
 ## 9. Ord vi inte använder (eller bara med förbehåll)
 | Ord | Finns i förbundets material? | Var ordet finns | Moälvens förslag |
