@@ -260,7 +260,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Spelidé |
 | :---- | :---- | :---- |
 | Aktion | En handling i spelet. Innebandyaktioner bygger på hur information tas emot och på delfärdigheterna. | – |
-| Informationsprocessen: uppfatta – värdera – besluta – utföra | Så löser en spelare en aktion. Spelarna lär sig det från röd nivå. | M3 |
 
 ### Träning
 | Begrepp | Betydelse | Spelidé |
@@ -280,7 +279,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | :---- | :---- | :---- | :---- |
 | M1 Snabb bollförflyttning | "Snabbt framåt med bollen!" · driva, passa | ta bollen framåt · offensiv omställning · give and go · rättvänd | uppspel |
 | M2 Bredd till djup | ("Spring dit ingen är!") | bredd och djup · djupled · spelavstånd · speldjup · spelbredd · "en möter, en löper i djupled, en skapar bredd" · från ytterkorridor till centralkorridor (och tvärtom) | vinna insida, offensiva delen · attackera gapet · spelvändning |
-| M3 Hitta den tomma ytan | "Spring dit ingen är!" · ledig yta · passningsskugga | spelbar · ny position · skapa ytor · farliga ytor | scanna · informationsprocessen |
+| M3 Hitta den tomma ytan | "Spring dit ingen är!" · ledig yta · passningsskugga | spelbar · ny position · skapa ytor · farliga ytor | scanna |
 | U1 Stäng centralkorridoren | "Skydda mitten!" | stänga ytor · skära passningsvägar · täcka skott · stäng centralkorridor | vinna insida, defensiva delen · centrala ytor (insidan) · förhindra mål · etablerat försvar · reträtt |
 | U2 Håll spelet i ytterkorridoren | "Ut mot kanten!" · styra bort från målet | "helst mot sargen" · håll spelet i ytterkorridoren | hålla motståndare på utsida och längs sarg |
 | U3 Kom på försvarssidan och sätt blad mot boll | "Spring hem och gå nära!" · "Blad mot boll!" | defensiv omställning · press · markera · aggressivt försvarsspel | återerövring · reträtt · presspel · tät markering |
