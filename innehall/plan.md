@@ -215,7 +215,7 @@ Prioriterade fokusområden per nivå:
 *Källa: Svensk Innebandys spel- och spelarutvecklingsplaner för grön, blå och röd nivå [[1]](#källor).*
 
 ### Gemensamt språk
-- Vi använder förbundets ord [[7]](#källor): bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot boll, press och omställning.  
+- Vi använder förbundets ord: bredd, djup, yta, mitten, utsida, insida, spelbar, passningsskugga, blad mot boll, press och omställning [[7]](#källor).  
 - Vi hittar inte på egna specialord.  
 - Alla ord förklaras i [Ordlistan](/ordlista/).
 
