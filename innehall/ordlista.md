@@ -2,21 +2,17 @@
 titel: "Ordlista – Den orangea tråden"
 ---
 
-> Syfte: ett gemensamt språk för alla tränare i Moälvens IBK. Förbundet skriver: "Skapa ett gemensamt språk i föreningen … Använd om möjligt samma begrepp i alla lag (t.ex. 'speluppbyggnad', 'komma till avslut') – åtminstone från blå nivå" [SIU-bilder]. På röd nivå: "Att skapa ett gemensamt språk blir viktigt" [SIU-R].  
->   
-> **Regler för listan:**  
-> 
+## Förord
+Ordlistan ska ge alla tränare i Moälvens IBK ett gemensamt språk. Då förstår vi varandra, och spelarna känner igen sig när de byter lag och nivå. Förbundet uppmanar föreningar att skapa ett gemensamt språk och använda samma begrepp i alla lag, åtminstone från blå nivå [SIU-bilder]. På röd nivå blir det ännu viktigare [SIU-R].
 
-> - Vi använder i första hand ord som finns i förbundets material, och varje rad har en källa.  
-> - Ord som bara finns i klubbmaterial eller tränarpraxis är märkta "vedertaget, ej i förbundets material". Tveksamma ord är inte med i tabellerna; de står i avsnitt 9.  
-> - Barnspråk på grön är förbundets egna formuleringar när de finns. Annars är det Moälvens coachord från dokumentet Grön nivå – Jag och bollen, märkta *(Moälven)*.  
-> - Nivå anger från vilken nivå vi börjar använda ordet med spelarna. Ledarna får använda alla ord.  
-> - M1–M3 / U1–U3 visar kopplingen till Moälvens spelidé (huvuddokumentet Den orangea tråden, avsnitt A4).
+Därför bygger vi på förbundets ord, och varje rad har en källa.
 
-**Spelidén i korthet (arbetsversion 2026-10-18):**
+**Så läser du listan**
 
-- Med boll: M1 Snabb bollförflyttning · M2 Bredd till djup (och tvärtom) · M3 Hitta den tomma ytan  
-- Utan boll: U1 Stäng centralkorridoren · U2 Håll spelet i ytterkorridoren (mot sargen) · U3 Kom på försvarssidan och sätt blad mot boll
+- Ord som bara finns i klubbmaterial eller tränarpraxis är märkta "vedertaget, ej i förbundets material". Tveksamma ord står i avsnitt 9.
+- Barnspråk på grön är förbundets egna formuleringar när de finns. Annars är det Moälvens coachord från dokumentet Grön nivå – Jag och bollen, märkta *(Moälven)*.
+- Nivå anger från vilken nivå vi börjar använda ordet med spelarna. Ledarna får använda alla ord.
+- Spelidé visar vilken av våra principer (M1–M3 och U1–U3) ordet hör till. Principerna finns i avsnitt 8 och i [planen](/plan/#gemensam-spelidé).
 
 ---
 
