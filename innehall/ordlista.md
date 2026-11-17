@@ -198,7 +198,6 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Attackera gapet | Driva eller passa in i luckan mellan två motståndare. | – | M2, M3 |
-| Daylight | Engelskt ord för rättvänd, öppen position. Vi säger i första hand rättvänd. | – | M1, M3 |
 | "Första framåt" | Vid bollvinst: första passningen framåt, snabbt. | "Snabbt framåt!" | M1 |
 | "Inåt och framåt" | Röd nivås princip i anfall: hota mot mitten och framåt. | – | M2 |
 | Scanna | Titta runt och läsa av spelet innan man får bollen. | "Titta upp!" | M3 |
@@ -280,7 +279,7 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 ## Spelidén: vilka ord hör ihop med vilken princip?
 | Princip | Grön (barnspråk) | Blå | Röd |
 | :---- | :---- | :---- | :---- |
-| M1 Snabb bollförflyttning | "Snabbt framåt med bollen!" · driva, passa | ta bollen framåt (3) · offensiv omställning · give and go · rättvänd | "första framåt" · uppspel · daylight |
+| M1 Snabb bollförflyttning | "Snabbt framåt med bollen!" · driva, passa | ta bollen framåt (3) · offensiv omställning · give and go · rättvänd | "första framåt" · uppspel |
 | M2 Bredd till djup | ("Spring dit ingen är!") | bredd och djup · djupled · spelavstånd · speldjup · spelbredd · "en möter, en löper i djupled, en skapar bredd" · från ytterkorridor till centralkorridor (och tvärtom) | vinna insida (5), offensiva delen · "inåt och framåt" · attackera gapet · spelvändning |
 | M3 Hitta den tomma ytan | "Spring dit ingen är!" · ledig yta · passningsskugga | spelbar (4) · ny position · skapa ytor · farliga ytor | scanna · informationsprocessen |
 | U1 Stäng centralkorridoren | "Skydda mitten!" | stänga ytor · skära passningsvägar · täcka skott · stäng centralkorridor | vinna insida (5), defensiva delen · centrala ytor (insidan) · förhindra mål (8) · etablerat försvar · reträtt |
