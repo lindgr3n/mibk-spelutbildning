@@ -65,7 +65,8 @@ Det här är vårt ordförråd, och det bygger på förbundets ord. Orden är or
 | Begrepp | Betydelse | Barnspråk | Spelidé |
 | :---- | :---- | :---- | :---- |
 | Blicken uppe | Titta upp medan man har bollen. Används som coachord. | "Titta upp!" | M3 |
-| Direktskott, dragskott | Skottyper som nämns på grön nivå. | – | – |
+| Direktskott | Skott direkt på bollen, utan att ta emot den först. | – | – |
+| Dragskott | Skottyp som nämns på grön nivå. | – | – |
 | Dribbla | Ta sig förbi motståndare med bollen. | – | M1 |
 | Driva | Föra bollen med klubban i rörelse. | "Spring med bollen!" | M1 |
 | Passa | Skicka bollen till en medspelare. | "Passa till den som är fri!" | M1 |
