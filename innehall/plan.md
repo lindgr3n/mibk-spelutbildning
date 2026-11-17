@@ -271,22 +271,22 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 - Barnen lär sig driva, vända, skjuta och vinna tillbaka bollen, och att vara med i spelet.  
 - Inga positioner och ingen fast målvakt. Alla gör målvaktslekar.  
 - Matcher spelas som sammandrag i 3 mot 3, utan resultat.  
-- Fokusområden: utespelare Göra mål och Vinna boll. Målvakt Bollhantering och Utkast, som alla barn tränar [[5]](#källor).  
+- Fokusområden: utespelare Göra mål (2) och Vinna boll (7). Målvakt Bollhantering (1) och Utkast (3), som alla barn tränar [[5]](#källor).  
 - Läs mer: [Grön nivå – Jag och bollen](/nivaer/gron/)
 
 ### Blå nivå, 9–12 år: Jag, du och bollen
 - Lära sig träna. Tekniken växer och kompisen kommer in i spelet: passa, ta emot och göra sig spelbar.  
 - Här börjar vi arbeta med Bredd till djup (M2).  
 - Matcher i 4 mot 4 med målvakt, fortfarande utan resultat och tabeller.  
-- Fokusområden: utespelare Ta bollen framåt, Spelbarhet och Vinna boll. Målvakt Bollhantering, Utkast, Positionering och Kommunikation [[10]](#källor).  
+- Fokusområden: utespelare Ta bollen framåt (3), Spelbarhet (4) och Vinna boll (7). Målvakt Bollhantering (1), Utkast (3), Positionering (5) och Kommunikation (6) [[10]](#källor).  
 - Läs mer: [Blå nivå – Jag, du och bollen](/nivaer/bla/)
 
 ### Röd nivå, 12–16 år: Jag, vi och spelet
 - Träna för att träna. Spelarna lär sig spelets alla delar, med och utan boll, och tekniken i fart och under press.  
 - Fortfarande principer före positioner, och alla provar olika roller så länge som möjligt.  
 - Matcher i 5 mot 5.  
-- Fokusområden 12–14 år: utespelare Duellspel med boll, Passningsspel och Förhindra mål. Målvakt Returer och Förflyttningar [[6]](#källor).  
-- Fokusområden 15–16 år: utespelare Duellspel med boll, Vinna insida, Passningsspel och Förhindra mål. Målvakt Returer, Förflyttningar, Aktiv som försvarare och Trafikhantering [[6]](#källor).  
+- Fokusområden 12–14 år: utespelare Duellspel med boll (1), Passningsspel (6) och Förhindra mål (8). Målvakt Returer (2) och Förflyttningar (4) [[6]](#källor).  
+- Fokusområden 15–16 år: utespelare Duellspel med boll (1), Vinna insida (5), Passningsspel (6) och Förhindra mål (8). Målvakt Returer (2), Förflyttningar (4), Aktiv som försvarare (7) och Trafikhantering (8) [[6]](#källor).  
 - Läs mer: [Röd nivå – Jag, vi och spelet](/nivaer/rod/)
 
 ### Svart nivå, junior och senior: Vi och spelet
