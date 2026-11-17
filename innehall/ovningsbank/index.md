@@ -151,10 +151,6 @@ Förbundets kategorier (filtren i innebandy.se/ovningsbanken):
 | [Ö66](/ovningar/o66/) | Komma till avslut | 3 mot 3 med väggar – Skjuta – Snabba avslut | M1 | Alternativövning (att byta in) | Förbundets övningsbank |
 | [Ö67](/ovningar/o67/) | Etablerat anfallsspel | Spelövning – Passa – Spanska kvadraten | M3, U3 | Alternativövning (att byta in) | Förbundets övningsbank |
 
-## Alternativövningar – grön nivå (att byta in)
-
-Alternativövningar finns i banken men inte i säsongsplanen. Byt in en av dem i stället för den nya övningen när ni vill, eller när en övning inte fungerar i er hall. Den börjar då på grundövning, som alla nya övningar.
-
 ## Källor
 - Förbundets övningsbank [ÖB]: Svensk Innebandy, [https://www.innebandy.se/ovningsbanken](https://www.innebandy.se/ovningsbanken). Länk till varje övning står på kortet. Steg märkta [ÖB] kommer från förbundets text om övningen. Steg märkta "Moälvens tillägg" är våra egna.  
 - \[SIBF-G\]: Svensk Innebandy, *Spel- och spelarutvecklingsplan grön nivå* 2025. [https://innebandy.se/utveckling/spel-och-spelarutvecklingsplan](https://innebandy.se/utveckling/spel-och-spelarutvecklingsplan)  
