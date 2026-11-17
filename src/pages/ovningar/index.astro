@@ -7,6 +7,22 @@ import { nivaer } from '../../lib/nivaer';
 
 const kort = (await getCollection('ovningar')).sort((a, b) => a.data.nr - b.data.nr);
 const bank = (await getEntry('ovningsbank', 'index'))!;
+// "M1, M3" blir en tagg per princip. Intervall som U1–U3 skrivs ut, text i parentes tas bort och "alla (…)" blir "Alla".
+function principer(text?: string): string[] {
+	if (!text) return [];
+	if (/^alla/i.test(text)) return ['Alla'];
+	const utanParentes = text.replace(/\([^)]*\)/g, '');
+	const koder: string[] = [];
+	for (const del of utanParentes.split(',')) {
+		const intervall = del.trim().match(/^([MU])(\d)\s*[–-]\s*(?:[MU])?(\d)$/);
+		if (intervall) {
+			for (let n = Number(intervall[2]); n <= Number(intervall[3]); n++) koder.push(`${intervall[1]}${n}`);
+		} else if (/^[MU]\d$/.test(del.trim())) {
+			koder.push(del.trim());
+		}
+	}
+	return koder;
+}
 const { Content } = await render(bank);
 ---
 
@@ -42,10 +58,9 @@ const { Content } = await render(bank);
 							<span class="ex-meta">{k.data.tema}</span>
 							<span class="ex-tags">
 								<span class={`tag tag-${k.data.niva}`}>{nivaer.find((n) => n.key === k.data.niva)!.namn.replace(' nivå', '')}</span>
-								{k.data.princip && <span class="tag">{k.data.princip}</span>}
+								{principer(k.data.princip).map((kod) => <span class="tag">{kod}</span>)}
 								{k.data.typ === 'alternativ' && <span class="tag tag-muted">Alternativ</span>}
 							</span>
-							{k.data.roll && k.data.typ === 'sasongsplan' && <span class="ex-role">{k.data.roll}</span>}
 						</a>
 					</li>
 				))
