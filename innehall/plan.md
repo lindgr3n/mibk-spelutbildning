@@ -276,7 +276,7 @@ Allt om hur vi tränar och spelar på varje nivå – spelidén på nivån, foku
 
 ### Blå nivå, 9–12 år: Jag, du och bollen
 - Lära sig träna. Tekniken växer och kompisen kommer in i spelet: passa, ta emot och göra sig spelbar.  
-- Här börjar vi arbeta med Bredd till djup (M2).  
+- Här börjar vi arbeta med principen Bredd till djup (M2).  
 - Matcher i 4 mot 4 med målvakt, fortfarande utan resultat och tabeller.  
 - Fokusområden: utespelare Ta bollen framåt (3), Spelbarhet (4) och Vinna boll (7). Målvakt Bollhantering (1), Utkast (3), Positionering (5) och Kommunikation (6) [[10]](#källor).  
 - Läs mer: [Blå nivå – Jag, du och bollen](/nivaer/bla/)
